@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T19:13:40.174510+08:00",
-  "total_titles_processed": 1341,
+  "generated_at": "2026-01-01T20:28:17.391009+08:00",
+  "total_titles_processed": 1390,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时45分 ~ 16时20分]"
+        },
+        {
+          "title": "展望半导体2026三大关键词：存储、AI、国产化",
+          "url": "https://www.cls.cn/detail/2245258",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时22分 ~ 20时28分]"
         },
         {
           "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
@@ -68,11 +82,12 @@
             9,
             8,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时11分 ~ 19时13分]"
+          "appearance_count": 15,
+          "time_info": "[09时11分 ~ 20时28分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -82,8 +97,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时45分 ~ 19时13分]"
+          "appearance_count": 14,
+          "time_info": "[11时45分 ~ 20时28分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -93,8 +108,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时45分 ~ 19时13分]"
+          "appearance_count": 14,
+          "time_info": "[11时45分 ~ 20时28分]"
         },
         {
           "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
@@ -107,19 +122,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时17分 ~ 07时14分]"
-        },
-        {
-          "title": "展望半导体2026三大关键词：存储、AI、国产化",
-          "url": "https://www.cls.cn/detail/2245258",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时22分 ~ 19时13分]"
         },
         {
           "title": "2026年全球经济十大悬念：AI泡沫会破吗？黄金会否冲破5000？泽连斯基会妥协吗?",
@@ -143,8 +145,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时18分 ~ 19时13分]"
+          "appearance_count": 6,
+          "time_info": "[17时18分 ~ 20时28分]"
         },
         {
           "title": "法国总统马克龙：呼吁欧洲在AI和量子计算技术领域实现独立。",
