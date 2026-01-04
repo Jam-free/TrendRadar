@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T13:21:04.215112+08:00",
-  "total_titles_processed": 972,
+  "generated_at": "2026-01-04T14:21:51.004775+08:00",
+  "total_titles_processed": 1029,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "AI与电力、新药研发、中国经济复苏.....一文读懂高盛行研团队2026年十大投资主题",
@@ -29,11 +29,12 @@
             7,
             5,
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 13时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时16分 ~ 14时21分]"
         },
         {
           "title": "央视点名AI魔改乱象",
@@ -43,8 +44,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时44分 ~ 13时21分]"
+          "appearance_count": 6,
+          "time_info": "[11时44分 ~ 14时21分]"
         },
         {
           "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
@@ -103,6 +104,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
+        },
+        {
+          "title": "几毛钱学的AI魔改1条能赚上千",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%87%A0%E6%AF%9B%E9%92%B1%E5%AD%A6%E7%9A%84AI%E9%AD%94%E6%94%B91%E6%9D%A1%E8%83%BD%E8%B5%9A%E4%B8%8A%E5%8D%83%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         }
       ]
     }
