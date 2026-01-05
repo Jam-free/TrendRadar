@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-01-05T07:14:10.516199+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2026-01-05T09:11:29.479090+08:00",
+  "total_titles_processed": 652,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "年度抽象AI作品Top10",
           "url": "https://search.bilibili.com/all?keyword=%E5%B9%B4%E5%BA%A6%E6%8A%BD%E8%B1%A1AI%E4%BD%9C%E5%93%81Top10",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 07时14分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 09时11分]"
         },
         {
           "title": "腾讯回应用户被元宝AI辱骂",
@@ -40,8 +41,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时11分 ~ 07时14分]"
+          "appearance_count": 9,
+          "time_info": "[03时11分 ~ 09时11分]"
+        },
+        {
+          "title": "网传元宝 AI 辱骂用户，腾讯称是模型异常输出，非人工回复，技术上如何分析？其他 AI 也可能这样吗？",
+          "url": "https://www.zhihu.com/question/1991228705045968330",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
         },
         {
           "title": "央视点名AI魔改乱象",
@@ -49,11 +61,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             29,
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时12分 ~ 06时14分]"
+          "appearance_count": 4,
+          "time_info": "[05时12分 ~ 09时11分]"
+        },
+        {
+          "title": "AI应用风向标来了？CES+通义硬件展即将举行 这些品牌有望吸睛",
+          "url": "https://www.cls.cn/detail/2247232",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
         }
       ]
     }
