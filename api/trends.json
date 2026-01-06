@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T15:21:03.154810+08:00",
-  "total_titles_processed": 1363,
+  "generated_at": "2026-01-06T16:21:33.574781+08:00",
+  "total_titles_processed": 1466,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时19分 ~ 15时21分]"
+          "appearance_count": 22,
+          "time_info": "[00时19分 ~ 16时21分]"
         },
         {
           "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
@@ -31,8 +31,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时14分 ~ 15时21分]"
+          "appearance_count": 11,
+          "time_info": "[07时14分 ~ 16时21分]"
         },
         {
           "title": "B站AI大赛开始了",
@@ -75,11 +75,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时23分 ~ 15时21分]"
+          "appearance_count": 9,
+          "time_info": "[11时23分 ~ 16时21分]"
         },
         {
           "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
@@ -94,6 +95,17 @@
           "time_info": "[09时05分 ~ 14时23分]"
         },
         {
+          "title": "马斯克旗下AI被指涉色情 欧盟等多方监管机构介入",
+          "url": "https://flash.jin10.com/detail/20260106155623997800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "为何说AI抢走了你的内存",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E8%AF%B4AI%E6%8A%A2%E8%B5%B0%E4%BA%86%E4%BD%A0%E7%9A%84%E5%86%85%E5%AD%98",
           "source": "bilibili 热搜",
@@ -103,6 +115,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
+        },
+        {
+          "title": "阿里Qoder升级补全功能，AI代码采纳率提升65%",
+          "url": "https://wallstreetcn.com/livenews/3031515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "英伟达发布首个专为自动驾驶汽车设计的“推理”AI",
@@ -142,6 +165,18 @@
           "time_info": "[13时19分 ~ 15时21分]"
         },
         {
+          "title": "AirPods Pro3马年特别款开箱",
+          "url": "https://www.douyin.com/hot/2358692",
+          "source": "抖音",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时20分 ~ 16时21分]"
+        },
+        {
           "title": "OpenAI家务机器人售价2万美元",
           "url": "https://wallstreetcn.com/livenews/3031066",
           "source": "华尔街见闻-快讯",
@@ -153,17 +188,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时16分 ~ 05时15分]"
-        },
-        {
-          "title": "AirPods Pro3马年特别款开箱",
-          "url": "https://www.douyin.com/hot/2358692",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时20分 ~ 15时21分]"
         },
         {
           "title": "抖音：2025年AI兴趣用户增长翻倍",
@@ -361,7 +385,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
