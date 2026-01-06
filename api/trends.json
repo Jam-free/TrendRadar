@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T17:20:43.669013+08:00",
-  "total_titles_processed": 1572,
+  "generated_at": "2026-01-06T18:16:30.098992+08:00",
+  "total_titles_processed": 1657,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
@@ -76,11 +76,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时23分 ~ 17时20分]"
+          "appearance_count": 11,
+          "time_info": "[11时23分 ~ 18时16分]"
         },
         {
           "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
@@ -106,6 +107,17 @@
           "time_info": "16时21分"
         },
         {
+          "title": "AI热潮抵消地缘政治担忧 欧元信用违约互换成本维持低位",
+          "url": "https://flash.jin10.com/detail/20260106175355647800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "为何说AI抢走了你的内存",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E8%AF%B4AI%E6%8A%A2%E8%B5%B0%E4%BA%86%E4%BD%A0%E7%9A%84%E5%86%85%E5%AD%98",
           "source": "bilibili 热搜",
@@ -128,15 +140,16 @@
           "time_info": "16时21分"
         },
         {
-          "title": "20多个百大齐聚B站AI大赛",
-          "url": "https://search.bilibili.com/all?keyword=20%E5%A4%9A%E4%B8%AA%E7%99%BE%E5%A4%A7%E9%BD%90%E8%81%9AB%E7%AB%99AI%E5%A4%A7%E8%B5%9B",
-          "source": "bilibili 热搜",
+          "title": "AirPods Pro3马年特别款开箱",
+          "url": "https://www.douyin.com/hot/2358692",
+          "source": "抖音",
           "ranks": [
-            5
+            10,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时20分 ~ 18时16分]"
         },
         {
           "title": "英伟达发布首个专为自动驾驶汽车设计的“推理”AI",
@@ -163,16 +176,16 @@
           "time_info": "[06时15分 ~ 07时14分]"
         },
         {
-          "title": "AirPods Pro3马年特别款开箱",
-          "url": "https://www.douyin.com/hot/2358692",
-          "source": "抖音",
+          "title": "20多个百大齐聚B站AI大赛",
+          "url": "https://search.bilibili.com/all?keyword=20%E5%A4%9A%E4%B8%AA%E7%99%BE%E5%A4%A7%E9%BD%90%E8%81%9AB%E7%AB%99AI%E5%A4%A7%E8%B5%9B",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            7
+            5,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时20分 ~ 17时20分]"
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时16分]"
         },
         {
           "title": "2026 年，JetBrains 的 IDE 要被 Cursor 一类的 AI IDE 革命了吗？",
@@ -199,6 +212,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时16分 ~ 05时15分]"
+        },
+        {
+          "title": "字节豆包AI眼镜第一代总规划数量约10万台，采用高通AR1芯片",
+          "url": "https://www.cls.cn/detail/2248752",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时16分]"
         },
         {
           "title": "抖音：2025年AI兴趣用户增长翻倍",
@@ -300,17 +325,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
-        },
-        {
-          "title": "字节豆包AI眼镜第一代总规划数量约10万台，采用高通AR1芯片",
-          "url": "https://www.cls.cn/detail/2248752",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
         },
         {
           "title": "英伟达推出适用于自动驾驶汽车和机器人的全新AI工具",
@@ -484,7 +498,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         }
