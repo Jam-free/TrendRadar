@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T15:20:20.348664+08:00",
-  "total_titles_processed": 1359,
+  "generated_at": "2026-01-08T16:21:08.736410+08:00",
+  "total_titles_processed": 1471,
   "failed_sources": [],
   "trends": [
     {
@@ -46,6 +46,19 @@
           "time_info": "[00时20分 ~ 09时05分]"
         },
         {
+          "title": "AI引爆存储芯片涨价潮！三星Q4营业利润飙升208% 创历史新高",
+          "url": "https://www.cls.cn/detail/2251233",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时24分 ~ 16时21分]"
+        },
+        {
           "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
           "url": "https://www.cls.cn/detail/2250745",
           "source": "财联社热门",
@@ -56,19 +69,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时20分 ~ 07时14分]"
-        },
-        {
-          "title": "AI引爆存储芯片涨价潮！三星Q4营业利润飙升208% 创历史新高",
-          "url": "https://www.cls.cn/detail/2251233",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 15时20分]"
         },
         {
           "title": "AI引爆存储市场：三星电子利润创历史新高",
@@ -206,7 +206,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -261,7 +261,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         }
