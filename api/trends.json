@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T22:20:00.982668+08:00",
-  "total_titles_processed": 2079,
+  "generated_at": "2026-01-08T23:19:04.901248+08:00",
+  "total_titles_processed": 2178,
   "failed_sources": [],
   "trends": [
     {
@@ -59,6 +59,21 @@
           "time_info": "[11时24分 ~ 17时22分]"
         },
         {
+          "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
+          "url": "https://www.cls.cn/detail/2251902",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时17分 ~ 23时19分]"
+        },
+        {
           "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
           "url": "https://www.cls.cn/detail/2250745",
           "source": "财联社热门",
@@ -69,20 +84,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时20分 ~ 07时14分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
-          "url": "https://www.cls.cn/detail/2251902",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时17分 ~ 22时20分]"
         },
         {
           "title": "AI引爆存储市场：三星电子利润创历史新高",
@@ -102,7 +103,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
