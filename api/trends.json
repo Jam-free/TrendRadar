@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T12:29:16.520195+08:00",
-  "total_titles_processed": 1010,
+  "generated_at": "2026-01-10T13:16:46.928757+08:00",
+  "total_titles_processed": 1054,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 12时29分]"
+          "appearance_count": 16,
+          "time_info": "[00时19分 ~ 13时16分]"
         },
         {
           "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
@@ -122,8 +122,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 12时29分]"
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 13时16分]"
         },
         {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
@@ -135,8 +135,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时14分 ~ 12时29分]"
+          "appearance_count": 7,
+          "time_info": "[07时14分 ~ 13时16分]"
         },
         {
           "title": "OpenAI和软银向合作伙伴SB Energy投资10亿美元。",
@@ -192,11 +192,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 12时29分]"
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 13时16分]"
         },
         {
           "title": "核能助推AI革命：Meta签下巨额订单 Oklo与Vistra股价齐飙升",
