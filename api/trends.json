@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T18:14:33.667173+08:00",
-  "total_titles_processed": 1363,
+  "generated_at": "2026-01-10T19:12:38.074308+08:00",
+  "total_titles_processed": 1416,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时18分 ~ 18时14分]"
+          "appearance_count": 11,
+          "time_info": "[11时18分 ~ 19时12分]"
         },
         {
           "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
@@ -72,8 +72,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时14分 ~ 18时14分]"
+          "appearance_count": 13,
+          "time_info": "[07时14分 ~ 19时12分]"
         },
         {
           "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
@@ -208,6 +208,18 @@
           "time_info": "[11时19分 ~ 14时20分]"
         },
         {
+          "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32349975",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 19时12分]"
+        },
+        {
           "title": "AI怕你在婚礼上冷",
           "url": "https://www.douyin.com/hot/2363223",
           "source": "抖音",
@@ -218,17 +230,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时14分 ~ 18时14分]"
-        },
-        {
-          "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32349975",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
         },
         {
           "title": "核能助推AI革命：Meta签下巨额订单 Oklo与Vistra股价齐飙升",
