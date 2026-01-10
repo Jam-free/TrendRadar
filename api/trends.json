@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T15:14:38.624970+08:00",
-  "total_titles_processed": 1163,
+  "generated_at": "2026-01-10T16:18:27.596481+08:00",
+  "total_titles_processed": 1232,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时19分 ~ 15时14分]"
+          "appearance_count": 19,
+          "time_info": "[00时19分 ~ 16时18分]"
+        },
+        {
+          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
+          "url": "https://wallstreetcn.com/articles/3762982",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时14分 ~ 16时18分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -52,11 +66,12 @@
           "ranks": [
             7,
             4,
-            5
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时18分 ~ 15时14分]"
+          "appearance_count": 8,
+          "time_info": "[11时18分 ~ 16时18分]"
         },
         {
           "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
@@ -102,20 +117,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时19分 ~ 09时03分]"
-        },
-        {
-          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
-          "url": "https://wallstreetcn.com/articles/3762982",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时14分 ~ 15时14分]"
         },
         {
           "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
