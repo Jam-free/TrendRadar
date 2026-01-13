@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T02:23:23.315183+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2026-01-14T03:16:16.676298+08:00",
+  "total_titles_processed": 499,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时16分]"
         },
         {
           "title": "技术拆解疑似马斯克AI账号",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时16分]"
         },
         {
           "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时16分]"
         },
         {
           "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
@@ -50,8 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时16分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -63,8 +63,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时16分]"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -74,8 +74,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时16分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -83,11 +83,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时16分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -95,11 +96,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             19,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 03时16分]"
         },
         {
           "title": "马斯克：电力是AI时代唯一的“军备”",
@@ -163,7 +165,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         }
