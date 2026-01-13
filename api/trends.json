@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T04:17:22.028541+08:00",
-  "total_titles_processed": 545,
+  "generated_at": "2026-01-14T05:15:22.227487+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 04时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 05时15分]"
         },
         {
           "title": "技术拆解疑似马斯克AI账号",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 04时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 05时15分]"
         },
         {
           "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
@@ -48,11 +48,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 04时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 05时15分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -62,11 +63,12 @@
             15,
             13,
             12,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 04时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 05时15分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -78,8 +80,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 04时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 05时15分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -88,11 +90,12 @@
           "ranks": [
             19,
             15,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 05时15分]"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
