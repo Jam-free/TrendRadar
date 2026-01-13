@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T06:15:54.179877+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2026-01-14T07:15:14.417295+08:00",
+  "total_titles_processed": 714,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 07时15分]"
         },
         {
           "title": "技术拆解疑似马斯克AI账号",
@@ -25,11 +25,12 @@
           "ranks": [
             4,
             1,
-            3
+            3,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 07时15分]"
         },
         {
           "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
@@ -51,11 +52,12 @@
             10,
             7,
             11,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 07时15分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -67,25 +69,12 @@
             12,
             17,
             19,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 06时15分]"
-        },
-        {
-          "title": "中国核聚变装置融入AI技术",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E8%A3%85%E7%BD%AE%E8%9E%8D%E5%85%A5AI%E6%8A%80%E6%9C%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            23,
-            22,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 07时15分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -99,7 +88,21 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 07时15分]"
+        },
+        {
+          "title": "中国核聚变装置融入AI技术",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E8%A3%85%E7%BD%AE%E8%9E%8D%E5%85%A5AI%E6%8A%80%E6%9C%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            23,
+            22,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
           "time_info": "[00时22分 ~ 06时15分]"
         },
         {
@@ -142,7 +145,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
         },
