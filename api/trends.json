@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T22:19:55.703769+08:00",
-  "total_titles_processed": 2128,
+  "generated_at": "2026-01-14T23:19:27.929918+08:00",
+  "total_titles_processed": 2231,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -17,19 +17,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时22分 ~ 07时15分]"
-        },
-        {
-          "title": "92胜率屠榜,老马AI杀穿韩服",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时21分 ~ 22时19分]"
         },
         {
           "title": "技术拆解疑似马斯克AI账号",
@@ -48,6 +35,20 @@
           "time_info": "[00时22分 ~ 12时42分]"
         },
         {
+          "title": "92胜率屠榜,老马AI杀穿韩服",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时21分 ~ 23时19分]"
+        },
+        {
           "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
           "source": "澎湃新闻",
@@ -61,8 +62,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时31分 ~ 22时19分]"
+          "appearance_count": 18,
+          "time_info": "[11时31分 ~ 23时19分]"
         },
         {
           "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
@@ -74,8 +75,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时21分 ~ 22时19分]"
+          "appearance_count": 11,
+          "time_info": "[16时21分 ~ 23时19分]"
         },
         {
           "title": "国内首起 AI 涉黄案开发者获刑，开发者需要承担哪些法律责任？用户使用此类 AI 需担责吗？",
@@ -186,11 +187,12 @@
             18,
             28,
             23,
-            30
+            30,
+            25
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时22分 ~ 22时19分]"
+          "appearance_count": 22,
+          "time_info": "[00时22分 ~ 23时19分]"
         },
         {
           "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
@@ -407,7 +409,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -509,6 +511,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
+        },
+        {
+          "title": "浙江用AI抓出贪官",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E7%94%A8AI%E6%8A%93%E5%87%BA%E8%B4%AA%E5%AE%98%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         }
       ]
     }
