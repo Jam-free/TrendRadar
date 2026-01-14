@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T17:23:05.989411+08:00",
-  "total_titles_processed": 1608,
+  "generated_at": "2026-01-14T18:18:17.176782+08:00",
+  "total_titles_processed": 1696,
   "failed_sources": [],
   "trends": [
     {
@@ -59,8 +59,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时31分 ~ 17时23分]"
+          "appearance_count": 11,
+          "time_info": "[11时31分 ~ 18时18分]"
         },
         {
           "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
@@ -101,8 +101,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时31分 ~ 17时23分]"
+          "appearance_count": 11,
+          "time_info": "[11时31分 ~ 18时18分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -137,11 +137,23 @@
             26,
             16,
             18,
-            28
+            28,
+            23
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 17时23分]"
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 18时18分]"
+        },
+        {
+          "title": "92胜率屠榜,老马AI杀穿韩服",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时21分 ~ 18时18分]"
         },
         {
           "title": "Meta拟将AI智能眼镜产能翻倍 年产量或直冲2000万副",
@@ -157,6 +169,22 @@
           "time_info": "[09时07分 ~ 14时23分]"
         },
         {
+          "title": "韩服登顶账号是AI操作的吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            28,
+            11,
+            14,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时18分 ~ 18时18分]"
+        },
+        {
           "title": "中国核聚变装置融入AI技术",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E8%A3%85%E7%BD%AE%E8%9E%8D%E5%85%A5AI%E6%8A%80%E6%9C%AF",
           "source": "bilibili 热搜",
@@ -169,32 +197,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时22分 ~ 06时15分]"
-        },
-        {
-          "title": "92胜率屠榜,老马AI杀穿韩服",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时21分 ~ 17时23分]"
-        },
-        {
-          "title": "韩服登顶账号是AI操作的吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            28,
-            11,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时18分 ~ 17时23分]"
         },
         {
           "title": "花旗：快手旗下可灵AI的12月收入高于预期 预示公司今年营收前景稳健",
@@ -239,8 +241,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时21分 ~ 17时23分]"
+          "appearance_count": 4,
+          "time_info": "[16时21分 ~ 18时18分]"
         },
         {
           "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
@@ -248,22 +250,24 @@
           "source": "知乎",
           "ranks": [
             19,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时21分 ~ 17时23分]"
+          "appearance_count": 4,
+          "time_info": "[16时21分 ~ 18时18分]"
         },
         {
           "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
           "url": "https://www.cls.cn/detail/2257499",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 17时23分]"
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 18时18分]"
         },
         {
           "title": "马斯克：电力是AI时代唯一的“军备”",
@@ -316,7 +320,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
