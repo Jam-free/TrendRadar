@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T17:22:22.544893+08:00",
-  "total_titles_processed": 1667,
+  "generated_at": "2026-01-15T18:16:56.660441+08:00",
+  "total_titles_processed": 1752,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时34分 ~ 17时22分]"
+          "appearance_count": 11,
+          "time_info": "[12时34分 ~ 18时16分]"
         },
         {
           "title": "阿里千问将上线“AI生活助理”，可一句话点外卖",
@@ -100,8 +101,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时34分 ~ 17时22分]"
+          "appearance_count": 11,
+          "time_info": "[12时34分 ~ 18时16分]"
         },
         {
           "title": "AI查贪官准确率相当高",
@@ -130,8 +131,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时34分 ~ 17时22分]"
+          "appearance_count": 11,
+          "time_info": "[12时34分 ~ 18时16分]"
         },
         {
           "title": "92胜率屠榜,老马AI杀穿韩服",
@@ -143,11 +144,12 @@
             17,
             18,
             19,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时21分 ~ 17时22分]"
+          "appearance_count": 23,
+          "time_info": "[00时21分 ~ 18时16分]"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
@@ -164,11 +166,26 @@
             15,
             17,
             30,
-            28
+            28,
+            18
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时21分 ~ 17时22分]"
+          "appearance_count": 23,
+          "time_info": "[00时21分 ~ 18时16分]"
+        },
+        {
+          "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
+          "url": "https://www.cls.cn/detail/2258599",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时22分 ~ 18时16分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -184,19 +201,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时21分 ~ 07时13分]"
-        },
-        {
-          "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
-          "url": "https://www.cls.cn/detail/2258599",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时22分 ~ 17时22分]"
         },
         {
           "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
@@ -233,6 +237,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "摄影比赛第一名疑似 AI 照片，骗过 5 位专业评委，如何评价？这种比赛能引入识别 AI 的技术吗？",
+          "url": "https://www.zhihu.com/question/1993756665422509304",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "如何评价 Anthropic 发布通用 AI 代理 Claude Cowork，目前实际使用怎么样？",
@@ -373,6 +388,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
+          "url": "https://www.cls.cn/detail/2259059",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "OpenAI与Cerebras达成百亿美元算力合作",
