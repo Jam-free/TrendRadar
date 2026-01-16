@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T20:29:27.021687+08:00",
-  "total_titles_processed": 1838,
+  "generated_at": "2026-01-16T21:34:30.509905+08:00",
+  "total_titles_processed": 1950,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
@@ -76,8 +76,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时34分 ~ 20时29分]"
+          "appearance_count": 11,
+          "time_info": "[12时34分 ~ 21时34分]"
         },
         {
           "title": "复盘苹果AI为何转投谷歌",
@@ -213,6 +213,19 @@
           "time_info": "[11时25分 ~ 15时20分]"
         },
         {
+          "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
+          "url": "https://www.cls.cn/detail/2260348",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时16分 ~ 21时34分]"
+        },
+        {
           "title": "市场延续震荡分化，AI应用再陷调整，商业航天回流强度值得关注",
           "url": "https://www.cls.cn/detail/2259812",
           "source": "财联社热门",
@@ -264,18 +277,6 @@
           "time_info": "[00时26分 ~ 02时27分]"
         },
         {
-          "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
-          "url": "https://www.cls.cn/detail/2260348",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时16分 ~ 20时29分]"
-        },
-        {
           "title": "铜资源争夺加剧！力拓将向亚马逊AI数据中心供应铜",
           "url": "https://www.cls.cn/detail/2259623",
           "source": "财联社热门",
@@ -287,6 +288,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时06分 ~ 12时34分]"
+        },
+        {
+          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
+          "url": "https://wallstreetcn.com/articles/3763449",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 21时34分]"
+        },
+        {
+          "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
+          "url": "https://www.cls.cn/detail/2260421",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 21时34分]"
         },
         {
           "title": "【每日收评】三大指数震荡整理涨跌互现，单日成交额萎缩超万亿，商业航天、AI应用端遭重挫",
@@ -322,30 +348,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时25分 ~ 12时34分]"
-        },
-        {
-          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
-          "url": "https://wallstreetcn.com/articles/3763449",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 20时29分]"
-        },
-        {
-          "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
-          "url": "https://www.cls.cn/detail/2260421",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 20时29分]"
         },
         {
           "title": "谷歌母公司 Alphabet 的市值正式突破 4 万亿美元，其在这波 AI 浪潮中做对了什么？",
@@ -483,6 +485,17 @@
           "time_info": "13时20分"
         },
         {
+          "title": "天理会不会是旅行者兄妹飞船的 ai？",
+          "url": "https://www.zhihu.com/question/1994797924039800329",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "华尔街六大行裁员创十年新高 AI转型与效率至上成主旋律",
           "url": "https://flash.jin10.com/detail/20260116004856986800",
           "source": "金十数据",
@@ -533,7 +546,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -544,7 +557,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
