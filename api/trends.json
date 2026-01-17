@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T16:18:07.296137+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2026-01-17T17:14:39.115423+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
@@ -47,6 +47,19 @@
           "time_info": "[00时20分 ~ 09时03分]"
         },
         {
+          "title": "胜宏科技2025年业绩预增260.35%-295.00%，AI算力需求推动PCB业务爆发 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3763470",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时03分 ~ 17时14分]"
+        },
+        {
           "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
           "url": "https://www.cls.cn/detail/2260348",
           "source": "财联社热门",
@@ -57,19 +70,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时20分 ~ 05时14分]"
-        },
-        {
-          "title": "胜宏科技2025年业绩预增260.35%-295.00%，AI算力需求推动PCB业务爆发 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3763470",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时03分 ~ 16时18分]"
         },
         {
           "title": "美政府推动科技巨头为AI用电买单",
