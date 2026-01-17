@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T17:14:39.115423+08:00",
-  "total_titles_processed": 1194,
+  "generated_at": "2026-01-17T18:14:09.772915+08:00",
+  "total_titles_processed": 1259,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
@@ -53,11 +53,12 @@
           "ranks": [
             8,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时03分 ~ 17时14分]"
+          "appearance_count": 12,
+          "time_info": "[09时03分 ~ 18时14分]"
         },
         {
           "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
@@ -213,6 +214,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时20分 ~ 01时20分]"
+        },
+        {
+          "title": "Anthropic刚发布了一份「AI抢饭碗报告」：学历越高越「被抢」",
+          "url": "https://wallstreetcn.com/articles/3763484",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 18时14分]"
         },
         {
           "title": "变现压力下的“最后手段” OpenAI开启ChatGPT广告测试",
