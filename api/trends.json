@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-20T15:22:48.741501+08:00",
-  "total_titles_processed": 1298,
+  "generated_at": "2026-01-20T16:22:37.960073+08:00",
+  "total_titles_processed": 1406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
+          "url": "https://www.cls.cn/detail/2262946",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时28分 ~ 16时22分]"
+        },
         {
           "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
           "url": "https://www.cls.cn/detail/2262334",
@@ -31,18 +44,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时05分 ~ 15时22分]"
-        },
-        {
-          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
-          "url": "https://www.cls.cn/detail/2262946",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时28分 ~ 15时22分]"
         },
         {
           "title": "“蝙蝠侠”站队“大空头”：AI相关股票被严重高估",
@@ -180,6 +181,18 @@
           "time_info": "[00时21分 ~ 01时19分]"
         },
         {
+          "title": "外媒谈AI竞争：中国会笑到最后",
+          "url": "https://www.douyin.com/hot/2373802",
+          "source": "抖音",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 16时22分]"
+        },
+        {
           "title": "澎湃AI早新闻丨2026年1月19日",
           "url": "https://m.thepaper.cn/newsDetail_forward_32413842",
           "source": "澎湃新闻",
@@ -213,6 +226,17 @@
           "time_info": "14时25分"
         },
         {
+          "title": "关税、热战、AI！世界目光齐聚达沃斯 特朗普携“史上最大代表团”参会",
+          "url": "https://www.cls.cn/detail/2263371",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "在 DeepMind 或 OpenAI 工作是什么体验？",
           "url": "https://www.zhihu.com/question/63359251",
           "source": "知乎",
@@ -244,17 +268,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
-        },
-        {
-          "title": "外媒谈AI竞争：中国会笑到最后",
-          "url": "https://www.douyin.com/hot/2373802",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
         },
         {
           "title": "OpenAI首席财务官：2025年年化营收突破200亿美元",
