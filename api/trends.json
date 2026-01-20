@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T06:16:36.513627+08:00",
-  "total_titles_processed": 665,
+  "generated_at": "2026-01-21T07:15:45.495649+08:00",
+  "total_titles_processed": 703,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            29
+            29,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 06时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 07时15分]"
         },
         {
           "title": "惠誉：美国信用形势温和，AI、消费者、贸易问题都构成风险。",
