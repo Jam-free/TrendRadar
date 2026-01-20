@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T22:25:10.453993+08:00",
-  "total_titles_processed": 2024,
+  "generated_at": "2026-01-20T23:23:48.344006+08:00",
+  "total_titles_processed": 2114,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
@@ -351,6 +351,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "奥特曼的“印钞机”与“吞金兽”：OpenAI年化营收超200亿美元背后的豪赌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32417139",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "Randstad调查：五分之四的员工认为AI将影响工作岗位，Z世代最为担忧",
