@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T21:41:33.195818+08:00",
-  "total_titles_processed": 1990,
+  "generated_at": "2026-01-22T23:23:46.752636+08:00",
+  "total_titles_processed": 2114,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "图灵的猫回应预测韩服AI疑云",
@@ -61,11 +61,12 @@
             18,
             26,
             28,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 14时24分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 23时23分]"
         },
         {
           "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
@@ -135,6 +136,19 @@
           "time_info": "[01时48分 ~ 11时42分]"
         },
         {
+          "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
+          "url": "https://www.cls.cn/detail/2266641",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 23时23分]"
+        },
+        {
           "title": "黄仁勋谈AI如何改变经济",
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B0%88AI%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E7%BB%8F%E6%B5%8E",
           "source": "bilibili 热搜",
@@ -147,19 +161,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时42分 ~ 18时20分]"
-        },
-        {
-          "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
-          "url": "https://www.cls.cn/detail/2266641",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时41分]"
         },
         {
           "title": "黄仁勋放话：AI基建将会让电工、水管工拿六位数年薪",
@@ -187,6 +188,18 @@
           "time_info": "19时18分"
         },
         {
+          "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
+          "url": "https://wallstreetcn.com/articles/3763860",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时22分 ~ 23时23分]"
+        },
+        {
           "title": "白宫披露对AI的研究情况，以及对美国经济影响的研究。",
           "url": "https://wallstreetcn.com/livenews/3041411",
           "source": "华尔街见闻-快讯",
@@ -208,18 +221,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时42分 ~ 13时23分]"
-        },
-        {
-          "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
-          "url": "https://wallstreetcn.com/articles/3763860",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时22分 ~ 21时41分]"
         },
         {
           "title": "Grok AI引发争议后 马来西亚考虑修改社交媒体规则",
@@ -435,9 +436,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
+        },
+        {
+          "title": "传vivo叫停AI眼镜项目，官方暂无回应",
+          "url": "https://wallstreetcn.com/livenews/3042155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "黄仁勋：AI发展将带来大规模基建投资潮",
