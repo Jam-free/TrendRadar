@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T21:38:48.854949+08:00",
-  "total_titles_processed": 2070,
+  "generated_at": "2026-01-23T22:19:46.051708+08:00",
+  "total_titles_processed": 2135,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时07分 ~ 21时38分]"
+          "appearance_count": 16,
+          "time_info": "[09时07分 ~ 22时19分]"
         },
         {
           "title": "马斯克：美国AI发展遭电力“卡脖” 中国电力增长十分惊人！",
@@ -70,8 +70,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时20分 ~ 21时38分]"
+          "appearance_count": 10,
+          "time_info": "[15时20分 ~ 22时19分]"
         },
         {
           "title": "因家长用 AI 生成练习册，小学生组团给「千问」刷差评，怎样看待这一现象？反映出了哪些问题？",
@@ -80,11 +80,12 @@
           "ranks": [
             14,
             13,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时20分 ~ 21时38分]"
+          "appearance_count": 8,
+          "time_info": "[16时20分 ~ 22时19分]"
         },
         {
           "title": "Alphabet旗下谷歌公司提供新的选项，帮助用于把搜索结果个性化。 谷歌允许用户从谷歌旗下图像和Email等其他应用获取数据。",
@@ -145,6 +146,19 @@
           "time_info": "[04时19分 ~ 05时16分]"
         },
         {
+          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
+          "url": "https://www.zhihu.com/question/1997802145714569913",
+          "source": "知乎",
+          "ranks": [
+            19,
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时18分 ~ 22时19分]"
+        },
+        {
           "title": "AI需求爆棚但英特尔产能告急？CEO财报会坦言：我很失望！（附会议实录）",
           "url": "https://www.cls.cn/detail/2267399",
           "source": "财联社热门",
@@ -156,18 +170,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时20分 ~ 18时18分]"
-        },
-        {
-          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
-          "url": "https://www.zhihu.com/question/1997802145714569913",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时18分 ~ 21时38分]"
         },
         {
           "title": "咻咻满COS翻唱icantwait",
@@ -324,7 +326,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
