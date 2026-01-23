@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T11:28:08.125605+08:00",
-  "total_titles_processed": 1056,
+  "generated_at": "2026-01-23T12:37:16.233903+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时25分 ~ 07时15分]"
+        },
+        {
+          "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3763967",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时07分 ~ 12时37分]"
         },
         {
           "title": "Alphabet旗下谷歌公司提供新的选项，帮助用于把搜索结果个性化。 谷歌允许用户从谷歌旗下图像和Email等其他应用获取数据。",
@@ -63,18 +75,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
-        },
-        {
-          "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3763967",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时07分 ~ 11时28分]"
         },
         {
           "title": "AI电力需求激增，加速美国得州及中西部碳捕集产业发展",
