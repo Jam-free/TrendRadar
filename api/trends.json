@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T13:22:58.741447+08:00",
-  "total_titles_processed": 1237,
+  "generated_at": "2026-01-23T14:23:48.133876+08:00",
+  "total_titles_processed": 1342,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 13时22分]"
+          "appearance_count": 6,
+          "time_info": "[09时07分 ~ 14时23分]"
         },
         {
           "title": "Alphabet旗下谷歌公司提供新的选项，帮助用于把搜索结果个性化。 谷歌允许用户从谷歌旗下图像和Email等其他应用获取数据。",
@@ -138,6 +138,18 @@
           "time_info": "[03时20分 ~ 04时19分]"
         },
         {
+          "title": "AI 将答案、解题思路全喂到孩子嘴边，孩子还会去思考吗？长期用 AI 孩子会变笨吗？",
+          "url": "https://www.zhihu.com/question/1997937872972505781",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时23分]"
+        },
+        {
           "title": "王玉雯陈星旭撒糖给AI上了一课",
           "url": "https://www.douyin.com/hot/2376144",
           "source": "抖音",
@@ -158,6 +170,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "马斯克：美国AI发展遭电力“卡脖” 中国电力增长十分惊人！",
+          "url": "https://www.cls.cn/detail/2267470",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "谷歌：在谷歌搜索中将个人智能扩展至AI模式。",
@@ -204,15 +227,15 @@
           "time_info": "03时20分"
         },
         {
-          "title": "AI 将答案、解题思路全喂到孩子嘴边，孩子还会去思考吗？长期用 AI 孩子会变笨吗？",
-          "url": "https://www.zhihu.com/question/1997937872972505781",
-          "source": "知乎",
+          "title": "马来西亚通信监管机构：在社交媒体平台X采取额外安全措施后，对Grok AI的访问已恢复。",
+          "url": "https://flash.jin10.com/detail/20260123131650409800",
+          "source": "金十数据",
           "ranks": [
-            20
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时22分"
+          "time_info": "14时23分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：上个月API业务新增了约10亿美元的年度经常性收入(ARR)。",
