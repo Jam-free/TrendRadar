@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T15:17:14.106117+08:00",
-  "total_titles_processed": 900,
+  "generated_at": "2026-01-25T16:19:37.221790+08:00",
+  "total_titles_processed": 952,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时16分 ~ 15时17分]"
+          "appearance_count": 18,
+          "time_info": "[00时16分 ~ 16时19分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -71,11 +71,12 @@
             16,
             7,
             2,
-            1
+            1,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 15时17分]"
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 16时19分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -112,8 +113,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时46分 ~ 15时17分]"
+          "appearance_count": 6,
+          "time_info": "[12时46分 ~ 16时19分]"
         },
         {
           "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
@@ -121,11 +122,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时22分 ~ 15时17分]"
+          "appearance_count": 4,
+          "time_info": "[14时22分 ~ 16时19分]"
         },
         {
           "title": "OpenAI 翁家翌在 WhynotTV 的采访中，关于后训练、 infra 等观点中，哪些令你受到启发？",
