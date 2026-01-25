@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T18:15:19.944014+08:00",
-  "total_titles_processed": 1066,
+  "generated_at": "2026-01-25T19:12:51.003829+08:00",
+  "total_titles_processed": 1125,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时16分 ~ 18时15分]"
+          "appearance_count": 21,
+          "time_info": "[00时16分 ~ 19时12分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -47,8 +47,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时48分 ~ 18时15分]"
+          "appearance_count": 10,
+          "time_info": "[11时48分 ~ 19时12分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -68,18 +68,6 @@
           "time_info": "[00时16分 ~ 07时14分]"
         },
         {
-          "title": "苹果一个月内多次促销 iPhone Air大降2500元",
-          "url": "https://flash.jin10.com/detail/20260124215336107800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 09时13分]"
-        },
-        {
           "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
           "url": "https://www.cls.cn/detail/2268582",
           "source": "财联社热门",
@@ -87,8 +75,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时46分 ~ 18时15分]"
+          "appearance_count": 9,
+          "time_info": "[12时46分 ~ 19时12分]"
         },
         {
           "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
@@ -101,8 +89,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时22分 ~ 18时15分]"
+          "appearance_count": 7,
+          "time_info": "[14时22分 ~ 19时12分]"
+        },
+        {
+          "title": "苹果一个月内多次促销 iPhone Air大降2500元",
+          "url": "https://flash.jin10.com/detail/20260124215336107800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 09时13分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -140,8 +140,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 18时15分]"
+          "appearance_count": 3,
+          "time_info": "[17时15分 ~ 19时12分]"
         },
         {
           "title": "OpenAI 翁家翌在 WhynotTV 的采访中，关于后训练、 infra 等观点中，哪些令你受到启发？",
