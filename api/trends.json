@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T21:41:41.233908+08:00",
-  "total_titles_processed": 1955,
+  "generated_at": "2026-01-27T22:23:55.429086+08:00",
+  "total_titles_processed": 2023,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "连线丨暴风雪肆虐美国24州，中国留学生直呼罕见：大雪灌入地铁像AI画面",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时42分 ~ 21时41分]"
+          "appearance_count": 16,
+          "time_info": "[11时42分 ~ 22时23分]"
         },
         {
           "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
@@ -42,8 +42,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时42分 ~ 21时41分]"
+          "appearance_count": 16,
+          "time_info": "[11时42分 ~ 22时23分]"
         },
         {
           "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
@@ -84,6 +84,19 @@
           "time_info": "[00时24分 ~ 15时22分]"
         },
         {
+          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
+          "url": "https://wallstreetcn.com/articles/3764241",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时26分 ~ 22时23分]"
+        },
+        {
           "title": "AI红包春节档四强争霸 马化腾喊话重现11年前微信红包盛况",
           "url": "https://www.cls.cn/detail/2270223",
           "source": "财联社热门",
@@ -122,19 +135,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时42分 ~ 16时23分]"
-        },
-        {
-          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
-          "url": "https://wallstreetcn.com/articles/3764241",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时26分 ~ 21时41分]"
         },
         {
           "title": "EDA巨头：AI基建吞噬世界产能 存储芯片紧缺或持续到明年",
@@ -268,6 +268,19 @@
           "time_info": "[00时24分 ~ 01时24分]"
         },
         {
+          "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
+          "url": "https://www.cls.cn/detail/2271331",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时31分 ~ 22时23分]"
+        },
+        {
           "title": "外网AI视频假如中国替代了美国",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E7%BD%91AI%E8%A7%86%E9%A2%91%E5%81%87%E5%A6%82%E4%B8%AD%E5%9B%BD%E6%9B%BF%E4%BB%A3%E4%BA%86%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -280,16 +293,40 @@
           "time_info": "[13时21分 ~ 14时25分]"
         },
         {
-          "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
-          "url": "https://www.cls.cn/detail/2271331",
-          "source": "财联社热门",
+          "title": "开源 AI 助手 Clawdbot 到底是什么？为什么能让 Mac mini 突然爆单？",
+          "url": "https://www.zhihu.com/question/1999166962421429182",
+          "source": "知乎",
           "ranks": [
-            13,
-            12
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时31分 ~ 21时41分]"
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 22时23分]"
+        },
+        {
+          "title": "Clawdbot引爆整个AI agent生态",
+          "url": "https://wallstreetcn.com/articles/3764269",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 22时23分]"
+        },
+        {
+          "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
+          "url": "https://www.cls.cn/detail/2271472",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 22时23分]"
         },
         {
           "title": "当《姑苏繁华图》遇见AI",
@@ -298,7 +335,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -325,28 +362,6 @@
           "time_info": "00时24分"
         },
         {
-          "title": "Clawdbot引爆整个AI agent生态",
-          "url": "https://wallstreetcn.com/articles/3764269",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
-        },
-        {
-          "title": "开源 AI 助手 Clawdbot 到底是什么？为什么能让 Mac mini 突然爆单？",
-          "url": "https://www.zhihu.com/question/1999166962421429182",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
-        },
-        {
           "title": "印度国有天然气公司GAIL CEO：如果价格走软，印度将签署更多长期液化天然气进口合同。",
           "url": "https://flash.jin10.com/detail/20260127165949365800",
           "source": "金十数据",
@@ -356,17 +371,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
-        },
-        {
-          "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
-          "url": "https://www.cls.cn/detail/2271472",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
         },
         {
           "title": "桥水CIO：AI领域公司无法接受落后 资本支出会层层加码",
@@ -543,6 +547,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "据纽约时报：OpenAI创始人奥尔特曼表示，美国移民和海关执法局的情况太过分了。",
+          "url": "https://flash.jin10.com/detail/20260127215123302800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         }
       ]
     }
