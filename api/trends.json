@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T22:23:55.429086+08:00",
-  "total_titles_processed": 2023,
+  "generated_at": "2026-01-27T23:24:40.527998+08:00",
+  "total_titles_processed": 2125,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时42分 ~ 22时23分]"
+          "appearance_count": 17,
+          "time_info": "[11时42分 ~ 23时24分]"
         },
         {
           "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
@@ -57,6 +57,19 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时24分 ~ 15时22分]"
+        },
+        {
+          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
+          "url": "https://wallstreetcn.com/articles/3764241",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时26分 ~ 23时24分]"
         },
         {
           "title": "阶跃星辰印奇谈AI商业化",
@@ -82,19 +95,6 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时24分 ~ 15时22分]"
-        },
-        {
-          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
-          "url": "https://wallstreetcn.com/articles/3764241",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时26分 ~ 22时23分]"
         },
         {
           "title": "AI红包春节档四强争霸 马化腾喊话重现11年前微信红包盛况",
@@ -231,6 +231,20 @@
           "time_info": "07时16分"
         },
         {
+          "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
+          "url": "https://www.cls.cn/detail/2271331",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时31分 ~ 23时24分]"
+        },
+        {
           "title": "AI 霸总「围猎」老年女性，婚介机构借此引流、老人被骗上千元学电商，类似情况为何屡禁不止？监管难在哪？",
           "url": "https://www.zhihu.com/question/1998804557132690728",
           "source": "知乎",
@@ -242,6 +256,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时42分 ~ 13时22分]"
+        },
+        {
+          "title": "开源 AI 助手 Clawdbot 到底是什么？为什么能让 Mac mini 突然爆单？",
+          "url": "https://www.zhihu.com/question/1999166962421429182",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时41分 ~ 23时24分]"
         },
         {
           "title": "微软云计算与人工智能业务主管斯科特·古特里（Scott Guthrie）：首批Maia 200芯片单位将分配给微软的“超级智能（superintelligence）”团队，用于生成数据以改进下一代人工智能（AI）模型。 这些芯片还将用于驱动面向企业的Copilot助手，以及微软向云客户租用的各种AI模型（包括OpenAI的最新模型）。 第二代AI芯片Maia 200在某些AI任务上的性能优于谷歌和亚马逊的同类半导体。 Maia 200也是微软部署过的效率最高的推理（Inference）系统。 目前已在设计该芯片的继任者Maia 300。",
@@ -268,19 +295,6 @@
           "time_info": "[00时24分 ~ 01时24分]"
         },
         {
-          "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
-          "url": "https://www.cls.cn/detail/2271331",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时31分 ~ 22时23分]"
-        },
-        {
           "title": "外网AI视频假如中国替代了美国",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E7%BD%91AI%E8%A7%86%E9%A2%91%E5%81%87%E5%A6%82%E4%B8%AD%E5%9B%BD%E6%9B%BF%E4%BB%A3%E4%BA%86%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -293,28 +307,17 @@
           "time_info": "[13时21分 ~ 14时25分]"
         },
         {
-          "title": "开源 AI 助手 Clawdbot 到底是什么？为什么能让 Mac mini 突然爆单？",
-          "url": "https://www.zhihu.com/question/1999166962421429182",
-          "source": "知乎",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时41分 ~ 22时23分]"
-        },
-        {
           "title": "Clawdbot引爆整个AI agent生态",
           "url": "https://wallstreetcn.com/articles/3764269",
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时41分 ~ 22时23分]"
+          "appearance_count": 3,
+          "time_info": "[21时41分 ~ 23时24分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -322,11 +325,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时41分 ~ 22时23分]"
+          "appearance_count": 3,
+          "time_info": "[21时41分 ~ 23时24分]"
         },
         {
           "title": "当《姑苏繁华图》遇见AI",
@@ -555,7 +559,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         }
