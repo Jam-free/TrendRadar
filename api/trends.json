@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T03:22:23.307865+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2026-01-28T04:17:55.640642+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时17分]"
         },
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时17分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -40,8 +40,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时17分]"
+        },
+        {
+          "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
+          "url": "https://www.cls.cn/detail/2271331",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时17分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -54,17 +65,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时28分 ~ 03时22分]"
-        },
-        {
-          "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
-          "url": "https://www.cls.cn/detail/2271331",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时22分]"
         },
         {
           "title": "谷歌：Gemini 3现已成为全球AI概览的默认模型。",
@@ -142,7 +142,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         },
@@ -153,7 +153,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         }
