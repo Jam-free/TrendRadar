@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T22:23:40.668028+08:00",
-  "total_titles_processed": 2074,
+  "generated_at": "2026-01-28T23:26:02.453078+08:00",
+  "total_titles_processed": 2182,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -62,6 +62,20 @@
           "time_info": "[09时07分 ~ 14时26分]"
         },
         {
+          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
+          "url": "https://www.cls.cn/detail/2272316",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时22分 ~ 23时26分]"
+        },
+        {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
           "url": "https://www.cls.cn/detail/2271472",
           "source": "财联社热门",
@@ -86,18 +100,18 @@
           "time_info": "[00时21分 ~ 07时16分]"
         },
         {
-          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
-          "url": "https://www.cls.cn/detail/2272316",
-          "source": "财联社热门",
+          "title": "AI将替代9200万工作岗位",
+          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
+          "source": "百度热搜",
           "ranks": [
-            11,
-            10,
-            7,
-            8
+            27,
+            23,
+            14,
+            26
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[16时22分 ~ 22时23分]"
+          "time_info": "[18时21分 ~ 23时26分]"
         },
         {
           "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
@@ -115,6 +129,19 @@
           "time_info": "[07时15分 ~ 14时26分]"
         },
         {
+          "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
+          "url": "https://www.zhihu.com/question/1999415789258826467",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时32分 ~ 23时26分]"
+        },
+        {
           "title": "马云最新发声：AI时代不要再犹豫用不用AI 而是怎么教孩子用好AI",
           "url": "https://www.cls.cn/detail/2272163",
           "source": "财联社热门",
@@ -130,6 +157,20 @@
           "time_info": "[14时26分 ~ 20时32分]"
         },
         {
+          "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
+          "url": "https://www.cls.cn/detail/2272560",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时21分 ~ 23时26分]"
+        },
+        {
           "title": "刘强东在家乡打造了一个AI教室",
           "url": "https://www.toutiao.com/trending/7600224231955988531/",
           "source": "今日头条",
@@ -142,18 +183,16 @@
           "time_info": "[17时28分 ~ 18时21分]"
         },
         {
-          "title": "AI将替代9200万工作岗位",
-          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
-          "source": "百度热搜",
+          "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764353",
+          "source": "华尔街见闻",
           "ranks": [
-            27,
-            23,
-            14,
-            26
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[18时21分 ~ 22时23分]"
+          "time_info": "[20时32分 ~ 23时26分]"
         },
         {
           "title": "阿斯麦(ASML.O)CEO：2026年可能有更多EUV（极紫外光刻）设备出货。对先进AI芯片的需求巨大且不断增长。",
@@ -165,19 +204,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
-        },
-        {
-          "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
-          "url": "https://www.cls.cn/detail/2272560",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时21分 ~ 22时23分]"
         },
         {
           "title": "马云：孩子不应和AI比拼计算和记忆",
@@ -203,28 +229,15 @@
           "time_info": "[02时28分 ~ 03时22分]"
         },
         {
-          "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
-          "url": "https://www.zhihu.com/question/1999415789258826467",
-          "source": "知乎",
+          "title": "刘强东给老家建了间AI教室",
+          "url": "https://news.ifeng.com/c/8qHvWO6SnwI",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            8
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时32分 ~ 22时23分]"
-        },
-        {
-          "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764353",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时32分 ~ 22时23分]"
+          "appearance_count": 3,
+          "time_info": "[22时23分 ~ 23时26分]"
         },
         {
           "title": "国内首例「AI 幻觉」案宣判平台无责，背后的法律考量是什么？该如何判断 AI 提供信息的真实性？",
@@ -261,6 +274,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时28分 ~ 03时22分]"
+        },
+        {
+          "title": "马云谈AI时代教育",
+          "url": "https://www.toutiao.com/trending/7600274916425351187/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时25分 ~ 23时26分]"
         },
         {
           "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",
@@ -317,17 +341,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
-        },
-        {
-          "title": "刘强东给老家建了间AI教室",
-          "url": "https://news.ifeng.com/c/8qHvWO6SnwI",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
         },
         {
           "title": "软银拟向OpenAI追投至多300亿美元",
