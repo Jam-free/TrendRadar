@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T22:39:25.913675+08:00",
-  "total_titles_processed": 1743,
+  "generated_at": "2026-02-02T23:32:31.890341+08:00",
+  "total_titles_processed": 1826,
   "failed_sources": [],
   "trends": [
     {
@@ -71,8 +71,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时59分 ~ 22时39分]"
+          "appearance_count": 13,
+          "time_info": "[13时59分 ~ 23时32分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -105,7 +105,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -116,7 +116,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -144,6 +144,18 @@
           "time_info": "[18时37分 ~ 19时31分]"
         },
         {
+          "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
+          "url": "https://www.cls.cn/detail/2278216",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时39分 ~ 23时32分]"
+        },
+        {
           "title": "AI投资神话遭遇信心红灯 韩国科技股遭受重创",
           "url": "https://flash.jin10.com/detail/20260202114011465800",
           "source": "金十数据",
@@ -161,7 +173,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -172,7 +184,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -186,17 +198,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
-        },
-        {
-          "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
-          "url": "https://www.cls.cn/detail/2278216",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时39分"
         },
         {
           "title": "蚂蚁CEO发布内部信，加大对AI“开创性贡献”激励力度",
