@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T18:34:43.283120+08:00",
-  "total_titles_processed": 1644,
+  "generated_at": "2026-02-05T19:31:39.659343+08:00",
+  "total_titles_processed": 1743,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时20分 ~ 18时34分]"
+          "appearance_count": 13,
+          "time_info": "[07时20分 ~ 19时31分]"
         },
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时16分 ~ 18时34分]"
+          "appearance_count": 12,
+          "time_info": "[09时16分 ~ 19时31分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
@@ -83,8 +83,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时37分 ~ 18时34分]"
+          "appearance_count": 21,
+          "time_info": "[00时37分 ~ 19时31分]"
         },
         {
           "title": "比DeepSeek风暴还惨烈！一文读懂：华尔街“抛AI”妖风祸从何来？",
@@ -96,8 +96,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时44分 ~ 18时34分]"
+          "appearance_count": 7,
+          "time_info": "[15时44分 ~ 19时31分]"
         },
         {
           "title": "马斯克“AI太空基建梦”更进一步：SpaceX申请已获审理 100万颗卫星要上天？",
@@ -109,8 +109,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时44分 ~ 18时34分]"
+          "appearance_count": 7,
+          "time_info": "[15时44分 ~ 19时31分]"
+        },
+        {
+          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
+          "url": "https://www.cls.cn/detail/2281205",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时50分 ~ 19时31分]"
         },
         {
           "title": "国民党代表团参访清华大学，了解大陆AI技术",
@@ -149,19 +162,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时16分 ~ 16时34分]"
-        },
-        {
-          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
-          "url": "https://www.cls.cn/detail/2281205",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时50分 ~ 18时34分]"
         },
         {
           "title": "AI目前对SaaS最大的冲击：AI 并没有在功能上吃掉你的产品，它是在财务上吃掉了你的预算",
@@ -231,8 +231,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时50分 ~ 15时45分]"
+          "appearance_count": 4,
+          "time_info": "[13时50分 ~ 19时31分]"
         },
         {
           "title": "谷歌母公司Alphabet：所搜同比增长17%。 YouTube 9%的增长来自直接响应的广告。 公司在AI模型中测试广告。",
@@ -257,6 +257,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时20分]"
+        },
+        {
+          "title": "如何评价李开复「AI 领域里手机是绝对错误的设备」的观点？为何他不看好 AI 手机？",
+          "url": "https://www.zhihu.com/question/2002683972233159732",
+          "source": "知乎",
+          "ranks": [
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 19时31分]"
         },
         {
           "title": "AI竞赛打到太空了吗",
@@ -323,17 +335,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
-        },
-        {
-          "title": "如何评价李开复「AI 领域里手机是绝对错误的设备」的观点？为何他不看好 AI 手机？",
-          "url": "https://www.zhihu.com/question/2002683972233159732",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时34分"
         },
         {
           "title": "特朗普：AI将成为最大的就业、军事和医疗生产者。",
