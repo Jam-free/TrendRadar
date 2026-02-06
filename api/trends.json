@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T14:44:08.328503+08:00",
-  "total_titles_processed": 1245,
+  "generated_at": "2026-02-06T15:42:00.632170+08:00",
+  "total_titles_processed": 1362,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
             3,
             5,
             19,
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 14时44分]"
+          "appearance_count": 18,
+          "time_info": "[00时39分 ~ 15时42分]"
         },
         {
           "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
@@ -60,6 +61,18 @@
           "time_info": "[00时39分 ~ 09时16分]"
         },
         {
+          "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
+          "url": "https://www.cls.cn/detail/2282247",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时18分 ~ 15时42分]"
+        },
+        {
           "title": "AI焦虑席卷科技板块 苹果冷静布局换来股价逆市上涨",
           "url": "https://www.cls.cn/detail/2281879",
           "source": "财联社热门",
@@ -73,18 +86,6 @@
           "time_info": "[00时39分 ~ 06时20分]"
         },
         {
-          "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
-          "url": "https://www.cls.cn/detail/2282247",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时18分 ~ 14时44分]"
-        },
-        {
           "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
           "url": "https://www.cls.cn/detail/2282565",
           "source": "财联社热门",
@@ -92,8 +93,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时47分 ~ 14时44分]"
+          "appearance_count": 5,
+          "time_info": "[13时47分 ~ 15时42分]"
+        },
+        {
+          "title": "软件股抛售“导火索”又发新品：AI代理组团上班 更擅长白领工作",
+          "url": "https://www.cls.cn/detail/2282228",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时16分 ~ 15时42分]"
+        },
+        {
+          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765100",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 15时42分]"
         },
         {
           "title": "AI恐慌蔓延，就业数据疲软加剧抛售，美三大股指跌超1%，白银暴跌19%，比特币崩跌",
@@ -132,18 +157,6 @@
           "time_info": "[06时19分 ~ 13时47分]"
         },
         {
-          "title": "软件股抛售“导火索”又发新品：AI代理组团上班 更擅长白领工作",
-          "url": "https://www.cls.cn/detail/2282228",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时16分 ~ 14时44分]"
-        },
-        {
           "title": "OpenAI：与Ginko Bioworks Holdings Inc.（DNA）合作，设法将GPT-5链接到Autonomous Lab。 希望将蛋白质产品成本砍掉40%。",
           "url": "https://wallstreetcn.com/livenews/3050854",
           "source": "华尔街见闻-快讯",
@@ -155,18 +168,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时33分 ~ 05时21分]"
-        },
-        {
-          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3765100",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时08分 ~ 14时44分]"
         },
         {
           "title": "Anthropic发布新AI 金融服务公司承压",
@@ -357,7 +358,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
