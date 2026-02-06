@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T17:36:23.118279+08:00",
-  "total_titles_processed": 1565,
+  "generated_at": "2026-02-06T18:32:48.372408+08:00",
+  "total_titles_processed": 1658,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时47分 ~ 17时36分]"
+          "appearance_count": 9,
+          "time_info": "[13时47分 ~ 18时32分]"
         },
         {
           "title": "UP主们用AI办了场春晚",
@@ -86,6 +86,18 @@
           "time_info": "[07时18分 ~ 15时42分]"
         },
         {
+          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765100",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时08分 ~ 18时32分]"
+        },
+        {
           "title": "AI焦虑席卷科技板块 苹果冷静布局换来股价逆市上涨",
           "url": "https://www.cls.cn/detail/2281879",
           "source": "财联社热门",
@@ -97,18 +109,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时39分 ~ 06时20分]"
-        },
-        {
-          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3765100",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时08分 ~ 17时36分]"
         },
         {
           "title": "软件股抛售“导火索”又发新品：AI代理组团上班 更擅长白领工作",
@@ -170,6 +170,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时33分 ~ 05时21分]"
+        },
+        {
+          "title": "微信连环封禁千问、元宝红包口令 AI春节获客大战遇阻",
+          "url": "https://www.cls.cn/detail/2282814",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 18时32分]"
         },
         {
           "title": "Anthropic发布新AI 金融服务公司承压",
@@ -255,17 +267,6 @@
           "time_info": "[14时43分 ~ 14时44分]"
         },
         {
-          "title": "微信连环封禁千问、元宝红包口令 AI春节获客大战遇阻",
-          "url": "https://www.cls.cn/detail/2282814",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时36分"
-        },
-        {
           "title": "据华尔街日报：消息人士称，xAI的投资者认为这家初创公司的未来与特斯拉CEO埃隆·马斯克的公司紧密交织在一起。SpaceX与xAI的合并以人工智能初创公司的资本流动为前提。",
           "url": "https://flash.jin10.com/detail/20260206113638095800",
           "source": "金十数据",
@@ -332,6 +333,17 @@
           "time_info": "07时18分"
         },
         {
+          "title": "xAI联合创始人豪掷5700万英镑购入伦敦顶层公寓",
+          "url": "https://flash.jin10.com/detail/20260206173641831800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：今天晚些时候，Codex用户将迎来重大折扣。你只需去创造事物即可。",
           "url": "https://flash.jin10.com/detail/20260206001240368800",
           "source": "金十数据",
@@ -376,6 +388,17 @@
           "time_info": "14时44分"
         },
         {
+          "title": "千问“爆单”验证AI商业化前景",
+          "url": "https://www.toutiao.com/trending/7603578910895374387/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "消息人士称，马斯克将xAI收购设计为一笔免税交易。",
           "url": "https://flash.jin10.com/detail/20260206081040062800",
           "source": "金十数据",
@@ -385,6 +408,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "实测OpenAI和Cluade模型",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BOpenAI%E5%92%8CCluade%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "消息人士称，马斯克采用两步合并流程完成SpaceX对xAI的收购。根据合并结构，SpaceX无需承担xAI的债务。xAI将作为SpaceX的子公司运营，此举可使SpaceX规避法律责任。",
