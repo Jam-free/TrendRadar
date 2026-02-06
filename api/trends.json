@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T20:40:19.103962+08:00",
-  "total_titles_processed": 1851,
+  "generated_at": "2026-02-06T21:57:17.174567+08:00",
+  "total_titles_processed": 1986,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
@@ -52,11 +52,12 @@
             19,
             25,
             22,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时39分 ~ 17时36分]"
+          "appearance_count": 22,
+          "time_info": "[00时39分 ~ 21时57分]"
         },
         {
           "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
@@ -95,8 +96,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时08分 ~ 20时40分]"
+          "appearance_count": 13,
+          "time_info": "[12时08分 ~ 21时57分]"
         },
         {
           "title": "AI焦虑席卷科技板块 苹果冷静布局换来股价逆市上涨",
@@ -186,6 +187,19 @@
           "time_info": "[03时33分 ~ 05时21分]"
         },
         {
+          "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
+          "url": "https://www.cls.cn/detail/2282989",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 21时57分]"
+        },
+        {
           "title": "Anthropic发布新AI 金融服务公司承压",
           "url": "https://flash.jin10.com/detail/20260206032448754800",
           "source": "金十数据",
@@ -220,18 +234,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时33分 ~ 04时25分]"
-        },
-        {
-          "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
-          "url": "https://www.cls.cn/detail/2282989",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时28分 ~ 20时40分]"
         },
         {
           "title": "高盛：甲骨文史诗级债券发售将引发AI债务狂潮",
@@ -320,7 +322,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -378,6 +380,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "砸45亿抢AI超级入口，互联网大厂的红包大战怎么打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32475041",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "汤森路透跌幅扩大至7%。Anthropic发布人工智能（AI）模型的最新版本Claude Opus 4.6，用于进行金融研究和其他工作相关的功能。",
