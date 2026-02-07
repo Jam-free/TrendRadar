@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T02:24:32.847314+08:00",
-  "total_titles_processed": 367,
+  "generated_at": "2026-02-08T03:19:08.482561+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时19分]"
         },
         {
           "title": "xAI联合创始人拟以5700万英镑购入伦敦豪宅顶层公寓",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 02时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时19分]"
         },
         {
           "title": "UP主联合自制AI春晚",
@@ -51,8 +51,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时19分]"
         },
         {
           "title": "中兴通讯、工行建行AIC入局，粤港澳基金完成500亿募资",
@@ -63,8 +63,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时19分]"
         },
         {
           "title": "你认为AI会替代软件开发吗",
@@ -73,7 +73,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
         },
