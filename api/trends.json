@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T20:54:41.038437+08:00",
-  "total_titles_processed": 1681,
+  "generated_at": "2026-02-10T22:19:21.020515+08:00",
+  "total_titles_processed": 1805,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 41,
+      "match_count": 46,
       "titles": [
         {
           "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
@@ -151,11 +151,12 @@
             13,
             15,
             18,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时26分 ~ 20时54分]"
+          "appearance_count": 13,
+          "time_info": "[12时26分 ~ 22时19分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
@@ -170,6 +171,21 @@
           "time_info": "[01时44分 ~ 07时31分]"
         },
         {
+          "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
+          "url": "https://wallstreetcn.com/articles/3765363",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时41分 ~ 22时19分]"
+        },
+        {
           "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
           "url": "https://www.zhihu.com/question/2003997015852482602",
           "source": "知乎",
@@ -182,30 +198,17 @@
           "time_info": "[01时44分 ~ 03时59分]"
         },
         {
-          "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
-          "url": "https://wallstreetcn.com/articles/3765363",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时41分 ~ 20时54分]"
-        },
-        {
           "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
           "url": "https://www.zhihu.com/question/2004239051759312966",
           "source": "知乎",
           "ranks": [
             5,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时46分 ~ 20时54分]"
+          "appearance_count": 5,
+          "time_info": "[18时46分 ~ 22时19分]"
         },
         {
           "title": "台积电一月营收创记录新高 芯片订单并未因AI泡沫担忧而减少",
@@ -384,6 +387,17 @@
           "time_info": "14时08分"
         },
         {
+          "title": "沪指震荡收涨六连阳，AI应用大爆发，太空光伏集体调整，恒指上涨0.5%，智谱暴涨近15%",
+          "url": "https://wallstreetcn.com/articles/3765360",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "AI 恐怖",
           "url": "https://s.weibo.com/weibo?q=AI%20%E6%81%90%E6%80%96&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -406,6 +420,28 @@
           "time_info": "14时08分"
         },
         {
+          "title": "原来GAI早就官宣了",
+          "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5GAI%E6%97%A9%E5%B0%B1%E5%AE%98%E5%AE%A3%E4%BA%86&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
+          "title": "AI周星驰视频大量传播 经纪人质疑",
+          "url": "https://www.baidu.com/s?wd=AI%E5%91%A8%E6%98%9F%E9%A9%B0%E8%A7%86%E9%A2%91%E5%A4%A7%E9%87%8F%E4%BC%A0%E6%92%AD+%E7%BB%8F%E7%BA%AA%E4%BA%BA%E8%B4%A8%E7%96%91",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "思科发布全新AI网络芯片，挑战博通和英伟达",
           "url": "https://wallstreetcn.com/livenews/3052906",
           "source": "华尔街见闻-快讯",
@@ -417,6 +453,17 @@
           "time_info": "17时54分"
         },
         {
+          "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32567447",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "OpenAI：我们今天开始在美国向部分免费和Go计划订阅用户推出ChatGPT广告的测试。",
           "url": "https://flash.jin10.com/detail/20260210030701967800",
           "source": "金十数据",
@@ -426,6 +473,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "黄仁勋称中国或在 AI 竞赛中胜出，中美 AI 差距缩小，这一论断有何依据？",
+          "url": "https://www.zhihu.com/question/2003846551756362738",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "没红包你还会用AI软件吗",
@@ -489,7 +547,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
