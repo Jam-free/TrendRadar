@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T15:55:16.447758+08:00",
-  "total_titles_processed": 1184,
+  "generated_at": "2026-02-10T16:42:11.636369+08:00",
+  "total_titles_processed": 1274,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
@@ -99,8 +99,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时44分 ~ 15时55分]"
+          "appearance_count": 18,
+          "time_info": "[01时44分 ~ 16时42分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
@@ -115,6 +115,31 @@
           "time_info": "[01时44分 ~ 07时31分]"
         },
         {
+          "title": "Seedance2.0 对AI应用意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765320",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时31分 ~ 16时42分]"
+        },
+        {
+          "title": "AI应用集体“上春晚” 豆包官宣“参战”!",
+          "url": "https://www.cls.cn/detail/2285532",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时26分 ~ 16时42分]"
+        },
+        {
           "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
           "url": "https://www.zhihu.com/question/2003997015852482602",
           "source": "知乎",
@@ -127,28 +152,29 @@
           "time_info": "[01时44分 ~ 03时59分]"
         },
         {
-          "title": "AI应用集体“上春晚” 豆包官宣“参战”!",
-          "url": "https://www.cls.cn/detail/2285532",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时26分 ~ 15时55分]"
-        },
-        {
-          "title": "Seedance2.0 对AI应用意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765320",
+          "title": "美软件股危机未除！花旗：AI冲击或让终端价值蒸发三分之一",
+          "url": "https://wallstreetcn.com/articles/3765297",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时31分 ~ 15时55分]"
+          "appearance_count": 7,
+          "time_info": "[12时26分 ~ 16时42分]"
+        },
+        {
+          "title": "以假乱真,奥特曼大AI时代来临",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时26分 ~ 16时42分]"
         },
         {
           "title": "台积电一月营收创记录新高 芯片订单并未因AI泡沫担忧而减少",
@@ -186,27 +212,16 @@
           "time_info": "14时08分"
         },
         {
-          "title": "以假乱真,奥特曼大AI时代来临",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
-          "source": "贴吧",
+          "title": "无惧抛售？大摩首席：AI将继续助涨科技股，关注应用端！",
+          "url": "https://www.cls.cn/detail/2285290",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            13
+            12,
+            11
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时26分 ~ 15时55分]"
-        },
-        {
-          "title": "美软件股危机未除！花旗：AI冲击或让终端价值蒸发三分之一",
-          "url": "https://wallstreetcn.com/articles/3765297",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时26分 ~ 15时55分]"
+          "time_info": "[14时08分 ~ 16时42分]"
         },
         {
           "title": "AI工具引发颠覆担忧 美国保险经纪股周一遭重挫",
@@ -246,17 +261,6 @@
           "time_info": "[09时31分 ~ 14时08分]"
         },
         {
-          "title": "无惧抛售？大摩首席：AI将继续助涨科技股，关注应用端！",
-          "url": "https://www.cls.cn/detail/2285290",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时08分 ~ 15时55分]"
-        },
-        {
           "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
           "url": "https://www.cls.cn/detail/2284501",
           "source": "财联社热门",
@@ -278,6 +282,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时59分 ~ 04时38分]"
+        },
+        {
+          "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
+          "url": "https://wallstreetcn.com/articles/3765363",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 16时42分]"
         },
         {
           "title": "OpenAI CEO Sam Altman：GPT-5.3-Codex今天在Cursor、Github和VS Code中推出。我们希望尽快向所有API客户推出这一模型。这是我们首个在网络安全方面设定为高等级的模型，相关的额外工作使上线进度略有延迟。",
@@ -365,7 +380,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         },
