@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T19:44:51.181415+08:00",
-  "total_titles_processed": 1577,
+  "generated_at": "2026-02-10T20:54:41.038437+08:00",
+  "total_titles_processed": 1681,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
@@ -107,8 +107,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时31分 ~ 19时44分]"
+          "appearance_count": 13,
+          "time_info": "[09时31分 ~ 20时54分]"
         },
         {
           "title": "美软件股危机未除！花旗：AI冲击或让终端价值蒸发三分之一",
@@ -154,8 +154,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时26分 ~ 19时44分]"
+          "appearance_count": 12,
+          "time_info": "[12时26分 ~ 20时54分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
@@ -192,8 +192,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时41分 ~ 19时44分]"
+          "appearance_count": 7,
+          "time_info": "[16时41分 ~ 20时54分]"
+        },
+        {
+          "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
+          "url": "https://www.zhihu.com/question/2004239051759312966",
+          "source": "知乎",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时46分 ~ 20时54分]"
         },
         {
           "title": "台积电一月营收创记录新高 芯片订单并未因AI泡沫担忧而减少",
@@ -220,25 +232,13 @@
           "time_info": "[09时31分 ~ 14时08分]"
         },
         {
-          "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
-          "url": "https://www.zhihu.com/question/2004239051759312966",
-          "source": "知乎",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时46分 ~ 19时44分]"
-        },
-        {
           "title": "拒绝焦虑！从Deepseek到即梦，这一年到底有多少AI工具？丨Hi，今天怎么看？",
           "url": "https://flash.jin10.com/detail/20260210192736679800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -434,7 +434,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -456,7 +456,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -481,6 +481,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "“AI新大陆”正在向平民招手",
+          "url": "https://www.toutiao.com/trending/7605168435990892082/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "洗衣机演奏I can't wait",
