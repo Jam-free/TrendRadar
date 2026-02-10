@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T06:33:20.435467+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2026-02-11T07:32:47.070954+08:00",
+  "total_titles_processed": 689,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3765363",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时00分 ~ 06时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时00分 ~ 07时32分]"
         },
         {
           "title": "AI周星驰视频大量传播 经纪人质疑",
@@ -30,8 +31,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时00分 ~ 06时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时00分 ~ 07时32分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -43,8 +44,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时00分 ~ 06时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时00分 ~ 07时32分]"
         },
         {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
@@ -65,11 +66,26 @@
           "ranks": [
             14,
             9,
-            17
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时57分 ~ 07时32分]"
+        },
+        {
+          "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
+          "url": "https://www.zhihu.com/question/2004239051759312966",
+          "source": "知乎",
+          "ranks": [
+            16,
+            19,
+            20,
+            18
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[02时57分 ~ 06时33分]"
+          "time_info": "[00时00分 ~ 07时32分]"
         },
         {
           "title": "AI制图骗局",
@@ -83,19 +99,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时57分 ~ 05时37分]"
-        },
-        {
-          "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
-          "url": "https://www.zhihu.com/question/2004239051759312966",
-          "source": "知乎",
-          "ranks": [
-            16,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 05时37分]"
         },
         {
           "title": "财富管理公司全线暴跌，新AI工具引发对行业前景忧虑",
