@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T06:23:22.793291+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2026-02-12T07:25:17.599901+08:00",
+  "total_titles_processed": 688,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -25,11 +25,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时25分]"
         },
         {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
@@ -40,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时25分]"
         },
         {
           "title": "国产AI降维打击,老外酸了",
@@ -52,8 +53,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时25分]"
         },
         {
           "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
@@ -63,8 +64,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时25分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -74,8 +75,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时25分]"
         },
         {
           "title": "市场继续寻找AI时代的潜在输家 今日轮到地产服务",
@@ -87,6 +88,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3765486",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "马斯克重组xAI 拟设四大核心板块",
