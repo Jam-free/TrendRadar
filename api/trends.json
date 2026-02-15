@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T12:15:05.091363+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2026-02-15T13:51:42.484374+08:00",
+  "total_titles_processed": 790,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "“我们正在目睹一场AI创造性破坏席卷全球各行各业”！高盛合伙人：本质上，这是一次“护城河检查”",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 12时15分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 13时51分]"
         },
         {
           "title": "本周，“AI颠覆一切”的狼终于来了",
@@ -45,8 +45,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 12时15分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 13时51分]"
         },
         {
           "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
@@ -63,19 +63,6 @@
           "time_info": "[00时20分 ~ 09时24分]"
         },
         {
-          "title": "AI女副总因反色情被炒鱿鱼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350710&amp;topic_name=AI%E5%A5%B3%E5%89%AF%E6%80%BB%E5%9B%A0%E5%8F%8D%E8%89%B2%E6%83%85%E8%A2%AB%E7%82%92%E9%B1%BF%E9%B1%BC",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 12时15分]"
-        },
-        {
           "title": "杭州一创业者开 1 人公司，团队完全由 AI 智能体组成，月入 200 万，真能挣这么多钱吗？",
           "url": "https://www.zhihu.com/question/2005725246167147371",
           "source": "知乎",
@@ -90,6 +77,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时20分 ~ 07时17分]"
+        },
+        {
+          "title": "AI女副总因反色情被炒鱿鱼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350710&amp;topic_name=AI%E5%A5%B3%E5%89%AF%E6%80%BB%E5%9B%A0%E5%8F%8D%E8%89%B2%E6%83%85%E8%A2%AB%E7%82%92%E9%B1%BF%E9%B1%BC",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 13时51分]"
         },
         {
           "title": "如何理解开年全球市场？“可负担性”才是 2026 的总叙事：“主街”要赢一次，AI叙事巨变，日元是“关键”",
@@ -123,11 +124,12 @@
           "ranks": [
             8,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 12时15分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 13时51分]"
         },
         {
           "title": "马上评｜AI时代，让我们更懂年味",
@@ -148,11 +150,12 @@
           "ranks": [
             22,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 12时15分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 13时51分]"
         },
         {
           "title": "AI整活无底线,赛文演员急了",
@@ -247,19 +250,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时17分 ~ 12时15分]"
+          "appearance_count": 5,
+          "time_info": "[07时17分 ~ 13时51分]"
         },
         {
-          "title": "00 年代也有互联网与搜索引擎，为啥人工智能（AI）在 20 年代才达到现在这种水平？",
-          "url": "https://www.zhihu.com/question/1927393488770692768",
-          "source": "知乎",
+          "title": "如何理解开年全球市场？“可负担性”才是总叙事：“主街”要赢一次，AI叙事巨变，日元是“关键”",
+          "url": "https://wallstreetcn.com/articles/3765728",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 13时51分]"
         },
         {
           "title": "AI智能体首次主动攻击人类维护者",
@@ -275,16 +279,28 @@
           "time_info": "[02时23分 ~ 06时16分]"
         },
         {
-          "title": "如何理解开年全球市场？“可负担性”才是总叙事：“主街”要赢一次，AI叙事巨变，日元是“关键”",
-          "url": "https://wallstreetcn.com/articles/3765728",
-          "source": "华尔街见闻",
+          "title": "00 年代也有互联网与搜索引擎，为啥人工智能（AI）在 20 年代才达到现在这种水平？",
+          "url": "https://www.zhihu.com/question/1927393488770692768",
+          "source": "知乎",
           "ranks": [
-            6,
-            3
+            5,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时24分 ~ 12时15分]"
+          "time_info": "[12时14分 ~ 13时51分]"
+        },
+        {
+          "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 13时51分]"
         },
         {
           "title": "Clawdbot 开始雇佣人类，如何看待人类为 AI 打工，是噱头还是终结者降临？",
@@ -299,17 +315,6 @@
           "time_info": "[09时24分 ~ 12时15分]"
         },
         {
-          "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时24分 ~ 12时15分]"
-        },
-        {
           "title": "影响万亿资本的市场叙事争夺：一边是“AI颠覆一切”，一边是“AI回报不够”",
           "url": "https://wallstreetcn.com/articles/3765746",
           "source": "华尔街见闻",
@@ -317,8 +322,20 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 13时51分]"
+        },
+        {
+          "title": "美媒：五角大楼威胁要切断与Anthropic的AI合作",
+          "url": "https://flash.jin10.com/detail/20260215103523505800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
+          "time_info": "[12时15分 ~ 13时51分]"
         },
         {
           "title": "杨丽萍67岁仍在学习AI",
@@ -343,6 +360,17 @@
           "time_info": "09时24分"
         },
         {
+          "title": "“SaaS已死，SaaS到来”！Altman预言“全AI企业”时代开启",
+          "url": "https://wallstreetcn.com/articles/3765753",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
           "title": "中国AI春节前为何杀疯了",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BDAI%E6%98%A5%E8%8A%82%E5%89%8D%E4%B8%BA%E4%BD%95%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -352,17 +380,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
-        },
-        {
-          "title": "美媒：五角大楼威胁要切断与Anthropic的AI合作",
-          "url": "https://flash.jin10.com/detail/20260215103523505800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
         }
       ]
     }
