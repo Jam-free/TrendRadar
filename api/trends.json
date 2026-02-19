@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T20:44:12.835199+08:00",
-  "total_titles_processed": 1663,
+  "generated_at": "2026-02-19T22:05:11.388023+08:00",
+  "total_titles_processed": 1749,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 45,
+      "match_count": 48,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -64,11 +64,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时13分 ~ 20时44分]"
+          "appearance_count": 15,
+          "time_info": "[12时13分 ~ 22时05分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -80,8 +81,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时54分 ~ 20时44分]"
+          "appearance_count": 27,
+          "time_info": "[00时54分 ~ 22时05分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -94,11 +95,12 @@
             8,
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时21分 ~ 20时44分]"
+          "appearance_count": 16,
+          "time_info": "[09时21分 ~ 22时05分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -113,11 +115,12 @@
             19,
             20,
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时54分 ~ 20时44分]"
+          "appearance_count": 27,
+          "time_info": "[00时54分 ~ 22时05分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -132,11 +135,12 @@
             25,
             26,
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时54分 ~ 20时44分]"
+          "appearance_count": 27,
+          "time_info": "[00时54分 ~ 22时05分]"
         },
         {
           "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
@@ -150,6 +154,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时42分 ~ 09时21分]"
+        },
+        {
+          "title": "日盟警告:字节AI别来沾边",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350787&amp;topic_name=%E6%97%A5%E7%9B%9F%E8%AD%A6%E5%91%8A%3A%E5%AD%97%E8%8A%82AI%E5%88%AB%E6%9D%A5%E6%B2%BE%E8%BE%B9",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时04分 ~ 22时05分]"
         },
         {
           "title": "AI 编程会替代程序员吗?",
@@ -226,6 +241,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时54分 ~ 17时37分]"
+        },
+        {
+          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
+          "url": "https://wallstreetcn.com/articles/3765864",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时33分 ~ 22时05分]"
         },
         {
           "title": "Booking的首席财务官（CFO）：人工智能（AI）已经帮助实现消费者服务成本同比下降。",
@@ -342,17 +369,6 @@
           "time_info": "[19时33分 ~ 20时44分]"
         },
         {
-          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
-          "url": "https://wallstreetcn.com/articles/3765864",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时33分 ~ 20时44分]"
-        },
-        {
           "title": "OpenAI聘请Instagram高管Charles Porch。 Porch将担任OpenAI的全球创新合作伙伴关系副总裁。（Vanity Fair）",
           "url": "https://wallstreetcn.com/livenews/3056432",
           "source": "华尔街见闻-快讯",
@@ -364,6 +380,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时42分 ~ 04时31分]"
+        },
+        {
+          "title": "腾讯姚顺雨首篇论文提出「AI 下半场」先搞上下文学习，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2002102277314454310",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时04分 ~ 22时05分]"
         },
         {
           "title": "据华尔街日报：Meta启动两份超级协议，以应对人工智能（AI）勒索。",
@@ -388,6 +415,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时49分 ~ 02时42分]"
+        },
+        {
+          "title": "AI驱动存储持续迭代！三星PIM技术量产在即 或绕过CPU、GPU直接计算",
+          "url": "https://www.cls.cn/detail/2291068",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时04分 ~ 22时05分]"
         },
         {
           "title": "Figma美股盘后涨15%，该公司认为人工智能（AI）货币化带动增长。 该公司四季度营收3.038亿美元，分析师预期2.931亿美元。 预计2026年营收大约13.7亿美元，分析师预期12.9亿美元。",
