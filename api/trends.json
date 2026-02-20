@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T19:26:12.084609+08:00",
-  "total_titles_processed": 1505,
+  "generated_at": "2026-02-20T20:39:23.724563+08:00",
+  "total_titles_processed": 1602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 36,
+      "match_count": 41,
       "titles": [
         {
           "title": "日盟警告:字节AI别来沾边",
@@ -40,11 +40,12 @@
             1,
             2,
             13,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时44分 ~ 19时26分]"
+          "appearance_count": 10,
+          "time_info": "[14时44分 ~ 20时39分]"
         },
         {
           "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
@@ -60,6 +61,22 @@
           "time_info": "[00时42分 ~ 12时09分]"
         },
         {
+          "title": "澎湃AI晚新闻丨2026年2月19日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32633724",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            14,
+            13,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[12时08分 ~ 20时39分]"
+        },
+        {
           "title": "西方跳脚:东大AI惹怒上帝",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
           "source": "贴吧",
@@ -70,8 +87,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时42分 ~ 19时26分]"
+          "appearance_count": 24,
+          "time_info": "[00时42分 ~ 20时39分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -84,23 +101,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时42分 ~ 19时26分]"
-        },
-        {
-          "title": "澎湃AI晚新闻丨2026年2月19日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32633724",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            14,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时08分 ~ 19时26分]"
+          "appearance_count": 24,
+          "time_info": "[00时42分 ~ 20时39分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -149,8 +151,21 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时34分 ~ 19时26分]"
+          "appearance_count": 6,
+          "time_info": "[17时34分 ~ 20时39分]"
+        },
+        {
+          "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
+          "url": "https://wallstreetcn.com/articles/3765896",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时34分 ~ 20时39分]"
         },
         {
           "title": "英媒：Meta连续第二年削减员工激励 全力转向AI军备竞赛",
@@ -181,22 +196,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
         {
-          "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
-          "url": "https://wallstreetcn.com/articles/3765896",
-          "source": "华尔街见闻",
+          "title": "OpenAI CEO Sam Altman：对儿童社交媒体的限制将是好事。",
+          "url": "https://wallstreetcn.com/livenews/3056937",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            8,
-            7
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时34分 ~ 19时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         },
         {
           "title": "芯片初创公司Taalas融资1.69 亿美元，研发AI芯片挑战英伟达",
@@ -263,6 +276,18 @@
           "time_info": "[06时24分 ~ 09时17分]"
         },
         {
+          "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
+          "url": "https://wallstreetcn.com/articles/3765898",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 20时39分]"
+        },
+        {
           "title": "我国科学家用天文AI模型绘制“极致深空图”",
           "url": "https://wallstreetcn.com/livenews/3056907",
           "source": "华尔街见闻-快讯",
@@ -326,17 +351,6 @@
           "time_info": "[16时33分 ~ 17时34分]"
         },
         {
-          "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
-          "url": "https://wallstreetcn.com/articles/3765898",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 19时26分]"
-        },
-        {
           "title": "印度AI峰会出现尴尬一幕：OpenAI与Anthropic的老板们拒绝牵手",
           "url": "https://wallstreetcn.com/livenews/3056737",
           "source": "华尔街见闻-快讯",
@@ -382,6 +396,28 @@
           "time_info": "05时26分"
         },
         {
+          "title": "OpenAI创始人奥尔特曼：对儿童社交媒体的限制将是好事。",
+          "url": "https://flash.jin10.com/detail/20260220200907201800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
+          "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
+          "url": "https://www.cls.cn/detail/2292111",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
           "title": "OpenAI：关于芯片供应，公司已做到“对未来需求心中有数”",
           "url": "https://wallstreetcn.com/livenews/3056822",
           "source": "华尔街见闻-快讯",
@@ -391,6 +427,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
+        },
+        {
+          "title": "如何看待微软预测 18 个月内白领将被 AI 取代？",
+          "url": "https://www.zhihu.com/question/2005731383423824873",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
+          "title": "首席展望｜嘉实基金方晗：马年看好AI扩散、供需改善及顺周期修复主线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32629236",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         },
         {
           "title": "欧洲头部AI公司的CEO警告：AI由少数企业主导恐致市场滥用",
