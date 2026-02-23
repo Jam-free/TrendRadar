@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T07:18:58.906945+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-02-23T09:20:52.326887+08:00",
+  "total_titles_processed": 618,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 07时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 09时20分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 07时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 09时20分]"
         },
         {
           "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
@@ -38,19 +38,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 07时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 09时20分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
           "url": "https://wallstreetcn.com/articles/3765945",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 07时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 09时20分]"
         },
         {
           "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
@@ -60,30 +61,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 07时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 09时20分]"
         },
         {
           "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
           "url": "https://www.cls.cn/detail/2292342",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 07时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 09时20分]"
         },
         {
           "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
           "url": "https://www.cls.cn/detail/2292422",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 07时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 09时20分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -107,9 +110,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "无视海外“AI恐慌”，中国市场狂炒AI赢家",
+          "url": "https://wallstreetcn.com/articles/3765955",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "博主：《飞驰人生3》韩寒沈腾战胜AI焦虑",
+          "url": "https://www.toutiao.com/trending/7609833127870991881/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         }
       ]
     }
