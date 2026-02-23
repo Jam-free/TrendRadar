@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T21:27:02.996432+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2026-02-23T22:04:21.999748+08:00",
+  "total_titles_processed": 1539,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -31,6 +31,22 @@
           "time_info": "[00时20分 ~ 20时02分]"
         },
         {
+          "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
+          "url": "https://wallstreetcn.com/articles/3765976",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时01分 ~ 22时04分]"
+        },
+        {
           "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
           "url": "https://wallstreetcn.com/articles/3765948",
           "source": "华尔街见闻",
@@ -41,21 +57,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时20分 ~ 12时17分]"
-        },
-        {
-          "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
-          "url": "https://wallstreetcn.com/articles/3765976",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时01分 ~ 21时27分]"
         },
         {
           "title": "无视海外“AI恐慌”，中国市场狂炒AI赢家",
@@ -94,8 +95,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时20分 ~ 21时27分]"
+          "appearance_count": 22,
+          "time_info": "[00时20分 ~ 22时04分]"
         },
         {
           "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
@@ -134,8 +135,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时39分 ~ 21时27分]"
+          "appearance_count": 8,
+          "time_info": "[16时39分 ~ 22时04分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -184,8 +185,32 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时02分 ~ 22时04分]"
+        },
+        {
+          "title": "24 人团队研发新芯片每秒 17000 个 token，将对 AI 芯片市场带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2008557531367224108",
+          "source": "知乎",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时02分 ~ 21时27分]"
+          "time_info": "[21时26分 ~ 22时04分]"
+        },
+        {
+          "title": "又一篇“AI灭绝”帖疯传：AI效率悖论或引发经济通缩，标普500指数恐暴跌将近40%",
+          "url": "https://wallstreetcn.com/livenews/3057483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 22时04分]"
         },
         {
           "title": "蚂蚁集团AI业务春节加速：支付宝“AI付”、蚂蚁阿福APP用户数双破亿",
@@ -200,28 +225,6 @@
           "time_info": "[12时17分 ~ 14时02分]"
         },
         {
-          "title": "24 人团队研发新芯片每秒 17000 个 token，将对 AI 芯片市场带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2008557531367224108",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时26分 ~ 21时27分]"
-        },
-        {
-          "title": "又一篇“AI灭绝”帖疯传：AI效率悖论或引发经济通缩，标普500指数恐暴跌将近40%",
-          "url": "https://wallstreetcn.com/livenews/3057483",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
-        },
-        {
           "title": "博主：《飞驰人生3》韩寒沈腾战胜AI焦虑",
           "url": "https://www.toutiao.com/trending/7609833127870991881/",
           "source": "今日头条",
@@ -231,6 +234,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "TS Lombard：美国国债并非AI颠覆性风险背景下的理想选择",
+          "url": "https://wallstreetcn.com/livenews/3057490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "受惠于AI热潮 泰国出口创四年来最大增幅",
@@ -261,7 +275,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         }
