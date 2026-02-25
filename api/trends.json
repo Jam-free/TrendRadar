@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T18:43:01.998857+08:00",
-  "total_titles_processed": 1532,
+  "generated_at": "2026-02-25T19:36:07.913104+08:00",
+  "total_titles_processed": 1596,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时23分 ~ 18时43分]"
+          "appearance_count": 13,
+          "time_info": "[09时23分 ~ 19时36分]"
         },
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -64,8 +64,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[02时51分 ~ 18时43分]"
+          "appearance_count": 21,
+          "time_info": "[02时51分 ~ 19时36分]"
         },
         {
           "title": "个人“手搓”AI股票分析助手热潮掀起，全民投研时代要到来了？",
@@ -77,8 +77,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时28分 ~ 18时43分]"
+          "appearance_count": 12,
+          "time_info": "[12时28分 ~ 19时36分]"
         },
         {
           "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
@@ -104,8 +104,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时14分 ~ 18时43分]"
+          "appearance_count": 24,
+          "time_info": "[01时14分 ~ 19时36分]"
         },
         {
           "title": "李佳薇JKAI声乐大师课",
@@ -151,8 +151,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时28分 ~ 18时43分]"
+          "appearance_count": 12,
+          "time_info": "[12时28分 ~ 19时36分]"
         },
         {
           "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
@@ -181,6 +181,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时23分 ~ 16时39分]"
+        },
+        {
+          "title": "部分审稿意见高度疑似由AI生成，期刊发声：审稿专家应珍惜学术信任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32650169",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时45分 ~ 19时36分]"
         },
         {
           "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
@@ -239,18 +252,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
-        },
-        {
-          "title": "部分审稿意见高度疑似由AI生成，期刊发声：审稿专家应珍惜学术信任",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32650169",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时45分 ~ 18时43分]"
         },
         {
           "title": "文件显示：美国法官驳回xAI针对OpenAI的商业机密诉讼。",
@@ -373,6 +374,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时24分]"
+        },
+        {
+          "title": "AI短片 马上好",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%20%E9%A9%AC%E4%B8%8A%E5%A5%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时42分 ~ 19时36分]"
         },
         {
           "title": "AI助盲眼镜成出行神器",
@@ -566,17 +579,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时24分]"
-        },
-        {
-          "title": "AI短片 马上好",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%20%E9%A9%AC%E4%B8%8A%E5%A5%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 18时43分]"
         },
         {
           "title": "AIGC动画电影团圆令定档预告",
