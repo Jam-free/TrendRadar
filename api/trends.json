@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-25T17:45:25.739442+08:00",
-  "total_titles_processed": 1440,
+  "generated_at": "2026-02-25T18:43:01.998857+08:00",
+  "total_titles_processed": 1532,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
+        {
+          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时23分 ~ 18时43分]"
+        },
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
           "url": "https://wallstreetcn.com/articles/3766006",
@@ -42,17 +53,6 @@
           "time_info": "[01时14分 ~ 06时27分]"
         },
         {
-          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
-          "url": "https://wallstreetcn.com/articles/3766041",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时23分 ~ 17时45分]"
-        },
-        {
           "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
           "url": "https://wallstreetcn.com/articles/3766083",
           "source": "华尔街见闻",
@@ -64,8 +64,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[02时51分 ~ 17时45分]"
+          "appearance_count": 19,
+          "time_info": "[02时51分 ~ 18时43分]"
+        },
+        {
+          "title": "个人“手搓”AI股票分析助手热潮掀起，全民投研时代要到来了？",
+          "url": "https://www.cls.cn/detail/2294409",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时28分 ~ 18时43分]"
         },
         {
           "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
@@ -91,8 +104,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时14分 ~ 17时45分]"
+          "appearance_count": 22,
+          "time_info": "[01时14分 ~ 18时43分]"
         },
         {
           "title": "李佳薇JKAI声乐大师课",
@@ -128,17 +141,18 @@
           "time_info": "[01时14分 ~ 09时23分]"
         },
         {
-          "title": "个人“手搓”AI股票分析助手热潮掀起，全民投研时代要到来了？",
-          "url": "https://www.cls.cn/detail/2294409",
-          "source": "财联社热门",
+          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
+          "url": "https://wallstreetcn.com/articles/3766105",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            3,
-            1
+            10,
+            8,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时28分 ~ 17时45分]"
+          "appearance_count": 10,
+          "time_info": "[12时28分 ~ 18时43分]"
         },
         {
           "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
@@ -155,20 +169,6 @@
           "time_info": "[01时14分 ~ 07时24分]"
         },
         {
-          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
-          "url": "https://wallstreetcn.com/articles/3766105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时28分 ~ 17时45分]"
-        },
-        {
           "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
           "url": "https://wallstreetcn.com/articles/3766059",
           "source": "华尔街见闻",
@@ -181,6 +181,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时23分 ~ 16时39分]"
+        },
+        {
+          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
+          "url": "https://www.cls.cn/detail/2294269",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时47分 ~ 18时43分]"
         },
         {
           "title": "让 AI 爆改兵马俑挤地铁、蒙娜丽莎敲代码，职场人的精神状态有多超前？",
@@ -225,6 +239,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "部分审稿意见高度疑似由AI生成，期刊发声：审稿专家应珍惜学术信任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32650169",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 18时43分]"
         },
         {
           "title": "文件显示：美国法官驳回xAI针对OpenAI的商业机密诉讼。",
@@ -347,19 +373,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时24分]"
-        },
-        {
-          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
-          "url": "https://www.cls.cn/detail/2294269",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时47分 ~ 17时45分]"
         },
         {
           "title": "AI助盲眼镜成出行神器",
@@ -555,6 +568,17 @@
           "time_info": "[06时27分 ~ 07时24分]"
         },
         {
+          "title": "AI短片 马上好",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%20%E9%A9%AC%E4%B8%8A%E5%A5%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 18时43分]"
+        },
+        {
           "title": "AIGC动画电影团圆令定档预告",
           "url": "https://search.bilibili.com/all?keyword=AIGC%E5%8A%A8%E7%94%BB%E7%94%B5%E5%BD%B1%E5%9B%A2%E5%9C%86%E4%BB%A4%E5%AE%9A%E6%A1%A3%E9%A2%84%E5%91%8A",
           "source": "bilibili 热搜",
@@ -588,24 +612,13 @@
           "time_info": "07时24分"
         },
         {
-          "title": "部分审稿意见高度疑似由AI生成，期刊发声：审稿专家应珍惜学术信任",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32650169",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
-        },
-        {
           "title": "AI恐慌暂歇，欧股涨至历史新高，日本长债收益率集体飙升，现货黄金日内涨超1%",
           "url": "https://wallstreetcn.com/articles/3766102",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
