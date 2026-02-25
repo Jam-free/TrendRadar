@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T12:28:56.372435+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2026-02-25T13:57:24.030927+08:00",
+  "total_titles_processed": 1076,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 42,
+      "match_count": 46,
       "titles": [
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -53,8 +53,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时51分 ~ 12时28分]"
+          "appearance_count": 11,
+          "time_info": "[02时51分 ~ 13时57分]"
         },
         {
           "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
@@ -69,8 +69,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时14分 ~ 12时28分]"
+          "appearance_count": 14,
+          "time_info": "[01时14分 ~ 13时57分]"
         },
         {
           "title": "李佳薇JKAI声乐大师课",
@@ -127,8 +127,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 12时28分]"
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 13时57分]"
         },
         {
           "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
@@ -138,8 +138,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 12时28分]"
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 13时57分]"
         },
         {
           "title": "亚马逊(AMZN.O)AI实验室负责人将在领导层调整中离任。",
@@ -261,6 +261,18 @@
           "time_info": "[07时24分 ~ 09时23分]"
         },
         {
+          "title": "个人“手搓”AI股票分析助手热潮掀起，全民投研时代要到来了？",
+          "url": "https://www.cls.cn/detail/2294409",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 13时57分]"
+        },
+        {
           "title": "Citrini AI报告引发股市震荡，白宫经济顾问回应：纯属“科幻小说”",
           "url": "https://flash.jin10.com/detail/20260225031254647800",
           "source": "金十数据",
@@ -308,6 +320,32 @@
           "time_info": "[01时14分 ~ 01时54分]"
         },
         {
+          "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
+          "url": "https://wallstreetcn.com/articles/3766059",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 13时57分]"
+        },
+        {
+          "title": "“AI末日报告”作者发声：市场恐慌超预期，呼吁征收“AI税”来应对失业",
+          "url": "https://wallstreetcn.com/articles/3766046",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 13时57分]"
+        },
+        {
           "title": "据Axios网站：美国国防部长赫格塞思给Anthropic CEO达里奥·阿莫代设下最后期限——周五晚之前必须向军方无限制开放其AI模型，否则将面临严厉惩罚。",
           "url": "https://flash.jin10.com/detail/20260225022633218800",
           "source": "金十数据",
@@ -347,16 +385,15 @@
           "time_info": "[01时15分 ~ 02时51分]"
         },
         {
-          "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
-          "url": "https://wallstreetcn.com/articles/3766059",
-          "source": "华尔街见闻",
+          "title": "印度AI峰会，国际媒体给差评",
+          "url": "https://news.ifeng.com/c/8r1UoAfVAdP",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            8
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 12时28分]"
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 13时57分]"
         },
         {
           "title": "欧洲央行官员称，该地区银行业对从AI中受益抱有信心",
@@ -383,16 +420,16 @@
           "time_info": "[06时27分 ~ 07时24分]"
         },
         {
-          "title": "“AI末日报告”作者发声：市场恐慌超预期，呼吁征收“AI税”来应对失业",
-          "url": "https://wallstreetcn.com/articles/3766046",
+          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
+          "url": "https://wallstreetcn.com/articles/3766105",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            9
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时23分 ~ 12时28分]"
+          "time_info": "[12时28分 ~ 13时57分]"
         },
         {
           "title": "“官方辟谣”：白宫经济学家声称Citrini的AI风险报告纯属“科幻小说”",
@@ -431,17 +468,6 @@
           "time_info": "[06时27分 ~ 07时24分]"
         },
         {
-          "title": "印度AI峰会，国际媒体给差评",
-          "url": "https://news.ifeng.com/c/8r1UoAfVAdP",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 12时28分]"
-        },
-        {
           "title": "电费太贵 特朗普将在国情咨文中宣布让科技公司为AI能源买单",
           "url": "https://flash.jin10.com/detail/20260225033807828800",
           "source": "金十数据",
@@ -464,26 +490,37 @@
           "time_info": "07时24分"
         },
         {
-          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
-          "url": "https://wallstreetcn.com/articles/3766105",
-          "source": "华尔街见闻",
+          "title": "AI开始雇佣人类",
+          "url": "https://www.toutiao.com/trending/7609867693969178633/",
+          "source": "今日头条",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时28分"
+          "time_info": "13时57分"
         },
         {
-          "title": "个人“手搓”AI股票分析助手热潮掀起，全民投研时代要到来了？",
-          "url": "https://www.cls.cn/detail/2294409",
+          "title": "“AI灭霸”Anthropic与“受害股”合作推出智能体 软件板块集体回血",
+          "url": "https://www.cls.cn/detail/2294083",
           "source": "财联社热门",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时28分"
+          "time_info": "13时57分"
+        },
+        {
+          "title": "AI如果让90%的人都失业会怎样",
+          "url": "https://www.toutiao.com/trending/7610619092361285139/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         },
         {
           "title": "拉美电商巨头MercadoLibre（MELI.US）：代理AI工具将有助于跨境销售和个人财务。",
@@ -517,6 +554,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "研究机构：AI代理正掏空白领市场",
+          "url": "https://www.toutiao.com/trending/7610586211895217714/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         }
       ]
     }
