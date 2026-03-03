@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T17:35:03.006632+08:00",
-  "total_titles_processed": 1581,
+  "generated_at": "2026-03-03T18:32:39.695680+08:00",
+  "total_titles_processed": 1696,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,19 @@
           "time_info": "[00时35分 ~ 13时43分]"
         },
         {
+          "title": "AI参战对伊空袭",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%82%E6%88%98%E5%AF%B9%E4%BC%8A%E7%A9%BA%E8%A2%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时43分 ~ 18时32分]"
+        },
+        {
           "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
           "url": "https://wallstreetcn.com/premium/articles/3766415?layout=wscn-layout",
           "source": "华尔街见闻",
@@ -47,18 +60,6 @@
           "time_info": "[00时35分 ~ 07时19分]"
         },
         {
-          "title": "AI参战对伊空袭",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%82%E6%88%98%E5%AF%B9%E4%BC%8A%E7%A9%BA%E8%A2%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时43分 ~ 17时35分]"
-        },
-        {
           "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
           "url": "https://wallstreetcn.com/articles/3766555",
           "source": "华尔街见闻",
@@ -68,8 +69,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时21分 ~ 17时35分]"
+          "appearance_count": 11,
+          "time_info": "[09时21分 ~ 18时32分]"
         },
         {
           "title": "剑星AI作图抄袭,反手拉黑原创",
@@ -176,6 +177,18 @@
           "time_info": "15时38分"
         },
         {
+          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
+          "url": "https://www.cls.cn/detail/2300871",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时31分 ~ 18时32分]"
+        },
+        {
           "title": "如何评价 Apple 在 3 月 2 日 晚更新的 iPad Air M4，有哪些细节值得关注？",
           "url": "https://www.zhihu.com/question/2011932852577650327",
           "source": "知乎",
@@ -223,18 +236,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时39分 ~ 02时35分]"
-        },
-        {
-          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
-          "url": "https://www.cls.cn/detail/2300871",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时31分 ~ 17时35分]"
         },
         {
           "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
