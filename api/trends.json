@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T21:57:24.692988+08:00",
-  "total_titles_processed": 1968,
+  "generated_at": "2026-03-05T22:42:20.674128+08:00",
+  "total_titles_processed": 2045,
   "failed_sources": [],
   "trends": [
     {
@@ -105,8 +105,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时34分 ~ 21时57分]"
+          "appearance_count": 27,
+          "time_info": "[00时34分 ~ 22时42分]"
         },
         {
           "title": "十张AI电报带你看2026年国民经济和社会发展计划的主要任务",
@@ -131,8 +131,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时28分 ~ 21时57分]"
+          "appearance_count": 5,
+          "time_info": "[19时28分 ~ 22时42分]"
         },
         {
           "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
@@ -142,8 +142,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时31分 ~ 21时57分]"
+          "appearance_count": 7,
+          "time_info": "[18时31分 ~ 22时42分]"
         },
         {
           "title": "代表：AI不是来抢饭碗的",
@@ -502,7 +502,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         },
