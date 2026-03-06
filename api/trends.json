@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T14:38:46.491720+08:00",
-  "total_titles_processed": 1126,
+  "generated_at": "2026-03-06T15:34:52.123041+08:00",
+  "total_titles_processed": 1222,
   "failed_sources": [],
   "trends": [
     {
@@ -68,8 +68,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时22分 ~ 14时38分]"
+          "appearance_count": 6,
+          "time_info": "[09时22分 ~ 15时34分]"
         },
         {
           "title": "详解OpenAI新模型GPT-5.4",
@@ -84,6 +84,18 @@
           "time_info": "[12时02分 ~ 14时38分]"
         },
         {
+          "title": "3月6日投资避雷针：美国拟将AI芯片出口管制扩展至全球",
+          "url": "https://www.cls.cn/detail/2304544",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 15时34分]"
+        },
+        {
           "title": "市场消息：美国考虑制定规则，为寻求美国AI芯片的国家设立四个等级，美国考虑新的框架以监管人工智能芯片出口，出口超过20万个美国AI芯片可能需要对美国AI数据中心或安全进行投资。",
           "url": "https://flash.jin10.com/detail/20260306050651902800",
           "source": "金十数据",
@@ -94,17 +106,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时24分]"
-        },
-        {
-          "title": "3月6日投资避雷针：美国拟将AI芯片出口管制扩展至全球",
-          "url": "https://www.cls.cn/detail/2304544",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时03分]"
         },
         {
           "title": "OpenAI发布GPT-5.4及GPT-5.4 Pro模型，支持高达100万token的上下文窗口",
@@ -183,7 +184,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
