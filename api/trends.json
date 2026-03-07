@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T22:17:55.230102+08:00",
-  "total_titles_processed": 1668,
+  "generated_at": "2026-03-07T23:16:21.381129+08:00",
+  "total_titles_processed": 1736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "逐帧分析TES赛场Naiyou操作",
@@ -45,8 +45,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时54分 ~ 22时17分]"
+          "appearance_count": 18,
+          "time_info": "[11时54分 ~ 23时16分]"
         },
         {
           "title": "真实锐评TES打野Naiyou被调查",
@@ -73,11 +73,12 @@
             8,
             7,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时31分 ~ 22时17分]"
+          "appearance_count": 29,
+          "time_info": "[00时31分 ~ 23时16分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000",
@@ -166,17 +167,6 @@
           "time_info": "[09时14分 ~ 15时24分]"
         },
         {
-          "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
-          "url": "https://www.zhihu.com/question/2013292943084058316",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 05时22分]"
-        },
-        {
           "title": "AI 短剧与 AI 漫剧正以低成本、高效率迅速崛起，这会颠覆传统短剧行业吗？此新兴行业未来前景如何？",
           "url": "https://www.zhihu.com/question/2004583095244911914",
           "source": "知乎",
@@ -188,8 +178,19 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时21分 ~ 23时16分]"
+        },
+        {
+          "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
+          "url": "https://www.zhihu.com/question/2013292943084058316",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[16时21分 ~ 22时17分]"
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "TES教练 Naiyou说季后赛输的都是假赛",
@@ -205,6 +206,44 @@
           "time_info": "[19时14分 ~ 22时17分]"
         },
         {
+          "title": "在AI的加速时代，我们到底在害怕错过什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551616",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时14分 ~ 23时16分]"
+        },
+        {
+          "title": "用AI动画片求婚谁不心动啊",
+          "url": "https://www.douyin.com/hot/2422221",
+          "source": "抖音",
+          "ranks": [
+            20,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时14分 ~ 23时16分]"
+        },
+        {
+          "title": "3人48小时做出5亿播放量AI短剧",
+          "url": "https://s.weibo.com/weibo?q=%233%E4%BA%BA48%E5%B0%8F%E6%97%B6%E5%81%9A%E5%87%BA5%E4%BA%BF%E6%92%AD%E6%94%BE%E9%87%8FAI%E7%9F%AD%E5%89%A7%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
           "url": "https://wallstreetcn.com/articles/3766836",
           "source": "华尔街见闻",
@@ -215,6 +254,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时31分 ~ 02时34分]"
+        },
+        {
+          "title": "TES主教练谈naiyou事件",
+          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%BB%E6%95%99%E7%BB%83%E8%B0%88naiyou%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时29分 ~ 23时16分]"
         },
         {
           "title": "AI眼镜助失明姑娘独立出行",
@@ -239,42 +290,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[19时14分 ~ 22时17分]"
-        },
-        {
-          "title": "在AI的加速时代，我们到底在害怕错过什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551616",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时14分 ~ 22时17分]"
-        },
-        {
-          "title": "用AI动画片求婚谁不心动啊",
-          "url": "https://www.douyin.com/hot/2422221",
-          "source": "抖音",
-          "ranks": [
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时14分 ~ 22时17分]"
-        },
-        {
-          "title": "TES主教练谈naiyou事件",
-          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%BB%E6%95%99%E7%BB%83%E8%B0%88naiyou%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时29分 ~ 22时17分]"
         },
         {
           "title": "全国人大代表、传化集团董事长徐冠巨：大力推进AI+制造业行动，加快培育发展智能产业生态",
@@ -303,6 +318,18 @@
           "time_info": "[02时34分 ~ 04时23分]"
         },
         {
+          "title": "破 5 亿播放 AI 短剧成本仅 3000，这是新的风口吗？给影视行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2013275268022757071",
+          "source": "知乎",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时34分 ~ 23时16分]"
+        },
+        {
           "title": "解读刷爆外网的AI危机预言",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E5%88%B7%E7%88%86%E5%A4%96%E7%BD%91%E7%9A%84AI%E5%8D%B1%E6%9C%BA%E9%A2%84%E8%A8%80",
           "source": "bilibili 热搜",
@@ -313,6 +340,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时54分 ~ 12时57分]"
+        },
+        {
+          "title": "马上评｜AI时代，更要让孩子“身上有汗眼里有光”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32722000",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时34分 ~ 23时16分]"
         },
         {
           "title": "TES上报Naiyou不正当行为",
@@ -350,18 +389,6 @@
           "time_info": "[09时14分 ~ 11时54分]"
         },
         {
-          "title": "破 5 亿播放 AI 短剧成本仅 3000，这是新的风口吗？给影视行业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2013275268022757071",
-          "source": "知乎",
-          "ranks": [
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 22时17分]"
-        },
-        {
           "title": "人社部部长回应AI抢饭碗言论",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%A4%BE%E9%83%A8%E9%83%A8%E9%95%BF%E5%9B%9E%E5%BA%94AI%E6%8A%A2%E9%A5%AD%E7%A2%97%E8%A8%80%E8%AE%BA%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -371,17 +398,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时21分 ~ 17时22分]"
-        },
-        {
-          "title": "马上评｜AI时代，更要让孩子“身上有汗眼里有光”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32722000",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 22时17分]"
         },
         {
           "title": "AI时代人的创作还有意义吗",
@@ -489,7 +505,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
