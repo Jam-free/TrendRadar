@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T16:36:28.587101+08:00",
-  "total_titles_processed": 1292,
+  "generated_at": "2026-03-09T17:41:14.907316+08:00",
+  "total_titles_processed": 1414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "周末要闻汇总：证监会发布短线交易监管规定；AI“养龙虾”火了",
@@ -41,8 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 16时36分]"
+          "appearance_count": 19,
+          "time_info": "[00时19分 ~ 17时41分]"
         },
         {
           "title": "张文宏委员谈AI问诊：仅靠AI有风险，应坚持“医生主导、AI辅助”",
@@ -84,6 +84,19 @@
           "time_info": "[00时19分 ~ 09时20分]"
         },
         {
+          "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
+          "url": "https://wallstreetcn.com/articles/3766992",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时09分 ~ 17时41分]"
+        },
+        {
           "title": "3000元成本AI短剧5亿播放？导演澄清",
           "url": "https://www.toutiao.com/trending/7614214812960034340/",
           "source": "今日头条",
@@ -111,19 +124,6 @@
           "time_info": "[00时19分 ~ 07时17分]"
         },
         {
-          "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
-          "url": "https://wallstreetcn.com/articles/3766992",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时09分 ~ 16时36分]"
-        },
-        {
           "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
           "url": "https://www.zhihu.com/question/2013945403444257055",
           "source": "知乎",
@@ -131,8 +131,22 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时09分 ~ 17时41分]"
+        },
+        {
+          "title": "地方政策尝鲜“龙虾” AI加速进入Agent时代 但安全隐患仍需防范",
+          "url": "https://www.cls.cn/detail/2306605",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时09分 ~ 16时36分]"
+          "time_info": "[13时53分 ~ 17时41分]"
         },
         {
           "title": "AI“龙虾”火到全国两会，王坚：会很快便宜下来并普及",
@@ -186,19 +200,6 @@
           "time_info": "[04时17分 ~ 05时16分]"
         },
         {
-          "title": "地方政策尝鲜“龙虾” AI加速进入Agent时代 但安全隐患仍需防范",
-          "url": "https://www.cls.cn/detail/2306605",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 16时36分]"
-        },
-        {
           "title": "AI “养龙虾”火了！上市公司扎堆回应",
           "url": "https://wallstreetcn.com/livenews/3065866",
           "source": "华尔街见闻-快讯",
@@ -208,6 +209,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时19分 ~ 03时19分]"
+        },
+        {
+          "title": "AI龙虾爆火,市民排长龙抢装",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351552&amp;topic_name=AI%E9%BE%99%E8%99%BE%E7%88%86%E7%81%AB%2C%E5%B8%82%E6%B0%91%E6%8E%92%E9%95%BF%E9%BE%99%E6%8A%A2%E8%A3%85",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 17时41分]"
+        },
+        {
+          "title": "AI焦虑症",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%84%A6%E8%99%91%E7%97%87&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 17时41分]"
         },
         {
           "title": "最高法：恶意滥用AI换脸、拟声技术 电诈手法更隐蔽更具迷惑性",
@@ -249,7 +272,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         }
