@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T19:28:10.936893+08:00",
-  "total_titles_processed": 1735,
+  "generated_at": "2026-03-11T20:40:46.794198+08:00",
+  "total_titles_processed": 1842,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 40,
+      "match_count": 45,
       "titles": [
         {
           "title": "高校出手,AI龙虾被禁",
@@ -18,11 +18,12 @@
             14,
             19,
             23,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时50分 ~ 19时28分]"
+          "appearance_count": 25,
+          "time_info": "[00时50分 ~ 20时40分]"
         },
         {
           "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
@@ -61,8 +62,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时03分 ~ 19时28分]"
+          "appearance_count": 12,
+          "time_info": "[12时03分 ~ 20时40分]"
         },
         {
           "title": "AI背锅,内存降价遥遥无期",
@@ -97,6 +98,19 @@
           "time_info": "[13时42分 ~ 18时32分]"
         },
         {
+          "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
+          "url": "https://www.cls.cn/detail/2309524",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时32分 ~ 20时40分]"
+        },
+        {
           "title": "建议不允许青少年用AI做作业",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%8D%E5%85%81%E8%AE%B8%E9%9D%92%E5%B0%91%E5%B9%B4%E7%94%A8AI%E5%81%9A%E4%BD%9C%E4%B8%9A%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -123,19 +137,6 @@
           "time_info": "[14时42分 ~ 19时28分]"
         },
         {
-          "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
-          "url": "https://www.cls.cn/detail/2309524",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时32分 ~ 19时28分]"
-        },
-        {
           "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
           "url": "https://www.cls.cn/detail/2309633",
           "source": "财联社热门",
@@ -144,8 +145,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时35分 ~ 19时28分]"
+          "appearance_count": 6,
+          "time_info": "[17时35分 ~ 20时40分]"
         },
         {
           "title": "工信部提醒AI养虾安全风险",
@@ -184,6 +185,18 @@
           "time_info": "12时03分"
         },
         {
+          "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
+          "url": "https://wallstreetcn.com/articles/3767169",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时39分 ~ 20时40分]"
+        },
+        {
           "title": "付费卸载“龙虾”：AI狂热的荒诞反转",
           "url": "https://www.toutiao.com/trending/7615866634636365339/",
           "source": "今日头条",
@@ -220,6 +233,17 @@
           "time_info": "12时03分"
         },
         {
+          "title": "AI龙虾爆火,大神在线答疑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351702&amp;topic_name=AI%E9%BE%99%E8%99%BE%E7%88%86%E7%81%AB%2C%E5%A4%A7%E7%A5%9E%E5%9C%A8%E7%BA%BF%E7%AD%94%E7%96%91",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "新加坡普林斯顿数字集团（PDG）联合创始人兼首席执行Rangu Salgame：我们正处于AI投资的“超级周期”之中。 对AI的长期需求以及即将到来的创新，正在驱动对数据中心容量的需求。 我们与超大规模云厂商（Hyperscalers）拥有极其稳固的合同，平均租期为10-12年。 （对于怀疑论者质疑AI类协议是否在人为地夸大对AI芯片的需求）这些担忧并未影响公司获得融资的能力。",
           "url": "https://wallstreetcn.com/livenews/3067605",
           "source": "华尔街见闻-快讯",
@@ -229,17 +253,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
-          "url": "https://wallstreetcn.com/articles/3767169",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时39分 ~ 18时32分]"
         },
         {
           "title": "豆包限制AI成毅",
@@ -368,7 +381,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -395,6 +408,17 @@
           "time_info": "14时42分"
         },
         {
+          "title": "黄仁勋罕见发文：AI是这个重塑世界的重要力量，是电力、互联网一样的基础设施",
+          "url": "https://wallstreetcn.com/articles/3767211",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "美的集团加码AI，拟未来三年投入超600亿元",
           "url": "https://wallstreetcn.com/livenews/3067822",
           "source": "华尔街见闻-快讯",
@@ -404,6 +428,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
+        },
+        {
+          "title": "百度：DuClaw允许百度AI云用户访问OpenClaw。",
+          "url": "https://flash.jin10.com/detail/20260311200418601800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "AI短剧火热，业内人士称“是接下来最大风口”，行业内90%公司仍处于亏损状态",
@@ -492,6 +527,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        },
+        {
+          "title": "沉迷AI的领导belike",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "抖音再战社交，“小火人”打头阵：上线世界广场，内测AI精灵聊天",
+          "url": "https://wallstreetcn.com/livenews/3068063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         }
       ]
     }
