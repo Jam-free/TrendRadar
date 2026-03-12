@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T22:47:00.617390+08:00",
-  "total_titles_processed": 2031,
+  "generated_at": "2026-03-12T23:52:22.466368+08:00",
+  "total_titles_processed": 2124,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
@@ -43,11 +43,12 @@
             10,
             12,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时41分 ~ 22时47分]"
+          "appearance_count": 12,
+          "time_info": "[15时41分 ~ 23时52分]"
         },
         {
           "title": "2026AWE探营：家电AI化，大模型“养龙虾”，机器人、智能眼镜齐亮相",
@@ -104,11 +105,12 @@
             26,
             22,
             27,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时42分 ~ 22时47分]"
+          "appearance_count": 29,
+          "time_info": "[00时42分 ~ 23时52分]"
         },
         {
           "title": "马上评｜“AI时代的文科”由人类创造，而非AI",
@@ -135,6 +137,17 @@
           "time_info": "[00时42分 ~ 09时13分]"
         },
         {
+          "title": "“乐山大佛是大禹雕像”系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时28分 ~ 23时52分]"
+        },
+        {
           "title": "港口运营商APM Terminals Bahrain：将立即暂停哈利法·本·萨勒曼港的港口运营，包括泊位和闸口的作业。此次停业措施将于3月12日和13日继续生效。",
           "url": "https://flash.jin10.com/detail/20260312162011551800",
           "source": "金十数据",
@@ -152,7 +165,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         },
@@ -167,17 +180,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时42分 ~ 09时13分]"
-        },
-        {
-          "title": "“乐山大佛是大禹雕像”系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时28分 ~ 22时47分]"
         },
         {
           "title": "亚马逊将禁止初级工程师直接提交 AI 代码，如何评价这一举措？AI 提效与工程质量如何平衡？",
@@ -329,6 +331,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
+        },
+        {
+          "title": "戴尔科技CEO Michael Dell：（回应Anthropic与五角大楼的纠纷）企业无法影响（美国）政府如何使用（AI）工具。 企业（向美国政府）提出工具使用方式要求这种做法不可行。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3069024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "周三（3月11日），存储芯片与硬件供应链指数涨2.35%，报108.45点，美股盘初持续上涨，北京时间22:00以来持续高位窄幅震荡。 成分股Sandisk收涨5.90%，美光科技、Rambus至多涨3.86%，拉姆研究、应用材料至多涨1.69%，西部数据、希捷科技、泰瑞达TER至多涨0.97%。 信息科技指数涨1.51%，人工智能（AI）赢家指数涨1.43%，AI软件先驱指数涨0.97%。 北美科技软件股指数ETF收涨0.11%。",
