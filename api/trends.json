@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-03-13T19:26:06.236532+08:00",
-  "total_titles_processed": 1712,
+  "generated_at": "2026-03-13T20:39:00.435630+08:00",
+  "total_titles_processed": 1815,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
+        {
+          "title": "竖屏市场格局突变，真人短剧项目骤减，AI 漫剧迎爆发式增长规模突破 200 亿，怎样看待未来发展趋势？",
+          "url": "https://www.zhihu.com/question/2012836051480178728",
+          "source": "知乎",
+          "ranks": [
+            20,
+            4,
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时40分 ~ 20时39分]"
+        },
         {
           "title": "AWE2026探展来了！大厂押注“物理AI” 大模型融入传统家电",
           "url": "https://www.cls.cn/detail/2311468",
@@ -33,22 +47,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时17分 ~ 19时26分]"
-        },
-        {
-          "title": "竖屏市场格局突变，真人短剧项目骤减，AI 漫剧迎爆发式增长规模突破 200 亿，怎样看待未来发展趋势？",
-          "url": "https://www.zhihu.com/question/2012836051480178728",
-          "source": "知乎",
-          "ranks": [
-            20,
-            4,
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时40分 ~ 19时26分]"
+          "appearance_count": 16,
+          "time_info": "[09时17分 ~ 20时39分]"
         },
         {
           "title": "“乐山大佛是大禹雕像”系AI生成",
@@ -257,6 +257,17 @@
           "time_info": "[13时43分 ~ 14时42分]"
         },
         {
+          "title": "人工智能产业发展联盟：持续跟踪OpenClaw及同类AI智能体的安全风险动态",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32755562",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 20时39分]"
+        },
+        {
           "title": "马斯克：AI奇点后“钱将不再重要”",
           "url": "https://www.toutiao.com/trending/7615104402223038506/",
           "source": "今日头条",
@@ -329,7 +340,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
