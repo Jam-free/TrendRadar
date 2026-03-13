@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T13:43:18.046106+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2026-03-13T14:42:22.767397+08:00",
+  "total_titles_processed": 1204,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "“乐山大佛是大禹雕像”系AI生成",
@@ -43,8 +43,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时17分 ~ 13时43分]"
+          "appearance_count": 6,
+          "time_info": "[09时17分 ~ 14时42分]"
+        },
+        {
+          "title": "naiyou单曲无关风月",
+          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时17分 ~ 14时42分]"
         },
         {
           "title": "揭秘龙虾AI智能体",
@@ -71,17 +84,26 @@
           "time_info": "[00时52分 ~ 03时38分]"
         },
         {
-          "title": "naiyou单曲无关风月",
-          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
-          "source": "bilibili 热搜",
+          "title": "未来乡村会比AI生成的还漂亮",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A5%E4%B9%A1%E6%9D%91%E4%BC%9A%E6%AF%94AI%E7%94%9F%E6%88%90%E7%9A%84%E8%BF%98%E6%BC%82%E4%BA%AE",
+          "source": "百度热搜",
           "ranks": [
-            4,
-            15,
-            18
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时17分 ~ 13时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "贝莱德分析师：中东战火与AI浪潮助力“绿能”觉醒",
+          "url": "https://flash.jin10.com/detail/20260313143214386800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "马斯克旗下xAI从Cursor挖走两名高级领导人。（The Information）",
@@ -106,6 +128,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时21分]"
+        },
+        {
+          "title": "理想汽车 2025 年净利润 11 亿元，连续三年盈利，AI 相关投入占比 50%，怎样看其业绩表现？",
+          "url": "https://www.zhihu.com/question/2015481604898858354",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 14时42分]"
         },
         {
           "title": "Meta在Facebook Marketplace推出新款AI工具。",
@@ -178,6 +212,18 @@
           "time_info": "[05时26分 ~ 06时18分]"
         },
         {
+          "title": "中腰部演员将被AI替代",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E8%85%B0%E9%83%A8%E6%BC%94%E5%91%98%E5%B0%86%E8%A2%ABAI%E6%9B%BF%E4%BB%A3%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 14时42分]"
+        },
+        {
           "title": "马斯克：AI奇点后“钱将不再重要”",
           "url": "https://www.toutiao.com/trending/7615104402223038506/",
           "source": "今日头条",
@@ -209,17 +255,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
-        },
-        {
-          "title": "理想汽车 2025 年净利润 11 亿元，连续三年盈利，AI 相关投入占比 50%，怎样看其业绩表现？",
-          "url": "https://www.zhihu.com/question/2015481604898858354",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时43分"
         },
         {
           "title": "马斯克表示欢迎Jason Ginsberg、Andrew Milich加入xAI。",
@@ -277,17 +312,6 @@
           "time_info": "12时06分"
         },
         {
-          "title": "中腰部演员将被AI替代",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E8%85%B0%E9%83%A8%E6%BC%94%E5%91%98%E5%B0%86%E8%A2%ABAI%E6%9B%BF%E4%BB%A3%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        },
-        {
           "title": "在SpaceX上市前，特斯拉将其对xAI的投资转换为SpaceX股份",
           "url": "https://flash.jin10.com/detail/20260313023700863800",
           "source": "金十数据",
@@ -305,7 +329,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         }
