@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T17:32:49.743722+08:00",
-  "total_titles_processed": 1506,
+  "generated_at": "2026-03-13T18:29:08.643949+08:00",
+  "total_titles_processed": 1623,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             15,
             18,
             16,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时17分 ~ 17时32分]"
+          "appearance_count": 12,
+          "time_info": "[09时17分 ~ 18时29分]"
         },
         {
           "title": "“乐山大佛是大禹雕像”系AI生成",
@@ -79,11 +80,24 @@
           "ranks": [
             20,
             4,
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时40分 ~ 17时32分]"
+          "appearance_count": 6,
+          "time_info": "[15时40分 ~ 18时29分]"
+        },
+        {
+          "title": "为什么说「2026 年，AI 在疯狂寻找物理外壳」？你看到哪些好玩有趣的 AI 硬件产品？",
+          "url": "https://www.zhihu.com/question/2002762540602581922",
+          "source": "知乎",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时05分 ~ 18时29分]"
         },
         {
           "title": "揭秘龙虾AI智能体",
@@ -122,18 +136,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时43分 ~ 16时32分]"
-        },
-        {
-          "title": "为什么说「2026 年，AI 在疯狂寻找物理外壳」？你看到哪些好玩有趣的 AI 硬件产品？",
-          "url": "https://www.zhihu.com/question/2002762540602581922",
-          "source": "知乎",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时05分 ~ 17时32分]"
         },
         {
           "title": "贝莱德分析师：中东战火与AI浪潮助力“绿能”觉醒",
@@ -381,7 +383,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
