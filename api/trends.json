@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T15:40:12.113605+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2026-03-15T16:28:44.522619+08:00",
+  "total_titles_processed": 931,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时21分 ~ 15时40分]"
+          "appearance_count": 18,
+          "time_info": "[00时21分 ~ 16时28分]"
         },
         {
           "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
@@ -55,11 +55,12 @@
             12,
             17,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时21分 ~ 15时40分]"
+          "appearance_count": 18,
+          "time_info": "[00时21分 ~ 16时28分]"
         },
         {
           "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
@@ -95,8 +96,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时02分 ~ 15时40分]"
+          "appearance_count": 4,
+          "time_info": "[14时02分 ~ 16时28分]"
         },
         {
           "title": "马斯克xAI联创团队几乎全跑了",
@@ -104,11 +105,12 @@
           "source": "百度热搜",
           "ranks": [
             14,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时02分 ~ 15时40分]"
+          "appearance_count": 4,
+          "time_info": "[14时02分 ~ 16时28分]"
         },
         {
           "title": "AI时代家长如何教育孩子",
