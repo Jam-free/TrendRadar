@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T01:49:52.194957+08:00",
-  "total_titles_processed": 371,
+  "generated_at": "2026-03-20T02:45:16.066022+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
@@ -15,8 +15,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时45分]"
+        },
+        {
+          "title": "AI龙虾大战我的世界",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时45分]"
+        },
+        {
+          "title": "AI万物皆可龙抬头",
+          "url": "https://www.douyin.com/hot/2435867",
+          "source": "抖音",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时45分]"
         },
         {
           "title": "一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...",
@@ -30,26 +53,15 @@
           "time_info": "[00时49分 ~ 01时49分]"
         },
         {
-          "title": "AI龙虾大战我的世界",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
-          "source": "bilibili 热搜",
+          "title": "央视AI短片《流金谷恩仇录》爆火",
+          "url": "https://www.toutiao.com/trending/7618387888183836715/",
+          "source": "今日头条",
           "ranks": [
-            11
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时49分]"
-        },
-        {
-          "title": "AI万物皆可龙抬头",
-          "url": "https://www.douyin.com/hot/2435867",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时49分]"
+          "time_info": "[02时44分 ~ 02时45分]"
         },
         {
           "title": "微软(MSFT.O)CEO：我们的新图像生成器MAI-Image-2发布了，现在可以在MAIPlayground上使用，从逼真的现实主义到详细的信息图表应有尽有，现在我们已经跻身顶尖模型之列。",
@@ -58,7 +70,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
         }
