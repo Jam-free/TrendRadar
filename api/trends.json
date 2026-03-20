@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T14:44:29.669029+08:00",
-  "total_titles_processed": 1201,
+  "generated_at": "2026-03-20T15:41:41.904676+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时49分 ~ 09时19分]"
+        },
+        {
+          "title": "配音圈集体声讨,抵制AI盗声",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时19分 ~ 15时41分]"
         },
         {
           "title": "AI万物皆可龙抬头",
@@ -39,18 +52,6 @@
           "time_info": "[00时49分 ~ 14时44分]"
         },
         {
-          "title": "配音圈集体声讨,抵制AI盗声",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时19分 ~ 14时44分]"
-        },
-        {
           "title": "AI龙虾大战我的世界",
           "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
           "source": "bilibili 热搜",
@@ -58,11 +59,12 @@
             11,
             12,
             14,
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时49分 ~ 14时44分]"
+          "appearance_count": 15,
+          "time_info": "[00时49分 ~ 15时41分]"
         },
         {
           "title": "人民日报：请给AI起个中文名字",
@@ -71,11 +73,12 @@
           "ranks": [
             4,
             2,
-            8
+            8,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时07分 ~ 14时44分]"
+          "appearance_count": 5,
+          "time_info": "[12时07分 ~ 15时41分]"
         },
         {
           "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
@@ -87,8 +90,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时23分 ~ 14时44分]"
+          "appearance_count": 7,
+          "time_info": "[07时23分 ~ 15时41分]"
+        },
+        {
+          "title": "字节超60亿美元出售沐瞳科技，进一步聚焦AI战略",
+          "url": "https://wallstreetcn.com/livenews/3073900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "如何看待央视网发布的 AI 短视频《流金谷恩仇录》？",
@@ -112,8 +126,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时23分 ~ 14时44分]"
+          "appearance_count": 6,
+          "time_info": "[07时23分 ~ 15时41分]"
+        },
+        {
+          "title": "人工智能太绕,AI急需中文名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "美国白宫打算披露AI监管框架。（PunchBowl）",
@@ -165,6 +190,19 @@
           "time_info": "[09时19分 ~ 13时45分]"
         },
         {
+          "title": "揭秘AI投毒运作原理",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98AI%E6%8A%95%E6%AF%92%E8%BF%90%E4%BD%9C%E5%8E%9F%E7%90%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时45分 ~ 15时41分]"
+        },
+        {
           "title": "一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...",
           "url": "https://www.cls.cn/detail/2318157",
           "source": "财联社热门",
@@ -174,18 +212,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时49分 ~ 01时49分]"
-        },
-        {
-          "title": "揭秘AI投毒运作原理",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98AI%E6%8A%95%E6%AF%92%E8%BF%90%E4%BD%9C%E5%8E%9F%E7%90%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时45分 ~ 14时44分]"
         },
         {
           "title": "微软(MSFT.O)CEO：我们的新图像生成器MAI-Image-2发布了，现在可以在MAIPlayground上使用，从逼真的现实主义到详细的信息图表应有尽有，现在我们已经跻身顶尖模型之列。",
