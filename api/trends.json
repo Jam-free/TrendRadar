@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T22:10:44.422555+08:00",
-  "total_titles_processed": 1740,
+  "generated_at": "2026-03-23T23:54:55.022960+08:00",
+  "total_titles_processed": 1854,
   "failed_sources": [],
   "trends": [
     {
@@ -62,11 +62,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时46分 ~ 22时10分]"
+          "appearance_count": 3,
+          "time_info": "[20时46分 ~ 23时54分]"
         },
         {
           "title": "iPhone Air使用报告",
@@ -115,11 +116,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时46分 ~ 22时10分]"
+          "appearance_count": 3,
+          "time_info": "[20时46分 ~ 23时54分]"
         },
         {
           "title": "AI写歌走红程序员9个月赚20万",
@@ -127,11 +129,12 @@
           "source": "百度热搜",
           "ranks": [
             14,
-            5
+            5,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时46分 ~ 22时10分]"
+          "appearance_count": 3,
+          "time_info": "[20时46分 ~ 23时54分]"
         },
         {
           "title": "世界周刊之当AI决定扣动扳机",
