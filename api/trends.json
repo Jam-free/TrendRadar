@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T14:54:26.110106+08:00",
-  "total_titles_processed": 1237,
+  "generated_at": "2026-03-25T15:49:36.973708+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             17,
             14,
             13,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时01分 ~ 14时54分]"
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 15时49分]"
         },
         {
           "title": "AI骗老美,虚拟女兵狂捞金",
@@ -42,11 +43,12 @@
             11,
             12,
             21,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时01分 ~ 14时54分]"
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 15时49分]"
         },
         {
           "title": "知名编剧打假:AI是庞氏骗局",
@@ -56,11 +58,12 @@
             15,
             16,
             25,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时01分 ~ 14时54分]"
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 15时49分]"
         },
         {
           "title": "给AI龙虾装上双手打游戏",
@@ -92,6 +95,19 @@
           "time_info": "[01时01分 ~ 07时25分]"
         },
         {
+          "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
+          "url": "https://www.zhihu.com/question/2020036375211157322",
+          "source": "知乎",
+          "ranks": [
+            14,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 15时49分]"
+        },
+        {
           "title": "AI时代最离谱的KPI",
           "url": "https://www.douyin.com/hot/2442005",
           "source": "抖音",
@@ -112,19 +128,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
-        },
-        {
-          "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
-          "url": "https://www.zhihu.com/question/2020036375211157322",
-          "source": "知乎",
-          "ranks": [
-            14,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 14时54分]"
         },
         {
           "title": "卡塔尔液化天然气田受损后，Airgas化工产品公司限制氦气订单。",
@@ -155,11 +158,12 @@
           "ranks": [
             5,
             19,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 14时54分]"
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 15时49分]"
         },
         {
           "title": "OpenAI旗下文生视频Sora确认，该部门将不会再得到公司的支持。（彭博）",
@@ -187,6 +191,32 @@
           "time_info": "[12时13分 ~ 13时56分]"
         },
         {
+          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
+          "url": "https://www.cls.cn/detail/2323711",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 15时49分]"
+        },
+        {
+          "title": "Token AI时代的新KPI",
+          "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 15时49分]"
+        },
+        {
           "title": "报道：OpenAI完成了新款AI模型的初步开发，Altman将专注供应链和打造数据中心",
           "url": "https://wallstreetcn.com/livenews/3076185",
           "source": "华尔街见闻-快讯",
@@ -198,18 +228,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时34分 ~ 06时23分]"
-        },
-        {
-          "title": "Token AI时代的新KPI",
-          "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 14时54分]"
         },
         {
           "title": "“七巨头”集体熄火！华尔街惊呼：AI最大赢家已换人",
@@ -224,16 +242,28 @@
           "time_info": "[09时22分 ~ 13时56分]"
         },
         {
-          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
-          "url": "https://www.cls.cn/detail/2323711",
+          "title": "光模块获点名！深圳部署AI高质量发展：服务器全链条出货要跨越式增长",
+          "url": "https://www.cls.cn/detail/2323916",
           "source": "财联社热门",
           "ranks": [
-            9,
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时56分 ~ 15时49分]"
+        },
+        {
+          "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
+          "url": "https://wallstreetcn.com/articles/3768269",
+          "source": "华尔街见闻",
+          "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时13分 ~ 14时54分]"
+          "time_info": "[09时22分 ~ 15时49分]"
         },
         {
           "title": "如何看待 Ai 音乐创作这个趋势？",
@@ -247,29 +277,6 @@
           "time_info": "[06时23分 ~ 07时25分]"
         },
         {
-          "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
-          "url": "https://wallstreetcn.com/articles/3768269",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 14时54分]"
-        },
-        {
-          "title": "光模块获点名！深圳部署AI高质量发展：服务器全链条出货要跨越式增长",
-          "url": "https://www.cls.cn/detail/2323916",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 14时54分]"
-        },
-        {
           "title": "亚马逊传闻引爆软件板块恐慌 “AI颠覆逻辑”再度升温",
           "url": "https://www.cls.cn/detail/2323553",
           "source": "财联社热门",
@@ -280,6 +287,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时22分 ~ 12时13分]"
+        },
+        {
+          "title": "美军错误情报叠加 AI 决策致使「战斧」导弹误击伊朗小学，如何看待战争中使用 AI？AI 决策的边界在哪里？",
+          "url": "https://www.zhihu.com/question/2019437515753398973",
+          "source": "知乎",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时54分 ~ 15时49分]"
         },
         {
           "title": "AI将军凯旋归来",
@@ -457,17 +476,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        },
-        {
-          "title": "美军错误情报叠加 AI 决策致使「战斧」导弹误击伊朗小学，如何看待战争中使用 AI？AI 决策的边界在哪里？",
-          "url": "https://www.zhihu.com/question/2019437515753398973",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时54分"
         },
         {
           "title": "OpenAI首席财务官：本轮融资总额达1200亿美元",
