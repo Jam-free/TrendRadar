@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T09:22:27.916845+08:00",
-  "total_titles_processed": 828,
+  "generated_at": "2026-03-25T12:13:28.651860+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 41,
+      "match_count": 48,
       "titles": [
         {
           "title": "官方定调！AI时代“词元经济”崛起",
@@ -25,11 +25,12 @@
           "source": "贴吧",
           "ranks": [
             11,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 09时22分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 12时13分]"
         },
         {
           "title": "马上评｜“去人化”的AI影视，你还会看吗？",
@@ -38,11 +39,12 @@
           "ranks": [
             16,
             17,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 09时22分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 12时13分]"
         },
         {
           "title": "知名编剧打假:AI是庞氏骗局",
@@ -50,11 +52,12 @@
           "source": "贴吧",
           "ranks": [
             15,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 09时22分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 12时13分]"
         },
         {
           "title": "给AI龙虾装上双手打游戏",
@@ -92,7 +95,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -117,6 +120,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "这就是中国AI产业链的硬核实力",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A%E9%93%BE%E7%9A%84%E7%A1%AC%E6%A0%B8%E5%AE%9E%E5%8A%9B%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         },
         {
           "title": "Meta任命新负责人领导公司向“AI原生”转型",
@@ -167,26 +192,50 @@
           "time_info": "[06时23分 ~ 07时25分]"
         },
         {
+          "title": "“七巨头”集体熄火！华尔街惊呼：AI最大赢家已换人",
+          "url": "https://www.cls.cn/detail/2323532",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 12时13分]"
+        },
+        {
+          "title": "亚马逊传闻引爆软件板块恐慌 “AI颠覆逻辑”再度升温",
+          "url": "https://www.cls.cn/detail/2323553",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 12时13分]"
+        },
+        {
           "title": "CPU王炸登场！阿里新一代旗舰处理器玄铁C950刷新全球纪录，为AI Agent时代量身定制",
           "url": "https://wallstreetcn.com/articles/3768225",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
         {
-          "title": "“七巨头”集体熄火！华尔街惊呼：AI最大赢家已换人",
-          "url": "https://www.cls.cn/detail/2323532",
+          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
+          "url": "https://www.cls.cn/detail/2323711",
           "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时22分"
+          "time_info": "12时13分"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼调整职责分工，并筹备推出SPUD新型人工智能模型。",
@@ -198,6 +247,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "月之暗面创始人：今年起，AI研究方向将发生巨大变化，并将由AI主导。",
+          "url": "https://flash.jin10.com/detail/20260325115036010800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         },
         {
           "title": "OpenAI料将从MGX、Coatue、Thrive募集大约100亿美元。（彭博）",
@@ -217,7 +277,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -233,15 +293,15 @@
           "time_info": "07时25分"
         },
         {
-          "title": "亚马逊传闻引爆软件板块恐慌 “AI颠覆逻辑”再度升温",
-          "url": "https://www.cls.cn/detail/2323553",
-          "source": "财联社热门",
+          "title": "Token AI时代的新KPI",
+          "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
+          "source": "bilibili 热搜",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时22分"
+          "time_info": "12时13分"
         },
         {
           "title": "Meta任命Andrew Bosworth负责AI原生业务，负责管理“AI for Work”项目。 首席技术官（CTO）Bosworth将主管内部使用的AI工具。（华尔街日报）",
@@ -253,6 +313,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
+          "url": "https://www.zhihu.com/question/2020036375211157322",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         },
         {
           "title": "OpenAI发布基于推广的安全政策。 政策将帮助开发面向青少年的保护措施。 政策精准定位青少年面临的常规风险。",
@@ -272,7 +343,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -283,7 +354,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -462,6 +533,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "AI将军凯旋归来",
+          "url": "https://www.douyin.com/hot/2442407",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         },
         {
           "title": "据华尔街日报：Meta首席技术官安德鲁·博斯沃思将负责监管公司的“面向工作的AI”计划，公司重心正从元宇宙转移。",
