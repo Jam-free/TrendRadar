@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T16:49:34.405001+08:00",
-  "total_titles_processed": 1407,
+  "generated_at": "2026-03-26T17:55:25.516312+08:00",
+  "total_titles_processed": 1520,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             16,
             15,
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时02分 ~ 16时49分]"
+          "appearance_count": 16,
+          "time_info": "[00时02分 ~ 17时55分]"
         },
         {
           "title": "Token AI时代的新KPI",
@@ -34,8 +35,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时02分 ~ 16时49分]"
+          "appearance_count": 16,
+          "time_info": "[00时02分 ~ 17时55分]"
         },
         {
           "title": "短剧演员成AI技术第一批“牺牲品”",
@@ -59,7 +60,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -286,7 +287,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
