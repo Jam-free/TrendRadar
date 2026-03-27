@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T03:37:40.048795+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-03-28T04:30:20.403430+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 04时30分]"
         },
         {
           "title": "中国AI模型调用量爆发式增长",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 04时30分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 04时30分]"
         },
         {
           "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
@@ -62,8 +62,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 04时30分]"
         },
         {
           "title": "湘女多情AI陶喆版",
@@ -75,8 +75,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 04时30分]"
         },
         {
           "title": "LPL宣布naiyou假赛被终身禁赛",
@@ -88,8 +88,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 04时30分]"
         },
         {
           "title": "Naiyou终身禁赛",
@@ -101,8 +101,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 04时30分]"
+        },
+        {
+          "title": "据英国金融时报：因AI驱动的短缺交易回落，内存芯片股票市值蒸发1000亿美元。",
+          "url": "https://flash.jin10.com/detail/20260328034557564800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
         }
       ]
     }
