@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T07:24:58.067026+08:00",
-  "total_titles_processed": 724,
+  "generated_at": "2026-03-27T09:27:34.610986+08:00",
+  "total_titles_processed": 897,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
             14,
             12,
             11,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时05分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时05分 ~ 09时27分]"
         },
         {
           "title": "Token AI时代的新KPI",
@@ -39,11 +40,12 @@
           "ranks": [
             12,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时05分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时05分 ~ 09时27分]"
         },
         {
           "title": "Anthropic赢得法院支持，以阻止特朗普对其AI工具使用的禁令。（彭博）",
@@ -52,7 +54,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
