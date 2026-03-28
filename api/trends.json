@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T18:25:20.902470+08:00",
-  "total_titles_processed": 1324,
+  "generated_at": "2026-03-28T19:22:28.188519+08:00",
+  "total_titles_processed": 1387,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             9,
             11,
             12,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时44分 ~ 18时25分]"
+          "appearance_count": 22,
+          "time_info": "[00时44分 ~ 19时22分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -43,11 +44,26 @@
             11,
             13,
             14,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时44分 ~ 18时25分]"
+          "appearance_count": 22,
+          "time_info": "[00时44分 ~ 19时22分]"
+        },
+        {
+          "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
+          "url": "https://www.cls.cn/detail/2327720",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时52分 ~ 19时22分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -93,19 +109,6 @@
           "time_info": "[00时44分 ~ 07时24分]"
         },
         {
-          "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
-          "url": "https://www.cls.cn/detail/2327720",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时52分 ~ 18时25分]"
-        },
-        {
           "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
           "url": "https://www.zhihu.com/question/2017224899635142906",
           "source": "知乎",
@@ -138,11 +141,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时39分 ~ 18时25分]"
+          "appearance_count": 6,
+          "time_info": "[15时39分 ~ 19时22分]"
         },
         {
           "title": "人工智能机器人实验室（AI Robotics Lab）洽谈按110亿美元估值融资。",
