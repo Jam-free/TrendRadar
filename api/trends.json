@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T04:21:09.274749+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-03-29T05:23:19.402804+08:00",
+  "total_titles_processed": 466,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 05时23分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
@@ -29,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 05时23分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -41,8 +41,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 05时23分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -53,8 +53,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 05时23分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -65,8 +65,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 05时23分]"
         },
         {
           "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
@@ -76,8 +76,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 05时23分]"
         },
         {
           "title": "以色列国防军：不久前，以色列国防军实施了一次有针对性的打击行动，成功击毙了阿里·哈桑·沙伊卜（Ali Hassan Shaib），他是真主党拉德万部队情报部门的一名恐怖分子，多年来一直以记者的身份进行活动。",
@@ -96,11 +96,12 @@
           "url": "https://www.zhihu.com/question/598668295",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 04时21分]"
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 05时23分]"
         },
         {
           "title": "xAI最后一位联合创始人据悉已离开公司",
