@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T19:22:28.188519+08:00",
-  "total_titles_processed": 1387,
+  "generated_at": "2026-03-28T20:36:32.416349+08:00",
+  "total_titles_processed": 1459,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             11,
             12,
             15,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时44分 ~ 19时22分]"
+          "appearance_count": 23,
+          "time_info": "[00时44分 ~ 20时36分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -45,11 +46,12 @@
             13,
             14,
             17,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时44分 ~ 19时22分]"
+          "appearance_count": 23,
+          "time_info": "[00时44分 ~ 20时36分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
@@ -62,8 +64,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时52分 ~ 19时22分]"
+          "appearance_count": 11,
+          "time_info": "[13时52分 ~ 20时36分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -123,6 +125,20 @@
           "time_info": "[00时44分 ~ 03时37分]"
         },
         {
+          "title": "AI神游!原神现六指派蒙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352454&amp;topic_name=AI%E7%A5%9E%E6%B8%B8%21%E5%8E%9F%E7%A5%9E%E7%8E%B0%E5%85%AD%E6%8C%87%E6%B4%BE%E8%92%99",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            8,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时39分 ~ 20时36分]"
+        },
+        {
           "title": "Naiyou终身禁赛",
           "url": "https://www.douyin.com/hot/2446027",
           "source": "抖音",
@@ -134,19 +150,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时44分 ~ 04时30分]"
-        },
-        {
-          "title": "AI神游!原神现六指派蒙",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352454&amp;topic_name=AI%E7%A5%9E%E6%B8%B8%21%E5%8E%9F%E7%A5%9E%E7%8E%B0%E5%85%AD%E6%8C%87%E6%B4%BE%E8%92%99",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时39分 ~ 19时22分]"
         },
         {
           "title": "人工智能机器人实验室（AI Robotics Lab）洽谈按110亿美元估值融资。",
