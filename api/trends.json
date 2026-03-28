@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T14:49:12.926453+08:00",
-  "total_titles_processed": 1099,
+  "generated_at": "2026-03-28T15:40:13.558500+08:00",
+  "total_titles_processed": 1158,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "中国AI模型调用量爆发式增长",
@@ -25,11 +25,12 @@
           "ranks": [
             2,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时44分 ~ 14时49分]"
+          "appearance_count": 18,
+          "time_info": "[00时44分 ~ 15时40分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -39,11 +40,12 @@
             4,
             6,
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时44分 ~ 14时49分]"
+          "appearance_count": 18,
+          "time_info": "[00时44分 ~ 15时40分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -65,11 +67,12 @@
             9,
             11,
             18,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 09时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 15时40分]"
         },
         {
           "title": "LPL宣布naiyou假赛被终身禁赛",
@@ -123,8 +126,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时52分 ~ 14时49分]"
+          "appearance_count": 6,
+          "time_info": "[13时52分 ~ 15时40分]"
         },
         {
           "title": "人工智能机器人实验室（AI Robotics Lab）洽谈按110亿美元估值融资。",
@@ -138,6 +141,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时28分 ~ 09时21分]"
+        },
+        {
+          "title": "AI神游!原神现六指派蒙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352454&amp;topic_name=AI%E7%A5%9E%E6%B8%B8%21%E5%8E%9F%E7%A5%9E%E7%8E%B0%E5%85%AD%E6%8C%87%E6%B4%BE%E8%92%99",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时39分 ~ 15时40分]"
         },
         {
           "title": "警惕AI“过度谄媚”",
