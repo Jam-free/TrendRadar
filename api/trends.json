@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T12:13:41.850734+08:00",
-  "total_titles_processed": 933,
+  "generated_at": "2026-03-28T13:53:02.397623+08:00",
+  "total_titles_processed": 1040,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "中国AI模型调用量爆发式增长",
@@ -24,11 +24,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 12时13分]"
+          "appearance_count": 14,
+          "time_info": "[00时44分 ~ 13时53分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -37,11 +38,12 @@
           "ranks": [
             4,
             6,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 12时13分]"
+          "appearance_count": 14,
+          "time_info": "[00时44分 ~ 13时53分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -124,6 +126,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时28分 ~ 09时21分]"
+        },
+        {
+          "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
+          "url": "https://www.cls.cn/detail/2327720",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时53分]"
         },
         {
           "title": "警惕AI“过度谄媚”",
