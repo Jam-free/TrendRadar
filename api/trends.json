@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T09:31:31.004067+08:00",
-  "total_titles_processed": 640,
+  "generated_at": "2026-03-29T12:32:01.928121+08:00",
+  "total_titles_processed": 788,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "一个视频了解AI常识",
@@ -30,11 +30,12 @@
           "ranks": [
             7,
             8,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 09时31分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 12时32分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -42,11 +43,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 09时31分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 12时32分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -54,11 +56,12 @@
           "source": "贴吧",
           "ranks": [
             19,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 09时31分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 12时32分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -66,11 +69,12 @@
           "source": "贴吧",
           "ranks": [
             21,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 09时31分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 12时32分]"
         },
         {
           "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
@@ -107,6 +111,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 02时30分]"
+        },
+        {
+          "title": "谷歌AI内存压缩算法遭质疑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 12时32分]"
+        },
+        {
+          "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 12时32分]"
         },
         {
           "title": "就是你是RAIN也得接孩子放学",
@@ -161,7 +187,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         }
