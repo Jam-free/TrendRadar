@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T16:32:18.987092+08:00",
-  "total_titles_processed": 1047,
+  "generated_at": "2026-03-29T17:31:27.396685+08:00",
+  "total_titles_processed": 1108,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "一个视频了解AI常识",
@@ -37,8 +37,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 16时32分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 17时31分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -53,8 +53,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 16时32分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 17时31分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -68,8 +68,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 16时32分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 17时31分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -86,6 +86,21 @@
           "time_info": "[00时24分 ~ 15时48分]"
         },
         {
+          "title": "谷歌AI内存压缩算法遭质疑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            3,
+            15,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时31分 ~ 17时31分]"
+        },
+        {
           "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
           "url": "https://wallstreetcn.com/livenews/3078600",
           "source": "华尔街见闻-快讯",
@@ -97,20 +112,6 @@
           "time_info": "[00时24分 ~ 07时23分]"
         },
         {
-          "title": "谷歌AI内存压缩算法遭质疑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            3,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 16时32分]"
-        },
-        {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
           "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
           "source": "澎湃新闻",
@@ -120,8 +121,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 16时32分]"
+          "appearance_count": 7,
+          "time_info": "[12时31分 ~ 17时31分]"
         },
         {
           "title": "做量化搞 quant 会被 ai 取代吗?",
@@ -147,6 +148,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 02时30分]"
+        },
+        {
+          "title": "伊朗战争的账单，“AI牛市”来买？",
+          "url": "https://wallstreetcn.com/articles/3768662",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时30分 ~ 17时31分]"
         },
         {
           "title": "就是你是RAIN也得接孩子放学",
