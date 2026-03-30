@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T16:22:12.556659+08:00",
-  "total_titles_processed": 1174,
+  "generated_at": "2026-03-30T18:09:34.661900+08:00",
+  "total_titles_processed": 1312,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             1,
             8,
             9,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 16时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 18时09分]"
         },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
@@ -55,11 +56,12 @@
             18,
             21,
             19,
-            22
+            22,
+            15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 16时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 18时09分]"
         },
         {
           "title": "用 Ai 编程的你们真的不担心代码泄露吗？",
@@ -93,7 +95,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -113,11 +115,12 @@
           "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E7%A7%80%E7%89%99%E7%BC%9D%E8%87%AA%E8%AF%81%E2%80%9C%E4%B8%8D%E6%98%AFAI%E4%BA%BA%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 16时22分]"
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 18时09分]"
         },
         {
           "title": "复旦教授解析AI冲击职场真相",
@@ -148,7 +151,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -170,7 +173,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -181,7 +184,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         }
