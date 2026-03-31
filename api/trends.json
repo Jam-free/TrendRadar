@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T05:58:17.237673+08:00",
-  "total_titles_processed": 619,
+  "generated_at": "2026-04-01T06:27:47.226376+08:00",
+  "total_titles_processed": 662,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时27分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
@@ -26,8 +26,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时27分]"
         },
         {
           "title": "OpenAI完成1220亿美元融资，估值达8520亿美元",
