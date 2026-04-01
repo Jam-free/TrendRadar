@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T20:59:45.087882+08:00",
-  "total_titles_processed": 1775,
+  "generated_at": "2026-04-01T22:29:29.121537+08:00",
+  "total_titles_processed": 1902,
   "failed_sources": [],
   "trends": [
     {
@@ -19,11 +19,12 @@
             20,
             24,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时01分 ~ 20时59分]"
+          "appearance_count": 20,
+          "time_info": "[00时01分 ~ 22时29分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
@@ -78,6 +79,18 @@
           "time_info": "[18时02分 ~ 20时59分]"
         },
         {
+          "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
+          "url": "https://www.cls.cn/detail/2332176",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时44分 ~ 22时29分]"
+        },
+        {
           "title": "男子靠AI开一人公司年营收达150万",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%9D%A0AI%E5%BC%80%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E5%B9%B4%E8%90%A5%E6%94%B6%E8%BE%BE150%E4%B8%87%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -112,18 +125,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时49分 ~ 12时42分]"
-        },
-        {
-          "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
-          "url": "https://www.cls.cn/detail/2332176",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时44分 ~ 20时59分]"
         },
         {
           "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
