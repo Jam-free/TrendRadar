@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T20:54:08.572798+08:00",
-  "total_titles_processed": 1781,
+  "generated_at": "2026-04-02T22:19:36.494511+08:00",
+  "total_titles_processed": 1890,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
@@ -72,15 +72,18 @@
           "time_info": "[12时23分 ~ 19时40分]"
         },
         {
-          "title": "滴滴AI打车用户增长37倍",
-          "url": "https://wallstreetcn.com/livenews/3081601",
-          "source": "华尔街见闻-快讯",
+          "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32877620",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            17,
+            13,
+            12,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时05分 ~ 22时19分]"
         },
         {
           "title": "被AI短剧盗脸成丑角 女模特发声",
@@ -119,17 +122,16 @@
           "time_info": "14时08分"
         },
         {
-          "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32877620",
-          "source": "澎湃新闻",
+          "title": "滴滴AI打车用户增长37倍",
+          "url": "https://wallstreetcn.com/livenews/3081601",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17,
-            13,
-            12
+            1,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时05分 ~ 20时54分]"
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 22时19分]"
         },
         {
           "title": "央视AI奇谈 流金谷恩仇录",
@@ -177,6 +179,17 @@
           "time_info": "14时08分"
         },
         {
+          "title": "AI冲击+侵权,配音演员联合抵制",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "可灵AI全球用户规模领先，成Sora关停后最受关注视频模型",
           "url": "https://wallstreetcn.com/livenews/3081299",
           "source": "华尔街见闻-快讯",
@@ -194,7 +207,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -238,7 +251,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
