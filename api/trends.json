@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T04:27:47.585184+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2026-04-03T05:31:12.870573+08:00",
+  "total_titles_processed": 567,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 04时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 05时31分]"
         },
         {
           "title": "AI冲击+侵权,配音演员联合抵制",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 04时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 05时31分]"
         },
         {
           "title": "OpenAI收购科技行业脱口秀TBPN。（华尔街日报）",
@@ -85,7 +85,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         },
