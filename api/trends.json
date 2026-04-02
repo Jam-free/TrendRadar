@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T17:05:18.917423+08:00",
-  "total_titles_processed": 1421,
+  "generated_at": "2026-04-02T18:44:57.661148+08:00",
+  "total_titles_processed": 1560,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
@@ -68,8 +68,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时23分 ~ 17时05分]"
+          "appearance_count": 7,
+          "time_info": "[12时23分 ~ 18时44分]"
         },
         {
           "title": "被AI短剧盗脸成丑角 女模特发声",
@@ -119,6 +119,18 @@
           "time_info": "[09时25分 ~ 09时26分]"
         },
         {
+          "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32877620",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时05分 ~ 18时44分]"
+        },
+        {
           "title": "如何把 AI 训练成自己的「第二大脑」？",
           "url": "https://www.zhihu.com/question/2017266017961736190",
           "source": "知乎",
@@ -139,6 +151,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
+        },
+        {
+          "title": "美国AI又被电力设备“卡脖子”：今年近半数据中心受阻 开发商盯上二手变压器",
+          "url": "https://www.cls.cn/detail/2333025",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
         },
         {
           "title": "可灵AI全球用户规模领先，成Sora关停后最受关注视频模型",
@@ -185,17 +208,6 @@
           "time_info": "14时08分"
         },
         {
-          "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32877620",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时05分"
-        },
-        {
           "title": "如果 AI 能提供完美情绪价值，人需要 / 不需要真实的关系？",
           "url": "https://www.zhihu.com/question/2021960266758317386",
           "source": "知乎",
@@ -227,6 +239,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
+        },
+        {
+          "title": "行业组织发布声明严禁AI换脸合成",
+          "url": "https://wallstreetcn.com/livenews/3081500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
         },
         {
           "title": "数亿美元OpenAI股份在二级市场无人接盘，20亿现金蓄势待投Anthropic",
