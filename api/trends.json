@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T16:50:24.967328+08:00",
-  "total_titles_processed": 1361,
+  "generated_at": "2026-04-03T17:46:56.151691+08:00",
+  "total_titles_processed": 1478,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,25 @@
             10,
             11,
             16,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时49分 ~ 16时50分]"
+          "appearance_count": 17,
+          "time_info": "[00时49分 ~ 17时46分]"
+        },
+        {
+          "title": "同事被优化后 AI 分身在群里回消息、写代码，这种「数字分身」会侵犯离职员工权益吗？可能带来哪些问题？",
+          "url": "https://www.zhihu.com/question/2023359161887450046",
+          "source": "知乎",
+          "ranks": [
+            12,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时58分 ~ 17时46分]"
         },
         {
           "title": "OpenAI收购科技行业脱口秀TBPN。（华尔街日报）",
@@ -70,18 +84,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时49分 ~ 01时43分]"
-        },
-        {
-          "title": "同事被优化后 AI 分身在群里回消息、写代码，这种「数字分身」会侵犯离职员工权益吗？可能带来哪些问题？",
-          "url": "https://www.zhihu.com/question/2023359161887450046",
-          "source": "知乎",
-          "ranks": [
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时58分 ~ 16时50分]"
         },
         {
           "title": "标普道琼斯指数公司：将Atmus Filtration纳入标普小盘股600指数，从中剔除Air Lease。",
