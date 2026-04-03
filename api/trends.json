@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T17:46:56.151691+08:00",
-  "total_titles_processed": 1478,
+  "generated_at": "2026-04-03T18:36:26.342822+08:00",
+  "total_titles_processed": 1554,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             11,
             16,
             19,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时49分 ~ 17时46分]"
+          "appearance_count": 18,
+          "time_info": "[00时49分 ~ 18时36分]"
         },
         {
           "title": "同事被优化后 AI 分身在群里回消息、写代码，这种「数字分身」会侵犯离职员工权益吗？可能带来哪些问题？",
@@ -45,8 +46,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时58分 ~ 17时46分]"
+          "appearance_count": 4,
+          "time_info": "[15时58分 ~ 18时36分]"
         },
         {
           "title": "OpenAI收购科技行业脱口秀TBPN。（华尔街日报）",
