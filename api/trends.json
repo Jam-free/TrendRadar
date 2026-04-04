@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T20:37:11.551670+08:00",
-  "total_titles_processed": 1410,
+  "generated_at": "2026-04-04T21:47:20.634936+08:00",
+  "total_titles_processed": 1512,
   "failed_sources": [],
   "trends": [
     {
@@ -48,11 +48,12 @@
             5,
             6,
             9,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时51分 ~ 20时37分]"
+          "appearance_count": 11,
+          "time_info": "[14时51分 ~ 21时47分]"
         },
         {
           "title": "40岁男子AI成瘾无法接受版本更新",
@@ -88,6 +89,19 @@
           "time_info": "[00时31分 ~ 16时32分]"
         },
         {
+          "title": "据伊拉克安全及能源部门消息，两架无人机袭击伊拉克鲁迈拉北部油田（Rumaila North Oilfield），造成三名伊拉克工人受伤。",
+          "url": "https://wallstreetcn.com/livenews/3082430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 21时47分]"
+        },
+        {
           "title": "美媒：因AI初创公司Mercor发生数据泄露事件 Meta暂停与其合作",
           "url": "https://flash.jin10.com/detail/20260404125453767800",
           "source": "金十数据",
@@ -111,18 +125,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时37分 ~ 05时26分]"
-        },
-        {
-          "title": "据伊拉克安全及能源部门消息，两架无人机袭击伊拉克鲁迈拉北部油田（Rumaila North Oilfield），造成三名伊拉克工人受伤。",
-          "url": "https://wallstreetcn.com/livenews/3082430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 20时37分]"
         },
         {
           "title": "千问AI打车上线后周环比增长超1500%",
