@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T02:01:51.029023+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-04-09T03:22:08.742235+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 03时22分]"
         },
         {
           "title": "少儿编程班称「四岁学编程，赢在 AI 起跑线」收费上万，上课用 scratch 搭积木，这种课程靠谱吗？",
@@ -26,8 +26,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 03时22分]"
         },
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -37,8 +37,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 03时22分]"
         },
         {
           "title": "Meta发布新AI模型，力图追赶谷歌和OpenAI",
@@ -69,7 +69,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         }
