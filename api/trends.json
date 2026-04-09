@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T05:40:52.369205+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2026-04-10T06:34:23.544280+08:00",
+  "total_titles_processed": 627,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 05时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 06时34分]"
         },
         {
           "title": "【焦点复盘】沪指窄幅震荡收十字星，AI应用端大面积退潮，OCS产业链获持续热捧",
@@ -26,19 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 05时40分]"
-        },
-        {
-          "title": "【VIP资讯星推官】除了光纤外，还有哪些AI分支景气度上行？",
-          "url": "https://www.cls.cn/detail/2338824",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 05时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 06时34分]"
         },
         {
           "title": "Wait清唱挑战",
@@ -49,11 +38,12 @@
             16,
             15,
             20,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 05时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 06时34分]"
         },
         {
           "title": "玩具也要闯闯AI赛道",
@@ -67,8 +57,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 05时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 06时34分]"
         },
         {
           "title": "员工离职变AI,上班不能停",
@@ -76,6 +66,17 @@
           "source": "贴吧",
           "ranks": [
             25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 06时34分]"
+        },
+        {
+          "title": "【VIP资讯星推官】除了光纤外，还有哪些AI分支景气度上行？",
+          "url": "https://www.cls.cn/detail/2338824",
+          "source": "财联社热门",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -214,7 +215,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
         },
@@ -236,7 +237,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
         }
