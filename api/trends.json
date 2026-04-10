@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T05:31:16.718248+08:00",
-  "total_titles_processed": 582,
+  "generated_at": "2026-04-11T06:57:04.518014+08:00",
+  "total_titles_processed": 616,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时09分 ~ 06时57分]"
         },
         {
           "title": "夫妻称用AI写公众号年赚200万被封号",
@@ -26,11 +27,12 @@
             22,
             17,
             18,
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时09分 ~ 05时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时09分 ~ 06时57分]"
         },
         {
           "title": "据CNBC：美国副总统万斯和美国财长贝森特在Anthropic发布Mytho之前就AI安全问题质询科技巨头。",
@@ -39,9 +41,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时57分]"
         },
         {
           "title": "中国AI芯片格局反转",
@@ -134,7 +136,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         }
