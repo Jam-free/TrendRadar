@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T21:50:43.648968+08:00",
-  "total_titles_processed": 1533,
+  "generated_at": "2026-04-11T22:32:02.150069+08:00",
+  "total_titles_processed": 1609,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "AI换脸偷声侵权，那么大模型训练呢？",
@@ -31,8 +31,24 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时55分 ~ 21时50分]"
+          "appearance_count": 13,
+          "time_info": "[13时55分 ~ 22时32分]"
+        },
+        {
+          "title": "我也来试一下这个wait",
+          "url": "https://www.douyin.com/hot/2462368",
+          "source": "抖音",
+          "ranks": [
+            19,
+            22,
+            16,
+            17,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时45分 ~ 22时32分]"
         },
         {
           "title": "夫妻称用AI写公众号年赚200万被封号",
@@ -51,20 +67,19 @@
           "time_info": "[00时09分 ~ 07时28分]"
         },
         {
-          "title": "我也来试一下这个wait",
-          "url": "https://www.douyin.com/hot/2462368",
-          "source": "抖音",
+          "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
+          "url": "https://wallstreetcn.com/articles/3769738",
+          "source": "华尔街见闻",
           "ranks": [
-            19,
-            22,
-            16,
-            17,
-            14,
-            12
+            10,
+            9,
+            8,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时45分 ~ 21时50分]"
+          "appearance_count": 7,
+          "time_info": "[17时33分 ~ 22时32分]"
         },
         {
           "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
@@ -103,20 +118,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时09分 ~ 07时28分]"
-        },
-        {
-          "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
-          "url": "https://wallstreetcn.com/articles/3769738",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时33分 ~ 21时50分]"
         },
         {
           "title": "普京呼吁发展具有全球竞争力且最大限度自主的国产AI模型",
@@ -234,6 +235,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时34分 ~ 17时33分]"
+        },
+        {
+          "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
+          "url": "https://wallstreetcn.com/articles/3769740",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 22时32分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/L0FUuQ9wjv5TrILFaKkYG.jpg/lite\" height=\"120\"/></a>",
