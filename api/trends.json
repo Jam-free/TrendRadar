@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T20:38:45.032831+08:00",
-  "total_titles_processed": 1431,
+  "generated_at": "2026-04-11T21:50:43.648968+08:00",
+  "total_titles_processed": 1533,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             13,
             10,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时55分 ~ 20时38分]"
+          "appearance_count": 11,
+          "time_info": "[13时55分 ~ 21时50分]"
         },
         {
           "title": "夫妻称用AI写公众号年赚200万被封号",
@@ -50,17 +51,6 @@
           "time_info": "[00时09分 ~ 07时28分]"
         },
         {
-          "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
-          "url": "https://www.zhihu.com/question/2026136705757902456",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时33分 ~ 20时38分]"
-        },
-        {
           "title": "我也来试一下这个wait",
           "url": "https://www.douyin.com/hot/2462368",
           "source": "抖音",
@@ -69,11 +59,24 @@
             22,
             16,
             17,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时45分 ~ 20时38分]"
+          "appearance_count": 8,
+          "time_info": "[15时45分 ~ 21时50分]"
+        },
+        {
+          "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
+          "url": "https://www.zhihu.com/question/2026136705757902456",
+          "source": "知乎",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时33分 ~ 21时50分]"
         },
         {
           "title": "据CNBC：美国副总统万斯和美国财长贝森特在Anthropic发布Mytho之前就AI安全问题质询科技巨头。",
@@ -100,6 +103,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时09分 ~ 07时28分]"
+        },
+        {
+          "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
+          "url": "https://wallstreetcn.com/articles/3769738",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时33分 ~ 21时50分]"
         },
         {
           "title": "普京呼吁发展具有全球竞争力且最大限度自主的国产AI模型",
@@ -153,19 +170,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 05时31分]"
-        },
-        {
-          "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
-          "url": "https://wallstreetcn.com/articles/3769738",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时33分 ~ 20时38分]"
         },
         {
           "title": "加拿大央行与大型银行机构开会，讨论Anthropic AI所构成的网络风险。",
@@ -328,7 +332,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         },
