@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T04:03:52.834855+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-04-16T04:40:55.832743+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 04时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 04时40分]"
         },
         {
           "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 04时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 04时40分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850507&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/to3CwevUBG-vaezhxQK_C.jpg/lite\" height=\"120\"/></a>",
