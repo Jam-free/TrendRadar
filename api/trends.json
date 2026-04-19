@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T01:29:55.459328+08:00",
-  "total_titles_processed": 353,
+  "generated_at": "2026-04-20T02:37:32.395952+08:00",
+  "total_titles_processed": 383,
   "failed_sources": [],
   "trends": [
     {
@@ -16,20 +16,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时29分]"
-        },
-        {
-          "title": "怎样能够一眼分辨出是 AI 生成的文章？",
-          "url": "https://www.zhihu.com/question/3022969383",
-          "source": "知乎",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时37分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -40,8 +28,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时37分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -52,8 +40,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时37分]"
         },
         {
           "title": "谷歌公司与迈威尔科技洽谈打造新款AI芯片。（The Information）",
@@ -61,6 +49,18 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时37分]"
+        },
+        {
+          "title": "怎样能够一眼分辨出是 AI 生成的文章？",
+          "url": "https://www.zhihu.com/question/3022969383",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
