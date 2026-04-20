@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-04-20T17:51:05.779569+08:00",
-  "total_titles_processed": 1238,
+  "generated_at": "2026-04-20T19:15:06.367507+08:00",
+  "total_titles_processed": 1359,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "如何看待番茄平台上月稿费 80 万的金番作者使用 AI 写作，甚至在正文中没有删除 AI 提示词的现象？",
+          "url": "https://www.zhihu.com/question/2027490615500313080",
+          "source": "知乎",
+          "ranks": [
+            10,
+            5,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时54分 ~ 19时15分]"
+        },
         {
           "title": "我们要不要向AI说谢谢？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33005512",
@@ -18,8 +32,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时36分 ~ 17时51分]"
+          "appearance_count": 13,
+          "time_info": "[03时36分 ~ 19时15分]"
         },
         {
           "title": "up主转战AI动画遭手绘党声讨",
@@ -61,29 +75,16 @@
           "time_info": "[00时31分 ~ 09时54分]"
         },
         {
-          "title": "如何看待番茄平台上月稿费 80 万的金番作者使用 AI 写作，甚至在正文中没有删除 AI 提示词的现象？",
-          "url": "https://www.zhihu.com/question/2027490615500313080",
-          "source": "知乎",
-          "ranks": [
-            10,
-            5,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时54分 ~ 17时51分]"
-        },
-        {
           "title": "AI养马能代替养虾吗",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%85%BB%E9%A9%AC%E8%83%BD%E4%BB%A3%E6%9B%BF%E5%85%BB%E8%99%BE%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 17时51分]"
+          "appearance_count": 4,
+          "time_info": "[17时50分 ~ 19时15分]"
         },
         {
           "title": "AI观众",
@@ -113,11 +114,12 @@
           "source": "今日头条",
           "ranks": [
             6,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时13分 ~ 17时51分]"
+          "appearance_count": 5,
+          "time_info": "[15时13分 ~ 19时15分]"
         },
         {
           "title": "女子酒窝超大被网友怀疑是AI",
@@ -125,11 +127,36 @@
           "source": "百度热搜",
           "ranks": [
             9,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时13分 ~ 17时51分]"
+          "appearance_count": 5,
+          "time_info": "[15时13分 ~ 19时15分]"
+        },
+        {
+          "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
+          "url": "https://wallstreetcn.com/articles/3770370",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时50分 ~ 19时15分]"
+        },
+        {
+          "title": "未授权AI艺人",
+          "url": "https://s.weibo.com/weibo?q=%E6%9C%AA%E6%8E%88%E6%9D%83AI%E8%89%BA%E4%BA%BA&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时50分 ~ 19时15分]"
         },
         {
           "title": "张若昀工作室 没签过AI授权",
@@ -155,26 +182,37 @@
           "time_info": "[00时31分 ~ 02时37分]"
         },
         {
-          "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
-          "url": "https://wallstreetcn.com/articles/3770370",
-          "source": "华尔街见闻",
+          "title": "AI围剿影视圈,演员签卖身契",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
+          "source": "贴吧",
           "ranks": [
-            9
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时50分 ~ 17时51分]"
+          "time_info": "[19时14分 ~ 19时15分]"
         },
         {
-          "title": "未授权AI艺人",
-          "url": "https://s.weibo.com/weibo?q=%E6%9C%AA%E6%8E%88%E6%9D%83AI%E8%89%BA%E4%BA%BA&t=31&band_rank=12&Refer=top",
+          "title": "华为首款鸿蒙AI眼镜亮相，Pura 90系列定价持平上代，余承东：单机成本涨1500元，扛不住可能涨价！",
+          "url": "https://wallstreetcn.com/articles/3770390",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 19时15分]"
+        },
+        {
+          "title": "曝王楚然早就融了AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%97%A9%E5%B0%B1%E8%9E%8D%E4%BA%86AI%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时50分 ~ 17时51分]"
+          "time_info": "[19时14分 ~ 19时15分]"
         },
         {
           "title": "陈哲远丞磊曾舜晞入驻爱奇艺AI艺人库",
@@ -210,6 +248,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时50分 ~ 17时51分]"
+        },
+        {
+          "title": "演员集体辟谣AI授权",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E9%9B%86%E4%BD%93%E8%BE%9F%E8%B0%A3AI%E6%8E%88%E6%9D%83%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 19时15分]"
         },
         {
           "title": "AI初创公司Cursor正在洽谈筹集20亿美元的融资，估值超过500亿美元。",
@@ -284,7 +333,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         }
