@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T14:54:27.771917+08:00",
-  "total_titles_processed": 1114,
+  "generated_at": "2026-04-21T16:29:32.917872+08:00",
+  "total_titles_processed": 1260,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时57分 ~ 14时54分]"
+          "appearance_count": 13,
+          "time_info": "[00时57分 ~ 16时29分]"
         },
         {
           "title": "爱奇艺称AI艺人库仅是合作意愿",
@@ -54,11 +54,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时57分 ~ 14时54分]"
+          "appearance_count": 13,
+          "time_info": "[00时57分 ~ 16时29分]"
         },
         {
           "title": "钉钉 CEO 称严禁员工写文档、做会议纪要，沟通仅用白板，全靠 AI 自动整理，这种办公理念怎么样？",
@@ -143,6 +144,18 @@
           "time_info": "[03时57分 ~ 09时50分]"
         },
         {
+          "title": "拆解AI艺人库背后野心",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3AI%E8%89%BA%E4%BA%BA%E5%BA%93%E8%83%8C%E5%90%8E%E9%87%8E%E5%BF%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时44分 ~ 16时29分]"
+        },
+        {
           "title": "污染数据、操控榜单 你信任的AI可能已被“投毒”",
           "url": "https://flash.jin10.com/detail/20260421065051985800",
           "source": "金十数据",
@@ -219,27 +232,17 @@
           "time_info": "[00时57分 ~ 07时36分]"
         },
         {
-          "title": "拆解AI艺人库背后野心",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3AI%E8%89%BA%E4%BA%BA%E5%BA%93%E8%83%8C%E5%90%8E%E9%87%8E%E5%BF%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 14时54分]"
-        },
-        {
           "title": "AI短剧是如何诞生的",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E5%89%A7%E6%98%AF%E5%A6%82%E4%BD%95%E8%AF%9E%E7%94%9F%E7%9A%84",
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            10
+            10,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 14时54分]"
+          "appearance_count": 3,
+          "time_info": "[12时44分 ~ 16时29分]"
         },
         {
           "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
@@ -247,11 +250,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 14时54分]"
+          "appearance_count": 3,
+          "time_info": "[12时44分 ~ 16时29分]"
         },
         {
           "title": "于和伟、张若昀等接连否认入驻爱奇艺 AI 艺人库，到底是怎么回事？AI 艺人库可能涉及哪些法律风险？",
@@ -296,7 +300,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -307,7 +311,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -318,7 +322,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -384,7 +388,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
