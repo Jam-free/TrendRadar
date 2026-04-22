@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T14:54:06.075282+08:00",
-  "total_titles_processed": 1176,
+  "generated_at": "2026-04-22T16:26:59.010572+08:00",
+  "total_titles_processed": 1300,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "国务院重磅部署！事关AI、算力、6G、卫星互联网等",
@@ -43,6 +43,19 @@
           "time_info": "[00时51分 ~ 09时49分]"
         },
         {
+          "title": "SpaceX放出“IPO重磅炸弹”：太空AI技术未经验证，未必能商业化！",
+          "url": "https://www.cls.cn/detail/2351466",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时48分 ~ 16时26分]"
+        },
+        {
           "title": "AI围剿影视圈,演员签卖身契",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
           "source": "贴吧",
@@ -52,18 +65,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时51分 ~ 09时49分]"
-        },
-        {
-          "title": "SpaceX放出“IPO重磅炸弹”：太空AI技术未经验证，未必能商业化！",
-          "url": "https://www.cls.cn/detail/2351466",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时48分 ~ 14时54分]"
         },
         {
           "title": "《封神 3》正在后期制作，或用 AI 做特效，乌尔善能否逆风翻盘？",
@@ -81,6 +82,33 @@
           "time_info": "[00时51分 ~ 07时30分]"
         },
         {
+          "title": "核心拒绝AI,异环美术光速滑跪",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 16时26分]"
+        },
+        {
+          "title": "唐国强授权生成「数字版唐国强」，直言 AI 未来会比真人更完美，如何看待这种「主动拥抱替代」的态度？",
+          "url": "https://www.zhihu.com/question/2029861890638045761",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5,
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时48分 ~ 16时26分]"
+        },
+        {
           "title": "唐诡导演 真人能演为啥让AI演",
           "url": "https://s.weibo.com/weibo?q=%E5%94%90%E8%AF%A1%E5%AF%BC%E6%BC%94%20%E7%9C%9F%E4%BA%BA%E8%83%BD%E6%BC%94%E4%B8%BA%E5%95%A5%E8%AE%A9AI%E6%BC%94&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -93,19 +121,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时01分 ~ 07时30分]"
-        },
-        {
-          "title": "唐国强授权生成「数字版唐国强」，直言 AI 未来会比真人更完美，如何看待这种「主动拥抱替代」的态度？",
-          "url": "https://www.zhihu.com/question/2029861890638045761",
-          "source": "知乎",
-          "ranks": [
-            8,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时48分 ~ 14时54分]"
         },
         {
           "title": "深度剖析2026斯坦福AI报告",
@@ -152,25 +167,13 @@
           "time_info": "05时38分"
         },
         {
-          "title": "核心拒绝AI,异环美术光速滑跪",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 14时54分]"
-        },
-        {
           "title": "据伊朗媒体报道，在伊斯法罕市从Kowsar大道到Darchai桥的区域，可能听到受控爆炸的声音。",
           "url": "https://flash.jin10.com/detail/20260422144504655800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -181,7 +184,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -240,11 +243,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 14时54分]"
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 16时26分]"
         },
         {
           "title": "如果“AI艺人”真的来了，观众能接受吗",
@@ -252,11 +256,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 14时54分]"
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 16时26分]"
         },
         {
           "title": "AI创造营",
@@ -298,7 +303,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -320,7 +325,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -364,7 +369,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -424,6 +429,17 @@
           "time_info": "00时51分"
         },
         {
+          "title": "丈夫用AI做“跳河轻生”图 妻子报警",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E7%94%A8AI%E5%81%9A%E2%80%9C%E8%B7%B3%E6%B2%B3%E8%BD%BB%E7%94%9F%E2%80%9D%E5%9B%BE+%E5%A6%BB%E5%AD%90%E6%8A%A5%E8%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "SpaceX：获得600亿美元收购AI编程公司Cursor的权利",
           "url": "https://wallstreetcn.com/livenews/3092133",
           "source": "华尔街见闻-快讯",
@@ -433,6 +449,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
+        },
+        {
+          "title": "汇丰前海在报告中表示，恒生科技指数在经历自2025年四季度高点的明显回调后，当前估值已具吸引力，叠加AI在广告等领域扩大收入空间的潜力，维持对该指数整体积极看法。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3092403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "SpaceX在上市文件中警示：太空AI项目技术未经验证，商业前景存疑",
@@ -466,6 +493,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：金融服务局与日本央行将于周五与大型银行会面，讨论AI模型Mythos。",
+          "url": "https://flash.jin10.com/detail/20260422160042393800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         }
       ]
     }
