@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T19:34:07.716544+08:00",
-  "total_titles_processed": 1270,
+  "generated_at": "2026-04-25T20:43:44.887227+08:00",
+  "total_titles_processed": 1342,
   "failed_sources": [],
   "trends": [
     {
@@ -65,8 +65,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时47分 ~ 19时34分]"
+          "appearance_count": 18,
+          "time_info": "[00时47分 ~ 20时43分]"
+        },
+        {
+          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
+          "url": "https://wallstreetcn.com/articles/3770880",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时43分 ~ 20时43分]"
         },
         {
           "title": "罚没已超33亿，证监会新一轮打击财务造假，强化财务舞弊监管AI大模型应用",
@@ -95,8 +106,21 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时47分 ~ 19时34分]"
+          "appearance_count": 18,
+          "time_info": "[00时47分 ~ 20时43分]"
+        },
+        {
+          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
+          "url": "https://wallstreetcn.com/articles/3770859",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时17分 ~ 20时43分]"
         },
         {
           "title": "DeepSeek V4揭开AI内卷终局",
@@ -114,17 +138,6 @@
           "time_info": "[00时47分 ~ 07时34分]"
         },
         {
-          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
-          "url": "https://wallstreetcn.com/articles/3770880",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时43分 ~ 19时34分]"
-        },
-        {
           "title": "第一次对AI感到恐惧",
           "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AF%B9AI%E6%84%9F%E5%88%B0%E6%81%90%E6%83%A7&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -138,17 +151,27 @@
           "time_info": "[14时17分 ~ 19时34分]"
         },
         {
-          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
-          "url": "https://wallstreetcn.com/articles/3770859",
-          "source": "华尔街见闻",
+          "title": "网警打谣|利用AI编造泸州楼房倒塌者被罚",
+          "url": "https://www.toutiao.com/trending/7632545381678878254/",
+          "source": "今日头条",
           "ranks": [
-            8,
-            6,
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时17分 ~ 19时34分]"
+          "appearance_count": 8,
+          "time_info": "[14时17分 ~ 20时43分]"
+        },
+        {
+          "title": "AI热潮推动核能投资升温 X-Energy上市首日股价大涨27%",
+          "url": "https://www.cls.cn/detail/2355592",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时17分 ~ 20时43分]"
         },
         {
           "title": "戛纳电影宫的中国AI时刻",
@@ -165,28 +188,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时45分 ~ 18时37分]"
-        },
-        {
-          "title": "网警打谣|利用AI编造泸州楼房倒塌者被罚",
-          "url": "https://www.toutiao.com/trending/7632545381678878254/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时17分 ~ 19时34分]"
-        },
-        {
-          "title": "AI热潮推动核能投资升温 X-Energy上市首日股价大涨27%",
-          "url": "https://www.cls.cn/detail/2355592",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时17分 ~ 19时34分]"
         },
         {
           "title": "软银准备为AI数据中心制造电池",
