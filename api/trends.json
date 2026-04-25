@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T22:43:30.820988+08:00",
-  "total_titles_processed": 1475,
+  "generated_at": "2026-04-25T23:34:28.413710+08:00",
+  "total_titles_processed": 1526,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "一图看懂 | 站在“光”里，苏州这些上市公司藏着AI算力密码",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时43分 ~ 22时43分]"
+          "appearance_count": 9,
+          "time_info": "[17时43分 ~ 23时34分]"
         },
         {
           "title": "中方反对美方污蔑抹黑中国AI产业",
@@ -59,8 +59,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时17分 ~ 22时43分]"
+          "appearance_count": 11,
+          "time_info": "[14时17分 ~ 23时34分]"
         },
         {
           "title": "财晓得｜光纤涨价650%背后：AI需求“挤爆”光通信产业链",
@@ -91,8 +91,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时47分 ~ 22时43分]"
+          "appearance_count": 21,
+          "time_info": "[00时47分 ~ 23时34分]"
         },
         {
           "title": "网警打谣|利用AI编造泸州楼房倒塌者被罚",
@@ -102,8 +102,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时17分 ~ 22时43分]"
+          "appearance_count": 11,
+          "time_info": "[14时17分 ~ 23时34分]"
         },
         {
           "title": "罚没已超33亿，证监会新一轮打击财务造假，强化财务舞弊监管AI大模型应用",
@@ -134,8 +134,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时47分 ~ 22时43分]"
+          "appearance_count": 21,
+          "time_info": "[00时47分 ~ 23时34分]"
         },
         {
           "title": "AI热潮推动核能投资升温 X-Energy上市首日股价大涨27%",
@@ -410,6 +410,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
+        },
+        {
+          "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33051014",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "市场消息：美国法官驳回马斯克针对OpenAI和OpenAI创始人奥尔特曼的诉讼中提出的欺诈指控，计划继续就马斯克的其他指控进行庭审。",
