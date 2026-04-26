@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T04:31:50.296597+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-04-27T05:31:41.000085+08:00",
+  "total_titles_processed": 429,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 05时31分]"
         },
         {
           "title": "AI 编程从「vibe coding」到「wish coding」，迎来 C 端拐点，这意味着什么？",
@@ -25,11 +25,12 @@
           "ranks": [
             13,
             7,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 05时31分]"
         },
         {
           "title": "AI行情之后，市场开始面对真正的变量：能源价格上移",
@@ -39,8 +40,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 05时31分]"
         },
         {
           "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
@@ -52,8 +53,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 05时31分]"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -63,8 +64,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 05时31分]"
         },
         {
           "title": "专家热议AI短剧以规范促发展",
@@ -74,11 +75,12 @@
             15,
             14,
             10,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 05时31分]"
         },
         {
           "title": "加拿大曼尼托巴省拟禁止未成年人使用社交媒体及AI聊天机器人",
@@ -88,11 +90,12 @@
             1,
             7,
             14,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时33分 ~ 04时31分]"
+          "appearance_count": 5,
+          "time_info": "[01时33分 ~ 05时31分]"
         }
       ]
     }
