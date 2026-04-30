@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T04:52:40.044539+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-05-01T05:51:08.671361+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "假如AI能模拟去世亲人",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 04时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时51分]"
         },
         {
           "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 04时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时51分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -40,19 +40,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 04时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时51分]"
         },
         {
           "title": "中央网信办部署开展“清朗·整治AI应用乱象”专项行动",
           "url": "https://www.cls.cn/detail/2361143",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 04时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时51分]"
         },
         {
           "title": "AI魔改黑袍,星光姐被玩坏",
@@ -62,8 +63,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 04时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时51分]"
         },
         {
           "title": "深圳14岁男孩用AI备考押中奥赛题",
@@ -72,11 +73,23 @@
           "ranks": [
             22,
             24,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 04时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时51分]"
+        },
+        {
+          "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
+          "url": "https://www.cls.cn/detail/2361533",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时50分 ~ 05时51分]"
         },
         {
           "title": "4月30日，马斯克重返证人席，接受OpenAI律师反询问。",
@@ -140,7 +153,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
