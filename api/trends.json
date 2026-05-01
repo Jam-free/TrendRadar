@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T14:10:47.112656+08:00",
-  "total_titles_processed": 967,
+  "generated_at": "2026-05-01T16:55:39.457184+08:00",
+  "total_titles_processed": 1126,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时10分 ~ 14时10分]"
+          "appearance_count": 12,
+          "time_info": "[01时10分 ~ 16时55分]"
         },
         {
           "title": "AI魔改黑袍,星光姐被玩坏",
@@ -45,8 +45,23 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时10分 ~ 14时10分]"
+          "appearance_count": 12,
+          "time_info": "[01时10分 ~ 16时55分]"
+        },
+        {
+          "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
+          "url": "https://www.cls.cn/detail/2361533",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[05时50分 ~ 16时55分]"
         },
         {
           "title": "深圳14岁男孩用AI备考押中奥赛题",
@@ -64,19 +79,15 @@
           "time_info": "[01时10分 ~ 06时44分]"
         },
         {
-          "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
-          "url": "https://www.cls.cn/detail/2361533",
-          "source": "财联社热门",
+          "title": "美议员邀中国科学家给AI“设卡”，美国舆论炸锅",
+          "url": "https://news.ifeng.com/c/8slj4BER3rc",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            10,
-            8,
-            11,
-            9
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时50分 ~ 14时10分]"
+          "appearance_count": 2,
+          "time_info": "[14时10分 ~ 16时55分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -110,18 +121,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时10分"
-        },
-        {
-          "title": "美议员邀中国科学家给AI“设卡”，美国舆论炸锅",
-          "url": "https://news.ifeng.com/c/8slj4BER3rc",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -131,11 +131,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 14时10分]"
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 16时55分]"
         },
         {
           "title": "扎克伯格：销售放缓归咎于战争，裁员则因AI成本",
