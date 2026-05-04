@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T07:37:05.617887+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-05-04T10:03:15.909183+08:00",
+  "total_titles_processed": 677,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 07时37分]"
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 10时03分]"
         },
         {
           "title": "35 岁男子收到岗位被 AI 取代通知，拒绝大幅降薪后被单位开除，法院判处公司支付赔偿金，怎样解读？",
@@ -47,8 +47,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 07时37分]"
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 10时03分]"
         },
         {
           "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
@@ -57,11 +57,12 @@
           "ranks": [
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 07时37分]"
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 10时03分]"
         },
         {
           "title": "云南的水果像极了AI生成的",
@@ -78,6 +79,21 @@
           "time_info": "[00时39分 ~ 07时37分]"
         },
         {
+          "title": "两年前质疑“AI花太多、赚太少”，高盛研究主管承认“看错了”，但“铲子已被充分定价，现在看多云”",
+          "url": "https://wallstreetcn.com/articles/3771505",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 10时03分]"
+        },
+        {
           "title": "湖南经视启用 AI 主播播新闻，这会成为一种趋势吗？你觉得 AI 主播怎么样？",
           "url": "https://www.zhihu.com/question/2034308747380482937",
           "source": "知乎",
@@ -86,11 +102,12 @@
             7,
             11,
             9,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时45分 ~ 07时37分]"
+          "appearance_count": 12,
+          "time_info": "[02时45分 ~ 10时03分]"
         },
         {
           "title": "央视披露公司用AI替岗35岁主管详情",
@@ -109,18 +126,17 @@
           "time_info": "[00时39分 ~ 07时37分]"
         },
         {
-          "title": "两年前质疑“AI花太多、赚太少”，高盛研究主管承认“看错了”，但“铲子已被充分定价，现在看多云”",
-          "url": "https://wallstreetcn.com/articles/3771505",
+          "title": "美银Hartnett：这轮美股上涨靠财政和AI撑着，一旦融资成本上升，市场可能反转",
+          "url": "https://wallstreetcn.com/articles/3771507",
           "source": "华尔街见闻",
           "ranks": [
-            9,
+            10,
             8,
-            7,
-            6
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 07时37分]"
+          "appearance_count": 10,
+          "time_info": "[03时48分 ~ 10时03分]"
         },
         {
           "title": "和AI玩猜历史人物游戏",
@@ -131,11 +147,12 @@
             9,
             8,
             18,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时40分 ~ 07时37分]"
+          "appearance_count": 13,
+          "time_info": "[01时40分 ~ 10时03分]"
         },
         {
           "title": "湖南广电 AI播新闻",
@@ -143,11 +160,12 @@
           "source": "微博",
           "ranks": [
             10,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 07时37分]"
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 10时03分]"
         },
         {
           "title": "博主：美军早就开始用AI进行实战了",
@@ -171,21 +189,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 07时37分]"
-        },
-        {
-          "title": "美银Hartnett：这轮美股上涨靠财政和AI撑着，一旦融资成本上升，市场可能反转",
-          "url": "https://wallstreetcn.com/articles/3771507",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时48分 ~ 07时37分]"
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 10时03分]"
         },
         {
           "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
@@ -197,6 +202,50 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时33分 ~ 07时37分]"
+        },
+        {
+          "title": "内存对AI CPU至关重要？韩媒：DRAM短缺将再持续一年",
+          "url": "https://wallstreetcn.com/articles/3771508",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
+          "title": "公司引进AI后将员工降薪裁员",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E5%BC%95%E8%BF%9BAI%E5%90%8E%E5%B0%86%E5%91%98%E5%B7%A5%E9%99%8D%E8%96%AA%E8%A3%81%E5%91%98%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
+          "title": "孩子抱着 AI 聊三小时，问「十一楼飞出窗会摔到吗」，AI 竟称会慢慢飘起，为啥会这样？家长该怎么做？",
+          "url": "https://www.zhihu.com/question/2032522089656230991",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
+          "title": "马桶巨头进军AI芯片行业",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%A1%B6%E5%B7%A8%E5%A4%B4%E8%BF%9B%E5%86%9BAI%E8%8A%AF%E7%89%87%E8%A1%8C%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
         },
         {
           "title": "如果 AI 演员真的可以普及，你最想看哪个老戏骨被 AI 化，又想看他们出演哪些影片呢？",
