@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T18:59:03.185053+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2026-05-06T20:27:16.081498+08:00",
+  "total_titles_processed": 1465,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "上调寒武纪、下调浪潮信息！高盛预言了“国产AI芯片的崛起”场景",
@@ -19,6 +19,31 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时20分 ~ 10时02分]"
+        },
+        {
+          "title": "AI基建涨疯了，但数据中心烧钱也快烧光了，债务泡沫开始破裂",
+          "url": "https://wallstreetcn.com/articles/3771608",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时50分 ~ 20时27分]"
+        },
+        {
+          "title": "AI算力格局重塑！AMD财报会实录：CPU需求爆发 进入新一轮高增长通道",
+          "url": "https://www.cls.cn/detail/2363503",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时10分 ~ 20时27分]"
         },
         {
           "title": "奥斯卡新规明确禁用 AI 演员、限制 AI 剧本，究竟是守护创作本质，还是在开时代倒车？",
@@ -35,19 +60,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时20分 ~ 10时02分]"
-        },
-        {
-          "title": "AI基建涨疯了，但数据中心烧钱也快烧光了，债务泡沫开始破裂",
-          "url": "https://wallstreetcn.com/articles/3771608",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时50分 ~ 18时59分]"
         },
         {
           "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
@@ -83,16 +95,17 @@
           "time_info": "[01时20分 ~ 10时02分]"
         },
         {
-          "title": "AI算力格局重塑！AMD财报会实录：CPU需求爆发 进入新一轮高增长通道",
-          "url": "https://www.cls.cn/detail/2363503",
-          "source": "财联社热门",
+          "title": "高通“二号人物”加盟英特尔，负责客户端计算与物理AI集团",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33099664",
+          "source": "澎湃新闻",
           "ranks": [
-            4,
-            1
+            20,
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时10分 ~ 18时59分]"
+          "appearance_count": 7,
+          "time_info": "[06时49分 ~ 20时27分]"
         },
         {
           "title": "从猫狗到水果 AI短剧还能火多久",
@@ -130,19 +143,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
-        },
-        {
-          "title": "高通“二号人物”加盟英特尔，负责客户端计算与物理AI集团",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33099664",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时49分 ~ 18时59分]"
         },
         {
           "title": "AMD给出的季度营收指引高于市场预期，得益于AI芯片需求保持强劲",
@@ -204,6 +204,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 03时12分]"
+        },
+        {
+          "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
+          "url": "https://www.cls.cn/detail/2363932",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 20时27分]"
         },
         {
           "title": "Cerence AI：国际贸易委员会诉状请求发布有限排除令，禁止包括音箱、显示器、电视、平板电脑和流媒体设备在内的某些智能设备进口至美国。",
