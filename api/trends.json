@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T20:27:16.081498+08:00",
-  "total_titles_processed": 1465,
+  "generated_at": "2026-05-06T23:24:44.425412+08:00",
+  "total_titles_processed": 1622,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 44,
+      "match_count": 49,
       "titles": [
         {
           "title": "上调寒武纪、下调浪潮信息！高盛预言了“国产AI芯片的崛起”场景",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时50分 ~ 20时27分]"
+          "appearance_count": 7,
+          "time_info": "[13时50分 ~ 23时24分]"
         },
         {
           "title": "AI算力格局重塑！AMD财报会实录：CPU需求爆发 进入新一轮高增长通道",
@@ -134,6 +134,18 @@
           "time_info": "13时50分"
         },
         {
+          "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
+          "url": "https://www.cls.cn/detail/2363932",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时26分 ~ 23时24分]"
+        },
+        {
           "title": "公司高管称，OpenAI向美国政府提前开放了GPT-5.5的访问权限以进行安全测试。",
           "url": "https://wallstreetcn.com/livenews/3098899",
           "source": "华尔街见闻-快讯",
@@ -143,6 +155,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "英伟达与ServiceNow联手打造新型自主AI智能体。",
+          "url": "https://wallstreetcn.com/livenews/3099463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
+          "title": "英伟达(NVDA.O)与ServiceNow联手打造新型自主AI智能体。",
+          "url": "https://flash.jin10.com/detail/20260506231448258800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "AMD给出的季度营收指引高于市场预期，得益于AI芯片需求保持强劲",
@@ -204,17 +238,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 03时12分]"
-        },
-        {
-          "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
-          "url": "https://www.cls.cn/detail/2363932",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
         },
         {
           "title": "Cerence AI：国际贸易委员会诉状请求发布有限排除令，禁止包括音箱、显示器、电视、平板电脑和流媒体设备在内的某些智能设备进口至美国。",
@@ -353,6 +376,17 @@
           "time_info": "01时20分"
         },
         {
+          "title": "OpenAI：推出 B2B Signals，OpenAI Signals的商业扩展。",
+          "url": "https://flash.jin10.com/detail/20260506230331027800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "谷歌正在测试AI代理“Remy”，或对标OpenClaw",
           "url": "https://wallstreetcn.com/livenews/3098891",
           "source": "华尔街见闻-快讯",
@@ -386,6 +420,17 @@
           "time_info": "01时20分"
         },
         {
+          "title": "OpenAI 推出 GPT-5.5 Instant，有哪些值得关注的技术亮点？使用感受如何？",
+          "url": "https://www.zhihu.com/question/2035283954274493764",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "OpenAI：正在推出测试版自助广告管理器，允许美国境内的广告主注册并直接购买广告，使其显示在ChatGPT中。",
           "url": "https://flash.jin10.com/detail/20260506020032402800",
           "source": "金十数据",
@@ -417,6 +462,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "火到欧美的韩国棒球女神是AI生成",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%81%AB%E5%88%B0%E6%AC%A7%E7%BE%8E%E7%9A%84%E9%9F%A9%E5%9B%BD%E6%A3%92%E7%90%83%E5%A5%B3%E7%A5%9E%E6%98%AFAI%E7%94%9F%E6%88%90%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "OpenAI：今天，我们开始逐步推出ChatGPT中的测试版自助广告管理器。",
