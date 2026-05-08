@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T15:18:30.995859+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2026-05-08T17:09:18.025041+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
@@ -19,8 +19,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时28分 ~ 15时18分]"
+          "appearance_count": 11,
+          "time_info": "[03时28分 ~ 17时09分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
@@ -98,6 +98,19 @@
           "time_info": "[07时01分 ~ 07时55分]"
         },
         {
+          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 17时09分]"
+        },
+        {
           "title": "知名爆料人：苹果首款AI视觉TWS设备已进入开发后期阶段",
           "url": "https://www.cls.cn/detail/2365476",
           "source": "财联社热门",
@@ -145,16 +158,37 @@
           "time_info": "[00时02分 ~ 01时51分]"
         },
         {
-          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
-          "source": "澎湃新闻",
+          "title": "华尔街“传奇大佬”都铎琼斯：AI牛市“还能再持续一两年”，沃什“绝不可能”让美联储降息",
+          "url": "https://wallstreetcn.com/articles/3771771",
+          "source": "华尔街见闻",
           "ranks": [
-            15,
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时24分 ~ 15时18分]"
+          "time_info": "[17时08分 ~ 17时09分]"
+        },
+        {
+          "title": "券商All in AI要多大财力？IT投入实力较量最新排行榜",
+          "url": "https://www.cls.cn/detail/2365785",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
+        },
+        {
+          "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
+          "url": "https://www.zhihu.com/question/2035827414475993469",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
         },
         {
           "title": "如何评价马斯克宣布 xAI 将解散，并入 SpaceX，只成为旗下一款 AI 产品？",
@@ -296,7 +330,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         }
