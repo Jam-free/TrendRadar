@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T19:05:16.691480+08:00",
-  "total_titles_processed": 1444,
+  "generated_at": "2026-05-08T21:13:33.164863+08:00",
+  "total_titles_processed": 1600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
@@ -21,6 +21,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[03时28分 ~ 19时05分]"
+        },
+        {
+          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时24分 ~ 21时13分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
@@ -52,17 +65,29 @@
           "time_info": "[03时28分 ~ 15时18分]"
         },
         {
-          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
-          "source": "澎湃新闻",
+          "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
+          "url": "https://www.zhihu.com/question/2035827414475993469",
+          "source": "知乎",
           "ranks": [
-            15,
-            11,
-            10
+            13,
+            7,
+            12
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[13时24分 ~ 19时05分]"
+          "time_info": "[17时08分 ~ 21时13分]"
+        },
+        {
+          "title": "华尔街“传奇大佬”都铎琼斯：AI牛市“还能再持续一两年”，沃什“绝不可能”让美联储降息",
+          "url": "https://wallstreetcn.com/articles/3771771",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时08分 ~ 21时13分]"
         },
         {
           "title": "英伟达CEO黄仁勋：下一代AI基础设施将需要大量的光学连接 铜线已无法满足需求",
@@ -85,18 +110,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
-        },
-        {
-          "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
-          "url": "https://www.zhihu.com/question/2035827414475993469",
-          "source": "知乎",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时08分 ~ 19时05分]"
         },
         {
           "title": "AI四小龙估值破万亿",
@@ -123,17 +136,6 @@
           "time_info": "[07时01分 ~ 07时55分]"
         },
         {
-          "title": "华尔街“传奇大佬”都铎琼斯：AI牛市“还能再持续一两年”，沃什“绝不可能”让美联储降息",
-          "url": "https://wallstreetcn.com/articles/3771771",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时08分 ~ 19时05分]"
-        },
-        {
           "title": "券商All in AI要多大财力？IT投入实力较量最新排行榜",
           "url": "https://www.cls.cn/detail/2365785",
           "source": "财联社热门",
@@ -144,6 +146,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时08分 ~ 19时05分]"
+        },
+        {
+          "title": "GAI专辑先行曲星梦",
+          "url": "https://www.douyin.com/hot/2491118",
+          "source": "抖音",
+          "ranks": [
+            29,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 21时13分]"
+        },
+        {
+          "title": "日本右翼重金炮制AI假视频抹黑中国",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%8F%B3%E7%BF%BC%E9%87%8D%E9%87%91%E7%82%AE%E5%88%B6AI%E5%81%87%E8%A7%86%E9%A2%91%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时12分 ~ 21时13分]"
         },
         {
           "title": "知名爆料人：苹果首款AI视觉TWS设备已进入开发后期阶段",
@@ -299,7 +324,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
         },
@@ -310,7 +335,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
         },
@@ -343,7 +368,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
         },
@@ -357,17 +382,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
-        },
-        {
-          "title": "GAI专辑先行曲星梦",
-          "url": "https://www.douyin.com/hot/2491118",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
         }
       ]
     }
