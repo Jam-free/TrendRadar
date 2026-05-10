@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T20:59:23.021726+08:00",
-  "total_titles_processed": 1187,
+  "generated_at": "2026-05-10T22:20:40.297722+08:00",
+  "total_titles_processed": 1273,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时39分 ~ 20时59分]"
+          "appearance_count": 12,
+          "time_info": "[07时39分 ~ 22时20分]"
         },
         {
           "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
@@ -69,6 +69,20 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[01时43分 ~ 13时57分]"
+        },
+        {
+          "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
+          "url": "https://wallstreetcn.com/articles/3771913",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时57分 ~ 22时20分]"
         },
         {
           "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
@@ -99,20 +113,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时43分 ~ 10时06分]"
-        },
-        {
-          "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
-          "url": "https://wallstreetcn.com/articles/3771913",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时57分 ~ 20时59分]"
         },
         {
           "title": "摆脱传统试错模式，“90后”创业者用AI解决化工研发痛点",
@@ -189,8 +189,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时57分 ~ 20时59分]"
+          "appearance_count": 8,
+          "time_info": "[13时57分 ~ 22时20分]"
         },
         {
           "title": "35 岁主管被公司用 AI 替岗，月薪从 2.5 万降到 1.5 万，拒绝后被裁，面对技术替代，劳动者该怎么办？",
@@ -234,6 +234,31 @@
           "time_info": "[13时57分 ~ 18时07分]"
         },
         {
+          "title": "分析｜受AI热潮与大宗商品价格推动，4月进出口双双高增",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33143971",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时05分 ~ 22时20分]"
+        },
+        {
+          "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
+          "url": "https://www.cls.cn/detail/2367107",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时06分 ~ 22时20分]"
+        },
+        {
           "title": "【社论】一本正经胡说八道，谁为AI幻觉担责？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33138759",
           "source": "澎湃新闻",
@@ -257,30 +282,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
-        },
-        {
-          "title": "分析｜受AI热潮与大宗商品价格推动，4月进出口双双高增",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33143971",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时05分 ~ 20时59分]"
-        },
-        {
-          "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
-          "url": "https://www.cls.cn/detail/2367107",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时06分 ~ 20时59分]"
         },
         {
           "title": "英伟达全面布局AI生态 股权投资今年已超400亿美元",
@@ -344,6 +345,17 @@
           "time_info": "[07时39分 ~ 07时40分]"
         },
         {
+          "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
+          "url": "https://wallstreetcn.com/articles/3771914",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 22时20分]"
+        },
+        {
           "title": "DeepSeek 被曝融资 500 亿美元，将对 AI 领域产生哪些影响？",
           "url": "https://www.zhihu.com/question/2035400318624733173",
           "source": "知乎",
@@ -364,17 +376,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时05分 ~ 10时06分]"
-        },
-        {
-          "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
-          "url": "https://wallstreetcn.com/articles/3771914",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时59分"
         }
       ]
     }
