@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T02:52:18.194437+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-05-13T04:57:58.873295+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 04时57分]"
         },
         {
           "title": "原油、AI芯片、房租“三连击”，今晚美国CPI恐“热辣滚烫”",
           "url": "https://wallstreetcn.com/articles/3772081",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 04时57分]"
         },
         {
           "title": "论文严查AI使用率是否合理",
@@ -35,11 +36,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            24
+            24,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 04时57分]"
         },
         {
           "title": "AI原创短片国产爱死机",
@@ -47,11 +49,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             26,
-            23
+            23,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 04时57分]"
         },
         {
           "title": "这轮AI行情是“泡沫”还是“新起点”？多家卖方最新研判",
@@ -61,19 +64,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时51分 ~ 02时52分]"
-        },
-        {
-          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
-          "url": "https://www.zhihu.com/question/2037128887558207003",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时51分 ~ 02时52分]"
+          "appearance_count": 3,
+          "time_info": "[02时51分 ~ 04时57分]"
         },
         {
           "title": "Ai 时代，现在还有人在坚持古法编程吗？",
@@ -81,6 +73,17 @@
           "source": "知乎",
           "ranks": [
             20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时51分 ~ 04时57分]"
+        },
+        {
+          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
+          "url": "https://www.zhihu.com/question/2037128887558207003",
+          "source": "知乎",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -104,7 +107,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         },
@@ -115,7 +118,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         },
@@ -137,7 +140,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         },
