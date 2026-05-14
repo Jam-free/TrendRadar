@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T07:58:26.590830+08:00",
-  "total_titles_processed": 605,
+  "generated_at": "2026-05-14T10:33:51.763320+08:00",
+  "total_titles_processed": 769,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "阿里电话会：AI ARR年底超过300亿元，服务器“没有一张卡是闲置的” ，资本支出将超过3800亿元",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 07时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时21分 ~ 10时33分]"
         },
         {
           "title": "马化腾回应AI掉队",
@@ -40,11 +40,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 07时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时21分 ~ 10时33分]"
         },
         {
           "title": "马化腾：一年前以为上了AI的船结果发现漏水了，现在站上去但还坐不下去",
@@ -54,22 +55,24 @@
             10,
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 07时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时21分 ~ 10时33分]"
         },
         {
           "title": "高校硬查AI率,复旦教授怒了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354246&amp;topic_name=%E9%AB%98%E6%A0%A1%E7%A1%AC%E6%9F%A5AI%E7%8E%87%2C%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E6%80%92%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 07时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时21分 ~ 10时33分]"
         },
         {
           "title": "富国银行：AI就是泡沫，但在破裂前投资者应顺势而为",
@@ -81,8 +84,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 07时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时21分 ~ 10时33分]"
         },
         {
           "title": "AI续写轻音少女第三季",
@@ -92,11 +95,12 @@
             18,
             21,
             22,
-            20
+            20,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 07时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时21分 ~ 10时33分]"
         },
         {
           "title": "市场消息：数据显示，微软在与OpenAI的合作中已投资1000亿美元。",
@@ -108,6 +112,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "百度高开7% 花旗：已展示并定位为新兴“AgenticAI”时代领导者",
+          "url": "https://flash.jin10.com/detail/20260514095519212800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "AI转型加速，腾讯Q1营收同比增9%，净利润大增21%，资本开支达370亿元｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3772181",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时19分 ~ 10时33分]"
         },
         {
           "title": "马化腾：1年前以为上了AI的船结果发现漏水，现在站上去但坐不下",
@@ -133,15 +159,16 @@
           "time_info": "[05时19分 ~ 06时59分]"
         },
         {
-          "title": "AI转型加速，腾讯Q1营收同比增9%，净利润大增21%，资本开支达370亿元｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3772181",
-          "source": "华尔街见闻",
+          "title": "AI订单大爆发 思科全年业绩指引超预期 股价盘后暴涨17%",
+          "url": "https://www.cls.cn/detail/2370695",
+          "source": "财联社热门",
           "ranks": [
-            10
+            12,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时19分 ~ 07时58分]"
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 10时33分]"
         },
         {
           "title": "消息人士：微软正探索与人工智能初创公司达成交易，以为“后OpenAI时代”做准备。微软曾考虑收购Cursor，但因反垄断担忧而放弃。微软已与人工智能初创公司Inception讨论交易事宜。Inception已聘请一家银行，就至少10亿美元的交易进行谈判。",
@@ -166,6 +193,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 06时59分]"
+        },
+        {
+          "title": "马化腾回应腾讯 AI 是否落后，「AI 的船现在站上去但还坐不下去」，怎样看待这一言论？",
+          "url": "https://www.zhihu.com/question/2037950969506428373",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "博主：这轮AI暴富潮太吓人",
+          "url": "https://www.toutiao.com/trending/7639525316553084457/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
         },
         {
           "title": "美国会议员敦促白宫应对AI网络安全威胁",
@@ -201,17 +250,6 @@
           "time_info": "05时19分"
         },
         {
-          "title": "AI订单大爆发 思科全年业绩指引超预期 股价盘后暴涨17%",
-          "url": "https://www.cls.cn/detail/2370695",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
           "title": "据AXIOS：美国国会正敦促白宫回应日益加剧的AI网络安全威胁。美国议员要求白宫应对Anthropic旗下Mythos等前沿AI网络模型带来的风险。",
           "url": "https://flash.jin10.com/detail/20260514061052798800",
           "source": "金十数据",
@@ -221,6 +259,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
+        },
+        {
+          "title": "如何看待前阿里通义千问（Qwen）负责人林俊旸新成立 AI 实验室融资，预计估值 20 亿美元？",
+          "url": "https://www.zhihu.com/question/2037920346959868531",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "日媒曝光日本批量生成AI视频抹黑中国",
+          "url": "https://www.toutiao.com/trending/7639005443850797110/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
         },
         {
           "title": "市场消息：马斯克的xAI正加紧推动华尔街公司使用Grok聊天机器人，阿波罗与摩根士丹利已开始在内部使用Grok，并与其他人工智能模型制造商的软件一起使用。",
