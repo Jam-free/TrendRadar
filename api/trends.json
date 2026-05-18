@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-05-18T19:01:34.928593+08:00",
-  "total_titles_processed": 1150,
-  "failed_sources": [
-    "bilibili-hot-search"
-  ],
+  "generated_at": "2026-05-18T22:32:30.663765+08:00",
+  "total_titles_processed": 1325,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "还想比肩中国？“AI时代，印度正成为最大输家之一”",
@@ -91,8 +89,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时00分 ~ 19时01分]"
+          "appearance_count": 3,
+          "time_info": "[19时00分 ~ 22时32分]"
         },
         {
           "title": "中信建投：重点关注AI、光模块、电网设备、人形机器人等",
@@ -115,9 +113,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
+        },
+        {
+          "title": "英伟达周三财报夜：决定AI牛市命运的一战来了！",
+          "url": "https://wallstreetcn.com/articles/3772508",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "博主：中国AI算力产业链正在全面腾飞",
@@ -133,33 +142,35 @@
           "time_info": "[00时48分 ~ 05时46分]"
         },
         {
-          "title": "AI一天 地上一年",
-          "url": "https://s.weibo.com/weibo?q=AI%E4%B8%80%E5%A4%A9%20%E5%9C%B0%E4%B8%8A%E4%B8%80%E5%B9%B4&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时00分 ~ 19时01分]"
-        },
-        {
           "title": "【焦点复盘】科创50冲高回落涨0.81%，近端次新股获资金持续抱团，物理AI概念异军突起",
           "url": "https://www.cls.cn/detail/2374303",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时00分 ~ 19时01分]"
+          "appearance_count": 3,
+          "time_info": "[19时00分 ~ 22时32分]"
         },
         {
           "title": "用AI记录早餐奶奶的一生",
           "url": "https://www.douyin.com/hot/2503064",
           "source": "抖音",
           "ranks": [
-            30
+            30,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时00分 ~ 22时32分]"
+        },
+        {
+          "title": "AI一天 地上一年",
+          "url": "https://s.weibo.com/weibo?q=AI%E4%B8%80%E5%A4%A9%20%E5%9C%B0%E4%B8%8A%E4%B8%80%E5%B9%B4&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -172,7 +183,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },
@@ -221,6 +232,17 @@
           "time_info": "14时48分"
         },
         {
+          "title": "AI自动驾驶赛车有搞头吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%B5%9B%E8%BD%A6%E6%9C%89%E6%90%9E%E5%A4%B4%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "AI预测世界杯西班牙夺冠",
           "url": "https://s.weibo.com/weibo?q=AI%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%BA%E5%86%A0&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -243,6 +265,17 @@
           "time_info": "00时48分"
         },
         {
+          "title": "马斯克的xAI为员工提供了420美元的报税补贴，但尚未支付。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3105445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "红果短剧辟谣AI仿真人剧本“零元购”",
           "url": "https://wallstreetcn.com/livenews/3105135",
           "source": "华尔街见闻-快讯",
@@ -260,7 +293,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         }
