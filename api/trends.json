@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T10:39:26.728606+08:00",
-  "total_titles_processed": 678,
+  "generated_at": "2026-05-31T14:52:51.644001+08:00",
+  "total_titles_processed": 841,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "全国首个绿色算力全栈AI平台上线",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 10时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 14时52分]"
         },
         {
           "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
@@ -40,11 +40,12 @@
             7,
             6,
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 10时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 14时52分]"
         },
         {
           "title": "官方出手,AI吸附遭刑事打击",
@@ -52,11 +53,12 @@
           "source": "贴吧",
           "ranks": [
             21,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 10时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 14时52分]"
         },
         {
           "title": "一个月烧掉5亿美元！科技巨头“AI Token消耗赛”踩下急刹",
@@ -79,11 +81,12 @@
             2,
             5,
             6,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时46分 ~ 10时39分]"
+          "appearance_count": 6,
+          "time_info": "[04时46分 ~ 14时52分]"
         },
         {
           "title": "用AI整理会议记录导致泄密",
@@ -105,11 +108,23 @@
           "url": "https://wallstreetcn.com/articles/3773499",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 14时52分]"
+        },
+        {
+          "title": "当胡彦斌1个月写出APP，AI时代已经扑面而来",
+          "url": "https://wallstreetcn.com/articles/3773513",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时39分"
+          "time_info": "14时52分"
         },
         {
           "title": "报道：OpenAI在讨论将花旗、摩根大通纳入IPO承销商名单",
@@ -130,7 +145,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -141,7 +156,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         }
