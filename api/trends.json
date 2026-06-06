@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07T05:59:07.857291+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2026-06-07T07:02:47.886038+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时59分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时02分]"
         },
         {
           "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
           "url": "https://wallstreetcn.com/articles/3774007",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时59分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时02分]"
         },
         {
           "title": "为什么现在 AI 生成到了人人喊打的境遇？大量劣质一眼假的东西泛滥成灾？",
@@ -40,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时59分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时02分]"
         },
         {
           "title": "高考新增AI监考员",
@@ -51,11 +52,12 @@
             8,
             26,
             29,
-            30
+            30,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时59分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时02分]"
         },
         {
           "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
@@ -66,8 +68,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时59分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时02分]"
         },
         {
           "title": "严防作弊!高考期间AI搜题关停",
@@ -77,8 +79,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时59分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时02分]"
         },
         {
           "title": "OpenAI等公司向美国提交了一项让全民分享人工智能红利（AI股权）的计划提案。 该人工智能提案涉及建立一个全新的主权财富基金式实体。（英国金融时报）",
@@ -87,9 +89,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 07时02分]"
         },
         {
           "title": "报道：美国白宫AI政策顾问Krisnan将离职",
@@ -102,8 +104,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 07时02分]"
         },
         {
           "title": "美股暴跌是AI第一次冲击人类经济吗",
@@ -117,6 +119,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时01分 ~ 04时56分]"
+        },
+        {
+          "title": "北大UP主手搓AI猫娘",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E5%A4%A7UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E7%8C%AB%E5%A8%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         }
       ]
     }
