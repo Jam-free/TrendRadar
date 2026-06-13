@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T17:52:43.324724+08:00",
-  "total_titles_processed": 1020,
+  "generated_at": "2026-06-13T19:49:20.429840+08:00",
+  "total_titles_processed": 1146,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "猛男舞团翻跳Dai Dai",
@@ -40,8 +40,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时52分 ~ 17时52分]"
+          "appearance_count": 3,
+          "time_info": "[14时52分 ~ 19时49分]"
+        },
+        {
+          "title": "世界杯AI视频绿茵恩仇录火了",
+          "url": "https://www.douyin.com/hot/2531568",
+          "source": "抖音",
+          "ranks": [
+            20,
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时52分 ~ 19时49分]"
         },
         {
           "title": "抖音AI反网暴行动来了",
@@ -54,18 +67,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 07时09分]"
-        },
-        {
-          "title": "世界杯AI视频绿茵恩仇录火了",
-          "url": "https://www.douyin.com/hot/2531568",
-          "source": "抖音",
-          "ranks": [
-            20,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时52分 ~ 17时52分]"
         },
         {
           "title": "AI材料短缺蔓延：英伟达亲自下场抢购HVLP4铜箔，2026年缺口达1500吨",
@@ -126,6 +127,28 @@
           "time_info": "14时52分"
         },
         {
+          "title": "ARCRaiders国服首测PV",
+          "url": "https://search.bilibili.com/all?keyword=ARCRaiders%E5%9B%BD%E6%9C%8D%E9%A6%96%E6%B5%8BPV",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
+        },
+        {
+          "title": "太空AI算力泡沫有多大",
+          "url": "https://www.toutiao.com/trending/7650812029468413450/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
+        },
+        {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850550&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/3SNELjbbk6Cqk3c21IZ34.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260613120108121800",
           "source": "金十数据",
@@ -157,6 +180,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
+        },
+        {
+          "title": "代斯骑马图太美被判定为ai",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A3%E6%96%AF%E9%AA%91%E9%A9%AC%E5%9B%BE%E5%A4%AA%E7%BE%8E%E8%A2%AB%E5%88%A4%E5%AE%9A%E4%B8%BAai%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
         }
       ]
     }
