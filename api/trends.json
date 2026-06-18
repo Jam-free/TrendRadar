@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T18:08:46.957390+08:00",
-  "total_titles_processed": 1066,
+  "generated_at": "2026-06-18T22:42:53.434846+08:00",
+  "total_titles_processed": 1254,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
@@ -70,6 +70,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时46分 ~ 08时09分]"
+        },
+        {
+          "title": "让AI走进千家万户",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%A9AI%E8%B5%B0%E8%BF%9B%E5%8D%83%E5%AE%B6%E4%B8%87%E6%88%B7",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "如何理解韩国作家金爱烂所说的：「人类拥有而 AI 没有的一样东西，是犹豫不决」？",
@@ -188,6 +199,17 @@
           "time_info": "[13时29分 ~ 13时30分]"
         },
         {
+          "title": "【每日收评】科创50放量涨近4%，AI硬件与半导体持续火爆，多只科技权重续创历史新高",
+          "url": "https://www.cls.cn/detail/2403645",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
           "title": "OpenAI的CEO Altman、谷歌公司高管Hassabis、Anthropic的CEO Amodei、Meta高管Wang、Mistral AI高管Mensch、Cohere高管Gomez、Salesforce高管Benioff出席（美国）AI会议。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3121165",
           "source": "华尔街见闻-快讯",
@@ -205,7 +227,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -216,7 +238,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -238,7 +260,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -260,7 +282,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -276,6 +298,17 @@
           "time_info": "01时46分"
         },
         {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850554&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/GMOMYRjGaax9gpq7FcO2G.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260618220943916800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
           "title": "美国总统特朗普：围绕经济、AI举行了一些不错的会议。",
           "url": "https://wallstreetcn.com/livenews/3121153",
           "source": "华尔街见闻-快讯",
@@ -285,6 +318,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "AI贡献最大的一道题出现了",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%B4%A1%E7%8C%AE%E6%9C%80%E5%A4%A7%E7%9A%84%E4%B8%80%E9%81%93%E9%A2%98%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "下半年投资亮点纷呈，公募策略会看好AI投资范式生变",
@@ -315,7 +359,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
