@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T20:07:35.321449+08:00",
-  "total_titles_processed": 1022,
+  "generated_at": "2026-06-21T23:08:26.411812+08:00",
+  "total_titles_processed": 1179,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时17分 ~ 08时08分]"
+        },
+        {
+          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
+          "url": "https://wallstreetcn.com/articles/3775121",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时54分 ~ 23时08分]"
         },
         {
           "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
@@ -33,18 +45,6 @@
           "time_info": "[01时17分 ~ 13时55分]"
         },
         {
-          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
-          "url": "https://wallstreetcn.com/articles/3775121",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时54分 ~ 20时07分]"
-        },
-        {
           "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime 完整飞轮”",
           "url": "https://wallstreetcn.com/articles/3775114",
           "source": "华尔街见闻",
@@ -54,6 +54,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时54分 ~ 17时38分]"
+        },
+        {
+          "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
+          "url": "https://wallstreetcn.com/articles/3775117",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时54分 ~ 23时08分]"
         },
         {
           "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
@@ -121,16 +134,17 @@
           "time_info": "08时08分"
         },
         {
-          "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
-          "url": "https://wallstreetcn.com/articles/3775117",
-          "source": "华尔街见闻",
+          "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33407734",
+          "source": "澎湃新闻",
           "ranks": [
+            11,
             8,
-            7
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时54分 ~ 20时07分]"
+          "appearance_count": 4,
+          "time_info": "[17时37分 ~ 23时08分]"
         },
         {
           "title": "女子用AI写3000字股市谣言被罚",
@@ -142,6 +156,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时08分 ~ 17时38分]"
+        },
+        {
+          "title": "微信“小微”来了！数百万个小程序有了AI“总控台”",
+          "url": "https://www.cls.cn/detail/2404757",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时37分 ~ 23时08分]"
         },
         {
           "title": "谐音歌词版WAIYA",
@@ -157,24 +183,25 @@
           "time_info": "[03时11分 ~ 08时08分]"
         },
         {
+          "title": "父亲节用AI表达爱",
+          "url": "https://www.douyin.com/hot/2542302",
+          "source": "抖音",
+          "ranks": [
+            29,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时37分 ~ 23时08分]"
+        },
+        {
           "title": "AI短剧严重“缺脸” 500元买一张脸",
           "url": "https://www.toutiao.com/trending/7653430042109853737/",
           "source": "今日头条",
           "ranks": [
             6,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时37分 ~ 20时07分]"
-        },
-        {
-          "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33407734",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -191,30 +218,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时59分 ~ 20时07分]"
-        },
-        {
-          "title": "微信“小微”来了！数百万个小程序有了AI“总控台”",
-          "url": "https://www.cls.cn/detail/2404757",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时37分 ~ 20时07分]"
-        },
-        {
-          "title": "父亲节用AI表达爱",
-          "url": "https://www.douyin.com/hot/2542302",
-          "source": "抖音",
-          "ranks": [
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时37分 ~ 20时07分]"
         },
         {
           "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
@@ -251,6 +254,17 @@
           "time_info": "[13时54分 ~ 13时55分]"
         },
         {
+          "title": "“大空头”查诺斯：当前AI产业链存在巨大“财务不匹配”，“AI云”实际是租赁中介，看空SpaceX",
+          "url": "https://wallstreetcn.com/articles/3775129",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "OpenAI被查、Anthropic被限，AI炒作漏算了什么？",
           "url": "https://flash.jin10.com/detail/20260621120212050800",
           "source": "金十数据",
@@ -279,7 +293,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时07分"
         },
