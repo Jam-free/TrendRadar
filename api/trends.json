@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T17:56:01.125361+08:00",
-  "total_titles_processed": 979,
+  "generated_at": "2026-06-28T19:44:20.766308+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时59分 ~ 17时56分]"
+          "appearance_count": 15,
+          "time_info": "[00时59分 ~ 19时44分]"
         },
         {
           "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
@@ -43,8 +43,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时04分 ~ 17时56分]"
+          "appearance_count": 11,
+          "time_info": "[04时04分 ~ 19时44分]"
         },
         {
           "title": "纯中二?美官员把AI当英雄",
@@ -58,8 +58,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时59分 ~ 17时56分]"
+          "appearance_count": 15,
+          "time_info": "[00时59分 ~ 19时44分]"
         },
         {
           "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
@@ -75,6 +75,17 @@
           "time_info": "[00时59分 ~ 07时58分]"
         },
         {
+          "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470630",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时55分 ~ 19时44分]"
+        },
+        {
           "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
           "url": "https://wallstreetcn.com/articles/3775658",
           "source": "华尔街见闻",
@@ -87,17 +98,6 @@
           "time_info": "[00时59分 ~ 06时57分]"
         },
         {
-          "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470630",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 17时56分]"
-        },
-        {
           "title": "什么导致本周市场大动荡？高盛合伙人：不是沃什，而是AI再平衡",
           "url": "https://wallstreetcn.com/articles/3775685",
           "source": "华尔街见闻",
@@ -106,8 +106,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时56分 ~ 17时56分]"
+          "appearance_count": 5,
+          "time_info": "[14时56分 ~ 19时44分]"
         },
         {
           "title": "英伟达AI版图再扩张！数据中心以太网交换机收入暴增193%，悄然登顶全球第一",
@@ -123,6 +123,18 @@
           "time_info": "[07时57分 ~ 14时57分]"
         },
         {
+          "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
+          "url": "https://wallstreetcn.com/articles/3775696",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时55分 ~ 19时44分]"
+        },
+        {
           "title": "海外研究员眼中的中国AI：智谱是“中国Palantir”，MiniMax对标Character AI，豆包是“中国ChatGPT”",
           "url": "https://wallstreetcn.com/articles/3775673",
           "source": "华尔街见闻",
@@ -133,17 +145,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时52分 ~ 14时57分]"
-        },
-        {
-          "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
-          "url": "https://wallstreetcn.com/articles/3775696",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 17时56分]"
         },
         {
           "title": "央视曝光高考志愿填报咨询陷阱，资质造假、照着 AI 念，高考志愿咨询服务是智商税吗？",
