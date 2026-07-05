@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T03:22:49.619899+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-07-06T04:49:58.025713+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 04时49分]"
         },
         {
           "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 04时49分]"
         },
         {
           "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 04时49分]"
         },
         {
           "title": "智能体下线,AI女友凉了？",
@@ -51,8 +51,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 04时49分]"
         },
         {
           "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
@@ -60,11 +60,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 04时49分]"
         },
         {
           "title": "电诈人员用AI同时和100多人聊天",
@@ -72,11 +73,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 04时49分]"
         }
       ]
     }
