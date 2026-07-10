@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-07-11T06:53:06.487232+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2026-07-11T07:52:24.073857+08:00",
+  "total_titles_processed": 634,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
       "match_count": 14,
       "titles": [
-        {
-          "title": "AI叙事助美股三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
-          "url": "https://wallstreetcn.com/articles/3776623",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 06时53分]"
-        },
         {
           "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
           "url": "https://wallstreetcn.com/articles/3776629",
@@ -29,19 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 06时53分]"
-        },
-        {
-          "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
-          "url": "https://wallstreetcn.com/articles/3776606",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 02时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 07时52分]"
         },
         {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
@@ -54,19 +32,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 07时52分]"
+        },
+        {
+          "title": "AI叙事助美股三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
+          "url": "https://wallstreetcn.com/articles/3776623",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 06时53分]"
         },
         {
           "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
           "url": "https://www.cls.cn/detail/2422921",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 07时52分]"
         },
         {
           "title": "OpenAI回应苹果公司的诉讼：我们对其他公司的商业秘密没兴趣。 我们仍然侧重于打造创新科技。",
@@ -75,9 +65,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 07时52分]"
+        },
+        {
+          "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
+          "url": "https://wallstreetcn.com/articles/3776606",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 02时18分]"
         },
         {
           "title": "欧洲央行Moulin：AI可能加剧通胀波动",
@@ -96,11 +97,12 @@
           "url": "https://wallstreetcn.com/articles/3776680",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 06时53分]"
+          "appearance_count": 3,
+          "time_info": "[06时52分 ~ 07时52分]"
         },
         {
           "title": "苹果起诉OpenAI窃取其顶级商业机密，引发重磅诉讼",
@@ -111,8 +113,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时53分 ~ 06时53分]"
+          "appearance_count": 3,
+          "time_info": "[05时53分 ~ 07时52分]"
         },
         {
           "title": "苹果起诉OpenAI涉嫌窃取商业机密",
@@ -123,8 +125,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时53分 ~ 06时53分]"
+          "appearance_count": 3,
+          "time_info": "[05时53分 ~ 07时52分]"
         },
         {
           "title": "市场消息：法院文件显示，苹果(AAPL.O)起诉OpenAI，指控其挪用商业机密。",
@@ -135,8 +137,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时53分 ~ 06时53分]"
+          "appearance_count": 3,
+          "time_info": "[05时53分 ~ 07时52分]"
         },
         {
           "title": "给哈兰德做了一支AI大片",
