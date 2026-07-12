@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T19:54:14.116150+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2026-07-12T21:02:33.594845+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时45分 ~ 19时54分]"
+          "appearance_count": 18,
+          "time_info": "[00时45分 ~ 21时02分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -28,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时45分 ~ 19时54分]"
+          "appearance_count": 18,
+          "time_info": "[00时45分 ~ 21时02分]"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -56,6 +57,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时45分 ~ 04时54分]"
+        },
+        {
+          "title": "人口第一大国，被AI做空了",
+          "url": "https://wallstreetcn.com/articles/3776722",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时53分 ~ 21时02分]"
         },
         {
           "title": "无人机吊起2人神图系AI合成",
@@ -94,17 +107,6 @@
           "time_info": "[04时54分 ~ 07时46分]"
         },
         {
-          "title": "人口第一大国，被AI做空了",
-          "url": "https://wallstreetcn.com/articles/3776722",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时53分 ~ 19时54分]"
-        },
-        {
           "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
           "url": "https://flash.jin10.com/detail/20260712032711538800",
           "source": "金十数据",
@@ -126,6 +128,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时20分 ~ 19时54分]"
+        },
+        {
+          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
+          "url": "https://wallstreetcn.com/articles/3776720",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时19分 ~ 21时02分]"
         },
         {
           "title": "百度AI将亮相WAIC 2026，集中展示多款智能体应用",
@@ -152,18 +167,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时20分 ~ 19时54分]"
-        },
-        {
-          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
-          "url": "https://wallstreetcn.com/articles/3776720",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时19分 ~ 19时54分]"
         },
         {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
