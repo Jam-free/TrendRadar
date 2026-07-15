@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T07:44:05.450519+08:00",
-  "total_titles_processed": 721,
+  "generated_at": "2026-07-15T09:29:43.762509+08:00",
+  "total_titles_processed": 864,
   "failed_sources": [],
   "trends": [
     {
@@ -31,19 +31,6 @@
           "time_info": "[01时05分 ~ 07时44分]"
         },
         {
-          "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
-          "url": "https://www.zhihu.com/question/2060385485915263811",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 07时44分]"
-        },
-        {
           "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
           "url": "https://wallstreetcn.com/articles/3776903",
           "source": "华尔街见闻",
@@ -54,8 +41,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 07时44分]"
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 09时29分]"
+        },
+        {
+          "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
+          "url": "https://www.zhihu.com/question/2060385485915263811",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4,
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 09时29分]"
         },
         {
           "title": "美联储主席沃什国会首秀讲稿：誓言驯服通胀 看好AI投资红利",
@@ -67,8 +68,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 07时44分]"
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 09时29分]"
         },
         {
           "title": "AI生成环卫工照片获摄影比赛一等奖",
@@ -82,8 +83,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 07时44分]"
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 09时29分]"
         },
         {
           "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
@@ -95,8 +96,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 07时44分]"
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 09时29分]"
         },
         {
           "title": "UP主解读AI浪潮下的资本周期",
@@ -107,11 +108,12 @@
             8,
             10,
             28,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 07时44分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 09时29分]"
         },
         {
           "title": "摩根大通敦促员工慎用高价AI处理简单任务，企业高管开始忧心成本",
@@ -224,7 +226,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -235,7 +237,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -290,7 +292,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -301,7 +303,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
