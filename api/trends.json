@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T19:39:48.001432+08:00",
-  "total_titles_processed": 1527,
+  "generated_at": "2026-07-16T21:24:35.361189+08:00",
+  "total_titles_processed": 1669,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
@@ -57,11 +57,12 @@
             10,
             9,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时51分 ~ 19时39分]"
+          "appearance_count": 8,
+          "time_info": "[06时51分 ~ 21时24分]"
         },
         {
           "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
@@ -145,7 +146,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -159,6 +160,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
+        },
+        {
+          "title": "花钱就看这?功夫女足公开用AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            13,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时53分 ~ 21时24分]"
         },
         {
           "title": "AirNow：美国纽约市空气质量指数现在为“中等”。",
@@ -185,18 +200,43 @@
           "time_info": "[09时50分 ~ 17时59分]"
         },
         {
-          "title": "花钱就看这?功夫女足公开用AI",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
-          "source": "贴吧",
+          "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586841",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
+            16,
             13,
-            18,
-            22
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时53分 ~ 19时39分]"
+          "appearance_count": 3,
+          "time_info": "[17时59分 ~ 21时24分]"
+        },
+        {
+          "title": "WAIC前夕看全球AI治理变局：拒绝“富国游戏”，规则之争加快",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33590679",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时59分 ~ 21时24分]"
+        },
+        {
+          "title": "披着AI外衣的现实短片",
+          "url": "https://www.douyin.com/hot/2573340",
+          "source": "抖音",
+          "ranks": [
+            14,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时59分 ~ 21时24分]"
         },
         {
           "title": "周三（7月15日），美股信息科技指数跌3.43%，报398.76点。成分股中，戴尔科技收跌9.80%，与西部数据、闪迪、美光科技、Lumentum表现最差，甲骨文涨3.56%、与苹果领跑。 人工智能（AI）赢家指数跌2.51%，报400.58点。成分股中，戴尔、西数、闪迪、美光、Lumentum领跌，Meta、谷歌A、甲骨文领涨。 AI软件先驱指数跌0.18%，报110.87点。成分股MongoDB收跌3.37%，领跌，甲骨文领涨。",
@@ -209,42 +249,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时51分 ~ 06时51分]"
-        },
-        {
-          "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586841",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时59分 ~ 19时39分]"
-        },
-        {
-          "title": "披着AI外衣的现实短片",
-          "url": "https://www.douyin.com/hot/2573340",
-          "source": "抖音",
-          "ranks": [
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时59分 ~ 19时39分]"
-        },
-        {
-          "title": "WAIC前夕看全球AI治理变局：拒绝“富国游戏”，规则之争加快",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33590679",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时59分 ~ 19时39分]"
         },
         {
           "title": "xAI：Grok Build现在开源",
@@ -333,7 +337,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -459,6 +463,17 @@
           "time_info": "12时53分"
         },
         {
+          "title": "世界AI大会将如何影响你的钱袋子",
+          "url": "https://www.toutiao.com/trending/7662915305316499475/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
           "title": "演员自曝刚当上男主就被AI抢了工作",
           "url": "https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E8%87%AA%E6%9B%9D%E5%88%9A%E5%BD%93%E4%B8%8A%E7%94%B7%E4%B8%BB%E5%B0%B1%E8%A2%ABAI%E6%8A%A2%E4%BA%86%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -501,6 +516,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        },
+        {
+          "title": "诺基亚与英伟达推出商用AI-RAN平台",
+          "url": "https://www.toutiao.com/trending/7661847683241885750/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         },
         {
           "title": "百度文库、网盘将亮相WAIC2026GenFlow将面向专业人群升级上线独立AI产品",
