@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T05:04:51.123848+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-07-17T07:52:34.842404+08:00",
+  "total_titles_processed": 628,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "经纬度：在上海，WAIC见证人工智能改变未来",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 07时52分]"
         },
         {
           "title": "业绩预增、再签新单 AI芯片三龙头携手“报喜”",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 07时52分]"
         },
         {
           "title": "超300款全球首发AI产品即将亮相",
@@ -47,7 +47,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -68,11 +68,12 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 07时52分]"
         },
         {
           "title": "WAIC前夕看全球AI治理变局：拒绝“富国游戏”，规则之争加快",
@@ -83,8 +84,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 07时52分]"
         },
         {
           "title": "花钱就看这?功夫女足公开用AI",
@@ -95,8 +96,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 07时52分]"
         },
         {
           "title": "披着AI外衣的现实短片",
@@ -105,22 +106,24 @@
           "ranks": [
             21,
             20,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时58分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[02时58分 ~ 07时52分]"
         },
         {
           "title": "台积电Q2净利润同比增长77.4%大超预期，毛利率达67.7%，AI芯片需求强劲势头持续 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3777092",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 07时52分]"
         },
         {
           "title": "GoodVision AI将在日本打造100 MW规模的AI工厂。",
@@ -156,6 +159,17 @@
           "time_info": "01时06分"
         },
         {
+          "title": "财晓得｜中国AI跑出加速度背后的四重底气",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33591307",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
           "title": "谷歌(GOOG.O)在美国上线搜索AI模式应用集成功能，支持与更多应用协同。",
           "url": "https://flash.jin10.com/detail/20260717001129809800",
           "source": "金十数据",
@@ -165,6 +179,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        },
+        {
+          "title": "据CNBC：微软(MSFT.O)首席执行官告诉员工，Anthropic对Fable AI模型用户的请求限制毫无意义。",
+          "url": "https://flash.jin10.com/detail/20260717070018376800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
         },
         {
           "title": "欧盟要求谷歌开放安卓AI功能并共享搜索数据",
