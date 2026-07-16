@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T04:01:49.514132+08:00",
-  "total_titles_processed": 446,
+  "generated_at": "2026-07-17T05:04:51.123848+08:00",
+  "total_titles_processed": 502,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "经纬度：在上海，WAIC见证人工智能改变未来",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 05时04分]"
         },
         {
           "title": "业绩预增、再签新单 AI芯片三龙头携手“报喜”",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 05时04分]"
         },
         {
           "title": "超300款全球首发AI产品即将亮相",
@@ -37,8 +37,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 05时04分]"
+        },
+        {
+          "title": "DeepMind提设国际AI模型审查机构 马斯克和奥尔特曼表支持",
+          "url": "https://flash.jin10.com/detail/20260717045325097800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         },
         {
           "title": "OpenAI董事长：IPO时间暂无最新消息",
@@ -60,8 +71,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 05时04分]"
         },
         {
           "title": "WAIC前夕看全球AI治理变局：拒绝“富国游戏”，规则之争加快",
@@ -72,8 +83,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 05时04分]"
         },
         {
           "title": "花钱就看这?功夫女足公开用AI",
@@ -84,8 +95,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 05时04分]"
         },
         {
           "title": "披着AI外衣的现实短片",
@@ -93,11 +104,23 @@
           "source": "抖音",
           "ranks": [
             21,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时58分 ~ 04时01分]"
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 05时04分]"
+        },
+        {
+          "title": "台积电Q2净利润同比增长77.4%大超预期，毛利率达67.7%，AI芯片需求强劲势头持续 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777092",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         },
         {
           "title": "GoodVision AI将在日本打造100 MW规模的AI工厂。",
