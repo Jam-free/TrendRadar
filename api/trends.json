@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T01:52:19.193133+08:00",
-  "total_titles_processed": 365,
+  "generated_at": "2026-07-20T02:54:23.208832+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
@@ -8,27 +8,29 @@
       "match_count": 10,
       "titles": [
         {
-          "title": "用AI预测西班牙vs阿根廷",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%A2%84%E6%B5%8B%E8%A5%BF%E7%8F%AD%E7%89%99vs%E9%98%BF%E6%A0%B9%E5%BB%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时52分]"
-        },
-        {
           "title": "如何看待 OpenAI 战略未来负责人对 kimi k3 开源的公开发言？",
           "url": "https://www.zhihu.com/question/2062166923002090163",
           "source": "知乎",
           "ranks": [
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 02时54分]"
+        },
+        {
+          "title": "用AI预测西班牙vs阿根廷",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%A2%84%E6%B5%8B%E8%A5%BF%E7%8F%AD%E7%89%99vs%E9%98%BF%E6%A0%B9%E5%BB%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 02时54分]"
         },
         {
           "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
@@ -38,8 +40,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 02时54分]"
         },
         {
           "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
@@ -49,8 +51,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 02时54分]"
         },
         {
           "title": "华为、阿里等集体亮剑 超节点多成果亮相WAIC 国产算力向互联和系统集成延伸",
@@ -60,19 +62,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时52分]"
-        },
-        {
-          "title": "人工智能换了一种“打开方式”|WAIC观察",
-          "url": "https://www.cls.cn/detail/2430557",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 02时54分]"
         },
         {
           "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
@@ -80,11 +71,24 @@
           "source": "知乎",
           "ranks": [
             16,
-            17
+            17,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 02时54分]"
+        },
+        {
+          "title": "人工智能换了一种“打开方式”|WAIC观察",
+          "url": "https://www.cls.cn/detail/2430557",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 02时54分]"
         },
         {
           "title": "Kimi K3让全球AI圈炸锅了",
@@ -92,11 +96,12 @@
           "source": "今日头条",
           "ranks": [
             20,
-            21
+            21,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 02时54分]"
         },
         {
           "title": "毕马威中国主席：AI正加速转变为经济增长的核心引擎",
