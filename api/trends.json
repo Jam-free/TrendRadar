@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-07-20T07:50:41.480029+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2026-07-20T10:09:35.774288+08:00",
+  "total_titles_processed": 827,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777355",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时47分 ~ 10时09分]"
+        },
+        {
+          "title": "人工智能换了一种“打开方式”|WAIC观察",
+          "url": "https://www.cls.cn/detail/2430557",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时47分 ~ 10时09分]"
+        },
         {
           "title": "如何看待 OpenAI 战略未来负责人对 kimi k3 开源的公开发言？",
           "url": "https://www.zhihu.com/question/2062166923002090163",
@@ -17,32 +44,6 @@
             5,
             13,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时47分 ~ 07时50分]"
-        },
-        {
-          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777355",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时47分 ~ 07时50分]"
-        },
-        {
-          "title": "人工智能换了一种“打开方式”|WAIC观察",
-          "url": "https://www.cls.cn/detail/2430557",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10,
-            8
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -87,6 +88,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时47分 ~ 07时50分]"
+        },
+        {
+          "title": "AI服务器、算力租赁概念大幅走强，浪潮信息、行云科技、利通电子、杭钢股份、紫光股份、美利云、浙大网新等多股涨停，亚康股份、首都在线、宏景科技等涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3136464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "从算力底座到应用现场，上海AI跑出产业正循环生态",
@@ -155,7 +167,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -166,7 +178,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -180,6 +192,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "全美出现数据中心出售潮，「反数据中心运动」又向红蓝州同时蔓延，这会对市场和 AI 产业形成多大影响？",
+          "url": "https://www.zhihu.com/question/2062127994513183627",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33616683",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         }
       ]
     }
