@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T07:50:14.414366+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2026-07-21T09:52:00.153911+08:00",
+  "total_titles_processed": 758,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "尾盘变盘！上证50大涨超3%，“煤电酒油”爆发，科技股再度下跌，恒指、恒科指均涨超2%，AI大模型股逆势下挫",
@@ -16,8 +16,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时25分 ~ 07时50分]"
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 09时52分]"
+        },
+        {
+          "title": "WAIC预计达成超200亿元意向采购金额",
+          "url": "https://s.weibo.com/weibo?q=%23WAIC%E9%A2%84%E8%AE%A1%E8%BE%BE%E6%88%90%E8%B6%85200%E4%BA%BF%E5%85%83%E6%84%8F%E5%90%91%E9%87%87%E8%B4%AD%E9%87%91%E9%A2%9D%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时49分 ~ 09时52分]"
         },
         {
           "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
@@ -43,6 +54,32 @@
           "time_info": "[01时25分 ~ 05时03分]"
         },
         {
+          "title": "AI不准用,日本漫画家被迫停更",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356343&amp;topic_name=AI%E4%B8%8D%E5%87%86%E7%94%A8%2C%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB%E5%AE%B6%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 09时52分]"
+        },
+        {
+          "title": "王祖贤肖像授权网易AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356337&amp;topic_name=%E7%8E%8B%E7%A5%96%E8%B4%A4%E8%82%96%E5%83%8F%E6%8E%88%E6%9D%83%E7%BD%91%E6%98%93AI",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 09时52分]"
+        },
+        {
           "title": "清华姚班 全球AI半壁江山",
           "url": "https://s.weibo.com/weibo?q=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%20%E5%85%A8%E7%90%83AI%E5%8D%8A%E5%A3%81%E6%B1%9F%E5%B1%B1&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -58,39 +95,15 @@
           "time_info": "[01时25分 ~ 07时50分]"
         },
         {
-          "title": "WAIC预计达成超200亿元意向采购金额",
-          "url": "https://s.weibo.com/weibo?q=%23WAIC%E9%A2%84%E8%AE%A1%E8%BE%BE%E6%88%90%E8%B6%85200%E4%BA%BF%E5%85%83%E6%84%8F%E5%90%91%E9%87%87%E8%B4%AD%E9%87%91%E9%A2%9D%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
+          "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
+          "url": "https://www.cls.cn/detail/2431896",
+          "source": "财联社热门",
           "ranks": [
-            3
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时49分 ~ 07时50分]"
-        },
-        {
-          "title": "AI不准用,日本漫画家被迫停更",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356343&amp;topic_name=AI%E4%B8%8D%E5%87%86%E7%94%A8%2C%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB%E5%AE%B6%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时25分 ~ 07时50分]"
-        },
-        {
-          "title": "王祖贤肖像授权网易AI",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356337&amp;topic_name=%E7%8E%8B%E7%A5%96%E8%B4%A4%E8%82%96%E5%83%8F%E6%8E%88%E6%9D%83%E7%BD%91%E6%98%93AI",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时25分 ~ 07时50分]"
+          "time_info": "[09时51分 ~ 09时52分]"
         },
         {
           "title": "建议普通人都尽早用上AI",
@@ -159,8 +172,19 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时49分 ~ 09时52分]"
+        },
+        {
+          "title": "超节点、超集群、TPU方案涌现 算力“拼系统”时代产业最关心Token性价比|WAIC观察",
+          "url": "https://www.cls.cn/detail/2432010",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时49分 ~ 07时50分]"
+          "time_info": "[09时51分 ~ 09时52分]"
         },
         {
           "title": "英国政府任命Wes Streeting为国防大臣。 任命Stephen Kinnock为威尔士事务大臣。 任命Chris Bryant为北爱尔兰事务大臣。 任命Ellie Reeves为总检察长。 任命Emma Reynolds为财政部首席秘书。 任命Kanishka Narayan为人工智能（AI）部长。 任命Hamish Falconer为欧洲关系部长。",
