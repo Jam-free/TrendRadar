@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T07:55:06.607570+08:00",
-  "total_titles_processed": 533,
+  "generated_at": "2026-07-27T10:05:06.589797+08:00",
+  "total_titles_processed": 682,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "侵权零成本!电竞选手遭AI换脸",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 07时55分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 10时05分]"
         },
         {
           "title": "不要长期向AI倾泻心事",
@@ -26,22 +26,12 @@
             6,
             4,
             5,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 07时55分]"
-        },
-        {
-          "title": "AI还要跌多久",
-          "url": "https://wallstreetcn.com/articles/3777943",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 07时55分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 10时05分]"
         },
         {
           "title": "AI冲击短剧行业 “戏王”也扛不住了",
@@ -52,11 +42,23 @@
             10,
             8,
             15,
-            16
+            16,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 07时55分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 10时05分]"
+        },
+        {
+          "title": "AI还要跌多久",
+          "url": "https://wallstreetcn.com/articles/3777943",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 10时05分]"
         },
         {
           "title": "谁还没跳ACAI拖拉机舞",
@@ -67,11 +69,12 @@
             21,
             19,
             22,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 07时55分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 10时05分]"
         },
         {
           "title": "中国AI反超,老美急眼下黑手",
@@ -82,8 +85,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 07时55分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 10时05分]"
         },
         {
           "title": "AI短剧《被裁掉的女孩》播放破2亿",
@@ -107,7 +110,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -118,7 +121,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -129,7 +132,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -160,6 +163,29 @@
           "time_info": "[00时52分 ~ 05时52分]"
         },
         {
+          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
+          "url": "https://www.cls.cn/detail/2437061",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时54分 ~ 10时05分]"
+        },
+        {
+          "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33662817",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
+        },
+        {
           "title": "“停火期间”发胜利AI图，伊媒指特朗普“投资”虚拟火力",
           "url": "https://flash.jin10.com/detail/20260727043919947800",
           "source": "金十数据",
@@ -184,15 +210,15 @@
           "time_info": "[05时52分 ~ 06时52分]"
         },
         {
-          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
-          "url": "https://www.cls.cn/detail/2437061",
+          "title": "李在明喊话：AI是韩国的“新火种”！9500亿美元芯片大单应声落地",
+          "url": "https://www.cls.cn/detail/2437139",
           "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时54分 ~ 07时55分]"
+          "time_info": "[10时04分 ~ 10时05分]"
         },
         {
           "title": "特朗普在社交平台上发布了一张飞机袭击哈尔克岛的AI图片。",
@@ -205,6 +231,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时52分 ~ 06时52分]"
+        },
+        {
+          "title": "马斯克：未来某个时刻中国极有可能成为AI领导者，美国就算禁用中国模型也挡不住",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33661243",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
+        },
+        {
+          "title": "2026 年菲尔兹奖会成为「最后一届没有 AI 的菲尔兹奖」吗？",
+          "url": "https://www.zhihu.com/question/2062890686072845429",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
         },
         {
           "title": "假如莫奈遇上AI机器人",
