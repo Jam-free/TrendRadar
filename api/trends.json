@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-29T07:53:16.348950+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-07-29T09:49:09.064358+08:00",
+  "total_titles_processed": 718,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "关键时刻惠誉也来泼冷水：AI市场回调正成为全球主要信用风险",
           "url": "https://www.cls.cn/detail/2439291",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 07时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时27分 ~ 09时49分]"
         },
         {
           "title": "AI泡沫的金丝雀，刚刚死去.....",
@@ -25,11 +26,50 @@
           "ranks": [
             5,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 07时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时27分 ~ 09时49分]"
+        },
+        {
+          "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
+          "url": "https://wallstreetcn.com/articles/3778106",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时27分 ~ 09时49分]"
+        },
+        {
+          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
+          "url": "https://wallstreetcn.com/articles/3778088",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时27分 ~ 09时49分]"
+        },
+        {
+          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
+          "url": "https://www.cls.cn/detail/2439531",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时52分 ~ 09时49分]"
         },
         {
           "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
@@ -44,18 +84,6 @@
           "time_info": "[01时27分 ~ 06时06分]"
         },
         {
-          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
-          "url": "https://wallstreetcn.com/articles/3778088",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 07时53分]"
-        },
-        {
           "title": "印度成首个被AI做空的国家",
           "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E6%88%90%E9%A6%96%E4%B8%AA%E8%A2%ABAI%E5%81%9A%E7%A9%BA%E7%9A%84%E5%9B%BD%E5%AE%B6&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -66,30 +94,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时06分 ~ 07时53分]"
-        },
-        {
-          "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
-          "url": "https://wallstreetcn.com/articles/3778106",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 07时53分]"
-        },
-        {
-          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
-          "url": "https://www.cls.cn/detail/2439531",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 07时53分]"
         },
         {
           "title": "美股收盘：AI概念延续“血色一夜”",
@@ -103,6 +107,20 @@
           "time_info": "[07时52分 ~ 07时53分]"
         },
         {
+          "title": "AI公司 原版书籍销毁",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%85%AC%E5%8F%B8%20%E5%8E%9F%E7%89%88%E4%B9%A6%E7%B1%8D%E9%94%80%E6%AF%81&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            16,
+            27,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时11分 ~ 09时49分]"
+        },
+        {
           "title": "OpenAI越狱代理攻击范围扩大 再曝一公司客户账户遭入侵",
           "url": "https://flash.jin10.com/detail/20260729053516327800",
           "source": "金十数据",
@@ -112,6 +130,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        },
+        {
+          "title": "康宁三季度业绩指引略逊预期 AI光通信业务增速放缓 股价盘中跌近20%",
+          "url": "https://www.cls.cn/detail/2439413",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时11分 ~ 09时49分]"
         },
         {
           "title": "美国千名AI公司员工发联名信 寻求建立协同放缓前沿AI发展的机制",
@@ -142,35 +173,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
-        },
-        {
-          "title": "AI公司 原版书籍销毁",
-          "url": "https://s.weibo.com/weibo?q=AI%E5%85%AC%E5%8F%B8%20%E5%8E%9F%E7%89%88%E4%B9%A6%E7%B1%8D%E9%94%80%E6%AF%81&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时11分 ~ 07时53分]"
-        },
-        {
-          "title": "康宁三季度业绩指引略逊预期 AI光通信业务增速放缓 股价盘中跌近20%",
-          "url": "https://www.cls.cn/detail/2439413",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时11分 ~ 07时53分]"
         },
         {
           "title": "花40亿token做出AI督学官",
@@ -179,11 +184,12 @@
           "ranks": [
             12,
             13,
-            23
+            23,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 06时06分]"
+          "appearance_count": 5,
+          "time_info": "[01时27分 ~ 09时49分]"
         },
         {
           "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
@@ -193,8 +199,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 07时53分]"
+          "appearance_count": 4,
+          "time_info": "[07时52分 ~ 09时49分]"
+        },
+        {
+          "title": "抖火杯AI番外大电影",
+          "url": "https://www.douyin.com/hot/2588435",
+          "source": "抖音",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时52分 ~ 09时49分]"
         },
         {
           "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
@@ -233,17 +251,6 @@
           "time_info": "[01时27分 ~ 06时06分]"
         },
         {
-          "title": "抖火杯AI番外大电影",
-          "url": "https://www.douyin.com/hot/2588435",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 07时53分]"
-        },
-        {
           "title": "SpaceXAI：GROK 4.5现已在GitHub Copilot上发布。",
           "url": "https://flash.jin10.com/detail/20260729050426478800",
           "source": "金十数据",
@@ -261,7 +268,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -283,7 +290,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -316,7 +323,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -327,7 +334,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -352,6 +359,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "在Hugging Face安全事件期间访问了第三方系统的OpenAI Agent，触及了与CyberGym相关的基础设施；而CyberGym正是该Agent当时被指定解答的ExploitGym基准测试背后的项目。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3141298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "SK海力士：将积极应对AI存储领域不断演进的需求。 受监管流程影响，ADR转换可能会受到限制。 SK海力士正在评估各种股东回报方案。",
+          "url": "https://wallstreetcn.com/livenews/3141297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         }
       ]
     }
