@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T20:43:09.932872+08:00",
-  "total_titles_processed": 1420,
+  "generated_at": "2026-08-07T23:46:21.370669+08:00",
+  "total_titles_processed": 1585,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 42,
+      "match_count": 49,
       "titles": [
         {
           "title": "“存储三巨头”2027产能已售罄？消息人士：一些AI公司已在“跪求芯片”",
@@ -23,17 +23,6 @@
           "time_info": "[12时49分 ~ 20时43分]"
         },
         {
-          "title": "美前国防官员撰文炒作“中国AI威胁”，专家：贼喊捉贼",
-          "url": "https://news.ifeng.com/c/8vNCMzGV09R",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时51分 ~ 07时52分]"
-        },
-        {
           "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
           "url": "https://news.ifeng.com/c/8vOieX1f4iR",
           "source": "凤凰网",
@@ -43,8 +32,35 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时53分 ~ 20时43分]"
+          "appearance_count": 6,
+          "time_info": "[17时53分 ~ 23时46分]"
+        },
+        {
+          "title": "中国人能飞AI版vs实拍版",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            25,
+            14,
+            13,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时08分 ~ 23时46分]"
+        },
+        {
+          "title": "美前国防官员撰文炒作“中国AI威胁”，专家：贼喊捉贼",
+          "url": "https://news.ifeng.com/c/8vNCMzGV09R",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
         },
         {
           "title": "沪指冲高回落涨0.6%，煤炭掀涨停潮，贵金属集体大涨，半导体材料再拉升，恒科指跌超2%，AI大模型双雄逆势拉升",
@@ -58,21 +74,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时51分 ~ 16时08分]"
-        },
-        {
-          "title": "中国人能飞AI版vs实拍版",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            25,
-            14,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时08分 ~ 20时43分]"
         },
         {
           "title": "备战年底“九合一”选举，国民党推出AI发言人“郑小文”",
@@ -110,6 +111,31 @@
           "time_info": "16时08分"
         },
         {
+          "title": "AI大模型迈向分时定价",
+          "url": "https://flash.jin10.com/detail/20260807231850535800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
+          "url": "https://www.cls.cn/detail/2448537",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时44分 ~ 23时46分]"
+        },
+        {
           "title": "福兮祸兮？美国科学家首次用AI设计出新型病毒……",
           "url": "https://www.cls.cn/detail/2448228",
           "source": "财联社热门",
@@ -144,19 +170,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时06分 ~ 16时08分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
-          "url": "https://www.cls.cn/detail/2448537",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时44分 ~ 20时43分]"
         },
         {
           "title": "美银CEO：美联储年内或连加三次息，但AI投资不会因高利率踩刹车",
@@ -324,6 +337,17 @@
           "time_info": "[07时51分 ~ 07时52分]"
         },
         {
+          "title": "AI大模型迈向分时定价",
+          "url": "https://wallstreetcn.com/livenews/3146821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "机构：2026年AI服务器出货量增幅上调至近31%",
           "url": "https://flash.jin10.com/detail/20260807121555798800",
           "source": "金十数据",
@@ -346,6 +370,39 @@
           "time_info": "17时53分"
         },
         {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850591&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/08/jwXasxMKTX0anRNXTKMOK.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260807230423204800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "大厂“集中兵力”抢入口 AI办公赛道突然“挤”了起来",
+          "url": "https://www.cls.cn/detail/2448766",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "国民党推出AI发言人“郑小文”迎战民进党",
+          "url": "https://news.ifeng.com/c/8vP4WV73BTc",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "美联储盯上AI投资狂潮：不是2008年泡沫，但金融风险正在升温",
           "url": "https://flash.jin10.com/detail/20260807093601749800",
           "source": "金十数据",
@@ -363,9 +420,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
+        },
+        {
+          "title": "释疑｜建多少数据中心才够？美国AI基建热潮撞上“社区保卫战”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33729568",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "戚薇 AI漫剧",
@@ -399,6 +467,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "美团王莆中：在AI助力下将建设“15分钟医疗圈",
+          "url": "https://wallstreetcn.com/livenews/3146803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "美科学家用AI设计出病毒意味着什么",
