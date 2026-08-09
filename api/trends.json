@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T17:31:59.345616+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2026-08-09T18:24:53.551142+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时26分 ~ 17时31分]"
+          "appearance_count": 11,
+          "time_info": "[11时26分 ~ 18时24分]"
         },
         {
           "title": "爆仓之后，资本反而扑向\"AI股神\"",
@@ -34,21 +34,6 @@
           "time_info": "[01时22分 ~ 09时02分]"
         },
         {
-          "title": "AI快问快答,D老师语出惊人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            7,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时22分 ~ 17时31分]"
-        },
-        {
           "title": "几元成本的AI广告导致千万市值蒸发",
           "url": "https://www.baidu.com/s?wd=%E5%87%A0%E5%85%83%E6%88%90%E6%9C%AC%E7%9A%84AI%E5%B9%BF%E5%91%8A%E5%AF%BC%E8%87%B4%E5%8D%83%E4%B8%87%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
           "source": "百度热搜",
@@ -58,6 +43,33 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时22分 ~ 06时20分]"
+        },
+        {
+          "title": "AI快问快答,D老师语出惊人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            7,
+            11,
+            12,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[01时22分 ~ 18时24分]"
+        },
+        {
+          "title": "首个全国产10万卡AI超集群投用",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E5%85%A8%E5%9B%BD%E4%BA%A710%E4%B8%87%E5%8D%A1AI%E8%B6%85%E9%9B%86%E7%BE%A4%E6%8A%95%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时46分 ~ 18时24分]"
         },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
@@ -85,8 +97,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时22分 ~ 17时31分]"
+          "appearance_count": 19,
+          "time_info": "[01时22分 ~ 18时24分]"
         },
         {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
@@ -102,17 +114,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[01时22分 ~ 17时31分]"
-        },
-        {
-          "title": "首个全国产10万卡AI超集群投用",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E5%85%A8%E5%9B%BD%E4%BA%A710%E4%B8%87%E5%8D%A1AI%E8%B6%85%E9%9B%86%E7%BE%A4%E6%8A%95%E7%94%A8",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时46分 ~ 17时31分]"
         },
         {
           "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
