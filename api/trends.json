@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T13:42:47.332772+08:00",
-  "total_titles_processed": 799,
+  "generated_at": "2026-08-09T14:40:42.197945+08:00",
+  "total_titles_processed": 846,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时22分 ~ 13时42分]"
+          "appearance_count": 13,
+          "time_info": "[01时22分 ~ 14时40分]"
         },
         {
           "title": "几元成本的AI广告导致千万市值蒸发",
@@ -69,8 +69,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时22分 ~ 13时42分]"
+          "appearance_count": 13,
+          "time_info": "[01时22分 ~ 14时40分]"
         },
         {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
@@ -84,8 +84,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时22分 ~ 13时42分]"
+          "appearance_count": 13,
+          "time_info": "[01时22分 ~ 14时40分]"
         },
         {
           "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
@@ -98,6 +98,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时22分 ~ 07时20分]"
+        },
+        {
+          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
+          "url": "https://wallstreetcn.com/articles/3778996",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 14时40分]"
         },
         {
           "title": "当AI反过来问你问题",
@@ -115,16 +128,16 @@
           "time_info": "[01时22分 ~ 07时20分]"
         },
         {
-          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
-          "url": "https://wallstreetcn.com/articles/3778996",
+          "title": "AI推理前瞻——从基础设施建设到商业化变现",
+          "url": "https://wallstreetcn.com/articles/3778997",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            5
+            8,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时26分 ~ 13时42分]"
+          "time_info": "[12时56分 ~ 14时40分]"
         },
         {
           "title": "Apollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击",
@@ -140,6 +153,18 @@
           "time_info": "[05时22分 ~ 09时02分]"
         },
         {
+          "title": "拯救悲剧股神后又当新娘！Anthropic幕僚长自述：在AI前沿寻找上帝",
+          "url": "https://wallstreetcn.com/articles/3779002",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 14时40分]"
+        },
+        {
           "title": "大爷听AI洒农药 150亩苗一夜枯萎",
           "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E5%90%ACAI%E6%B4%92%E5%86%9C%E8%8D%AF+150%E4%BA%A9%E8%8B%97%E4%B8%80%E5%A4%9C%E6%9E%AF%E8%90%8E",
           "source": "百度热搜",
@@ -151,29 +176,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时02分 ~ 12时57分]"
-        },
-        {
-          "title": "AI推理前瞻——从基础设施建设到商业化变现",
-          "url": "https://wallstreetcn.com/articles/3778997",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 13时42分]"
-        },
-        {
-          "title": "拯救悲剧股神后又当新娘！Anthropic幕僚长自述：在AI前沿寻找上帝",
-          "url": "https://wallstreetcn.com/articles/3779002",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 13时42分]"
         },
         {
           "title": "AI帮你开发以前要花钱的功能",
@@ -262,7 +264,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
         }
