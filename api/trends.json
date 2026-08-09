@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T12:57:08.054142+08:00",
-  "total_titles_processed": 754,
+  "generated_at": "2026-08-09T13:42:47.332772+08:00",
+  "total_titles_processed": 799,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "爆仓之后，资本反而扑向\"AI股神\"",
@@ -29,8 +29,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时22分 ~ 12时57分]"
+          "appearance_count": 12,
+          "time_info": "[01时22分 ~ 13时42分]"
         },
         {
           "title": "几元成本的AI广告导致千万市值蒸发",
@@ -69,8 +69,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时22分 ~ 12时57分]"
+          "appearance_count": 12,
+          "time_info": "[01时22分 ~ 13时42分]"
         },
         {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
@@ -84,8 +84,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时22分 ~ 12时57分]"
+          "appearance_count": 12,
+          "time_info": "[01时22分 ~ 13时42分]"
         },
         {
           "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
@@ -123,8 +123,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 12时57分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 13时42分]"
         },
         {
           "title": "Apollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击",
@@ -153,6 +153,29 @@
           "time_info": "[09时02分 ~ 12时57分]"
         },
         {
+          "title": "AI推理前瞻——从基础设施建设到商业化变现",
+          "url": "https://wallstreetcn.com/articles/3778997",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时56分 ~ 13时42分]"
+        },
+        {
+          "title": "拯救悲剧股神后又当新娘！Anthropic幕僚长自述：在AI前沿寻找上帝",
+          "url": "https://wallstreetcn.com/articles/3779002",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时56分 ~ 13时42分]"
+        },
+        {
           "title": "AI帮你开发以前要花钱的功能",
           "url": "https://s.weibo.com/weibo?q=AI%E5%B8%AE%E4%BD%A0%E5%BC%80%E5%8F%91%E4%BB%A5%E5%89%8D%E8%A6%81%E8%8A%B1%E9%92%B1%E7%9A%84%E5%8A%9F%E8%83%BD&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -166,17 +189,6 @@
           "time_info": "[07时20分 ~ 11时26分]"
         },
         {
-          "title": "AI推理前瞻——从基础设施建设到商业化变现",
-          "url": "https://wallstreetcn.com/articles/3778997",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 12时57分]"
-        },
-        {
           "title": "AI应用公司毛利故事遭遇首次\"体检\"：Canva主动降速、Figma自吞推理成本",
           "url": "https://wallstreetcn.com/articles/3778990",
           "source": "华尔街见闻",
@@ -187,17 +199,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时02分 ~ 11时26分]"
-        },
-        {
-          "title": "拯救悲剧股神后又当新娘！Anthropic幕僚长自述：在AI前沿寻找上帝",
-          "url": "https://wallstreetcn.com/articles/3779002",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 12时57分]"
         },
         {
           "title": "“热管理”已成AI相关核心技术了吗",
@@ -253,6 +254,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "UP主用AI做了一个播放量预测器",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E5%81%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E6%92%AD%E6%94%BE%E9%87%8F%E9%A2%84%E6%B5%8B%E5%99%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         }
       ]
     }
