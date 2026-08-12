@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T20:47:48.072746+08:00",
-  "total_titles_processed": 1474,
+  "generated_at": "2026-08-12T22:16:18.609877+08:00",
+  "total_titles_processed": 1605,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 55,
+      "match_count": 62,
       "titles": [
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
@@ -17,8 +17,34 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时34分 ~ 20时47分]"
+          "appearance_count": 11,
+          "time_info": "[06时34分 ~ 22时16分]"
+        },
+        {
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时27分 ~ 22时16分]"
+        },
+        {
+          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779219",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时11分 ~ 22时16分]"
         },
         {
           "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
@@ -71,31 +97,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时50分 ~ 15时11分]"
-        },
-        {
-          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779219",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时11分 ~ 20时47分]"
-        },
-        {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时27分 ~ 20时47分]"
         },
         {
           "title": "但斌回应质疑：没有恐慌割肉、没有大幅减仓，对AI从未动摇，依旧满仓坚守",
@@ -323,6 +324,18 @@
           "time_info": "[15时10分 ~ 20时47分]"
         },
         {
+          "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
+          "url": "https://www.cls.cn/detail/2452579",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时47分 ~ 22时16分]"
+        },
+        {
           "title": "国行苹果AI支持机型",
           "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%A1%8C%E8%8B%B9%E6%9E%9CAI%E6%94%AF%E6%8C%81%E6%9C%BA%E5%9E%8B%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -395,6 +408,17 @@
           "time_info": "[01时51分 ~ 02时50分]"
         },
         {
+          "title": "三角洲AI夏日晚会",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2AI%E5%A4%8F%E6%97%A5%E6%99%9A%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 22时16分]"
+        },
+        {
           "title": "OpenAI：ChatGPT在英国、日本、墨西哥、巴西、韩国新增广告内容。",
           "url": "https://wallstreetcn.com/livenews/3148176",
           "source": "华尔街见闻-快讯",
@@ -429,6 +453,17 @@
           "time_info": "00时50分"
         },
         {
+          "title": "中国算电协同航母来了 一度绿电可生成30秒AI文生视频",
+          "url": "https://wallstreetcn.com/livenews/3148666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "企业AI降本新路径：开源模型成本仅为闭源8%",
           "url": "https://flash.jin10.com/detail/20260812150102741800",
           "source": "金十数据",
@@ -438,6 +473,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
+        },
+        {
+          "title": "全球最大单体智算中心投产 一度绿电可生成30秒AI文生视频",
+          "url": "https://flash.jin10.com/detail/20260812215306582800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "Agent经济学拐点：AI Agent电脑操作小时成本已低于离岸人力外包，准确率也更高",
@@ -457,7 +503,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
@@ -473,17 +519,6 @@
           "time_info": "13时27分"
         },
         {
-          "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
-          "url": "https://www.cls.cn/detail/2452579",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
           "title": "Omdia：AI需求激增2026年半导体市场增幅上调至94.1%",
           "url": "https://flash.jin10.com/detail/20260812124218633800",
           "source": "金十数据",
@@ -493,6 +528,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
+        },
+        {
+          "title": "腾讯高管谈AI业务利润：WorkBuddy付费用户毛利率相当不错",
+          "url": "https://wallstreetcn.com/livenews/3148661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "鸿海：预计第三季度营收将同比增长。 预计2026财年收入同比增长。 预计第三季度零部件及其他产品营收将实现显著同比增长。 第三季度AI机架出货量环比增长预计将达到高双位数。 AI基础设施正推动增长，对AI服务器前景持强劲看法。 预计强劲的AI需求将推动全年增长。",
@@ -517,6 +563,17 @@
           "time_info": "13时27分"
         },
         {
+          "title": "腾讯总裁刘炽平再谈微信AI：微信会成为以AI为先的生态系统，有望转化成巨大的价值",
+          "url": "https://wallstreetcn.com/livenews/3148658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "【但斌美股持仓“大换血”】具体操作上，东方港湾海外基金清仓了苹果、三倍做多纳斯达克100ETF、特斯拉、CIRCLE INTERNET GROUP INC等6只标的。同时，其新买入英特尔、闪迪、超威半导体、迈威尔科技、Arm Holdings plc ADR、博通、Lumentum等7只标的，上述标的均为AI硬件相关公司。从整体的持仓情况来看，东方港湾美股第一大重仓股仍为谷歌-C，持仓占其组合的比重约为23%，相比一季度有所减仓。同时，东方港湾还清仓了谷歌-A及二倍做多谷歌ETF。（上证报）",
           "url": "https://wallstreetcn.com/livenews/3148567",
           "source": "华尔街见闻-快讯",
@@ -526,6 +583,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
+        },
+        {
+          "title": "腾讯总裁刘炽平谈AI资本开支增加：多款应用表现良好，已看到明显上行空间",
+          "url": "https://wallstreetcn.com/livenews/3148651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "SpaceXAI：Grok Bot聊天机器人目前处于测试阶段，今日向SuperGrok Heavy、Cursor Ultra和Cursor Teams Premium订阅用户开放，支持桌面端和iOS端使用。",
@@ -636,6 +704,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "腾讯高管谈AI业务利润：WorkBuddy付费用户毛利率相当不错",
+          "url": "https://flash.jin10.com/detail/20260812213921394800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "安徽一男子手搓AI行车记录仪走红",
