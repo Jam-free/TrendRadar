@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T05:37:37.654343+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-08-13T07:32:13.714086+08:00",
+  "total_titles_processed": 579,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时49分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 07时32分]"
         },
         {
           "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
@@ -38,8 +38,22 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时49分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 07时32分]"
+        },
+        {
+          "title": "如何看待杨奇回应《黑神话：钟馗》进度「设计阶段会远离 AIGC 工具，诺兰的奥德赛也是古法创作」？",
+          "url": "https://www.zhihu.com/question/2070508935673378471",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20,
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 07时32分]"
         },
         {
           "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
@@ -54,19 +68,6 @@
           "time_info": "[00时49分 ~ 05时37分]"
         },
         {
-          "title": "如何看待杨奇回应《黑神话：钟馗》进度「设计阶段会远离 AIGC 工具，诺兰的奥德赛也是古法创作」？",
-          "url": "https://www.zhihu.com/question/2070508935673378471",
-          "source": "知乎",
-          "ranks": [
-            19,
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 05时37分]"
-        },
-        {
           "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
           "url": "https://wallstreetcn.com/articles/3779299",
           "source": "华尔街见闻",
@@ -75,8 +76,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时52分 ~ 05时37分]"
+          "appearance_count": 7,
+          "time_info": "[01时52分 ~ 07时32分]"
         },
         {
           "title": "三角洲AI夏日晚会",
@@ -115,6 +116,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时37分 ~ 05时37分]"
+        },
+        {
+          "title": "【早报】美AI概念股飙升；原油微涨、黄金走高；央行：及时谋划出台务实管用的增量政策",
+          "url": "https://www.cls.cn/detail/2452911",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 07时32分]"
         },
         {
           "title": "谷歌高管据悉上周召开“全员”会议，以回应员工关切，解决AI部门重组问题。谷歌联合创始人谢尔盖·布林近几个月来敦促员工专注于将Gemini模型重新带回人工智能前沿。",
