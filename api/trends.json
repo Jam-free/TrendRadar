@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T09:13:01.155923+08:00",
-  "total_titles_processed": 727,
+  "generated_at": "2026-08-13T14:11:02.863101+08:00",
+  "total_titles_processed": 924,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
@@ -23,11 +23,26 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 14时11分]"
+        },
+        {
+          "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
+          "url": "https://wallstreetcn.com/articles/3779299",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 11,
-          "time_info": "[00时49分 ~ 09时13分]"
+          "time_info": "[01时52分 ~ 14时11分]"
         },
         {
           "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
@@ -58,17 +73,16 @@
           "time_info": "[00时49分 ~ 09时13分]"
         },
         {
-          "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
-          "url": "https://wallstreetcn.com/articles/3779299",
-          "source": "华尔街见闻",
+          "title": "【早报】美AI概念股飙升；原油微涨、黄金走高；央行：及时谋划出台务实管用的增量政策",
+          "url": "https://www.cls.cn/detail/2452911",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            8,
-            6
+            10,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时52分 ~ 09时13分]"
+          "appearance_count": 6,
+          "time_info": "[07时31分 ~ 14时11分]"
         },
         {
           "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
@@ -81,18 +95,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时49分 ~ 05时37分]"
-        },
-        {
-          "title": "【早报】美AI概念股飙升；原油微涨、黄金走高；央行：及时谋划出台务实管用的增量政策",
-          "url": "https://www.cls.cn/detail/2452911",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 09时13分]"
         },
         {
           "title": "三角洲AI夏日晚会",
@@ -131,6 +133,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时37分 ~ 05时37分]"
+        },
+        {
+          "title": "谷歌AI健康监测再进化：Pixel Watch 5首推胰岛素抵抗追踪",
+          "url": "https://www.cls.cn/detail/2452850",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时10分 ~ 14时11分]"
+        },
+        {
+          "title": "张朝阳谈AI如何帮助物理研究",
+          "url": "https://www.douyin.com/hot/2607629",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时10分 ~ 14时11分]"
         },
         {
           "title": "美股AI算力和存储芯片爆发",
