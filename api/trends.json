@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T02:26:11.147763+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-18T05:18:38.851426+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI记忆 AI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "大批AI博主停更了",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 02时26分]"
+          "appearance_count": 3,
+          "time_info": "[02时25分 ~ 05时18分]"
         },
         {
-          "title": "如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕？",
-          "url": "https://www.zhihu.com/question/2072607943191696624",
-          "source": "知乎",
+          "title": "美联储加息预期降温，AI情绪回暖，美股指涨跌互现，存储芯片股普涨，金油齐涨",
+          "url": "https://wallstreetcn.com/articles/3779603",
+          "source": "华尔街见闻",
           "ranks": [
+            5,
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 02时26分]"
+          "appearance_count": 3,
+          "time_info": "[02时25分 ~ 05时18分]"
         },
         {
           "title": "AI私服来袭,二游圈传噩耗",
@@ -37,19 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 02时26分]"
-        },
-        {
-          "title": "美联储加息预期降温，AI情绪回暖，美股指涨跌互现，存储芯片股普涨，金油齐涨",
-          "url": "https://wallstreetcn.com/articles/3779603",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 02时26分]"
+          "appearance_count": 3,
+          "time_info": "[02时25分 ~ 05时18分]"
         },
         {
           "title": "巴克莱美国利率策略主管Anshul Pradhan：我们一直反对做空长端抛售，现在依然如此。 要转向建设性观点，需要财政出现下行意外、AI相关发行放缓、财政部发行策略转变，以及经济活动数据持续走软的某种组合。",
@@ -58,9 +48,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕？",
+          "url": "https://www.zhihu.com/question/2072607943191696624",
+          "source": "知乎",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时25分 ~ 05时18分]"
         },
         {
           "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
@@ -70,19 +72,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 02时26分]"
+          "appearance_count": 3,
+          "time_info": "[02时25分 ~ 05时18分]"
         },
         {
           "title": "AI 泡沫会在今年或者明年破裂吗，为什么？",
           "url": "https://www.zhihu.com/question/2063294189954250663",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 02时26分]"
+          "appearance_count": 3,
+          "time_info": "[02时25分 ~ 05时18分]"
+        },
+        {
+          "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
+          "url": "https://www.zhihu.com/question/2061136311206073648",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
         }
       ]
     }
